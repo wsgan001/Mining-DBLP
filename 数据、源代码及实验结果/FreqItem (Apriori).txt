@@ -1,0 +1,10922 @@
+﻿(1) 1 Michael R. Berthold
+
+(1) 3 Bhavana Bharat Dalvi
+
+(1) 4 William W. Cohen
+
+(1) 6 Richard Nock
+
+(1) 8 Frank Nielsen
+
+(1) 11 Einoshin Suzuki
+
+(1) 12 Shusaku Tsumoto
+
+(1) 19 Paolo Frasconi
+
+(1) 20 Fei Tony Liu
+
+(1) 21 Kai Ming Ting
+
+(1) 22 Zhi-Hua Zhou
+
+(1) 24 George Tsatsaronis
+
+(1) 25 Georgios Paliouras
+
+(1) 26 Nenad Tomasev
+
+(1) 27 Dunja Mladenic
+
+(1) 29 Jilles Vreeken
+
+(1) 31 Roni Khardon
+
+(1) 34 Jan N. van Rijn
+
+(1) 35 Joaquin Vanschoren
+
+(1) 38 Wagner Meira Jr.
+
+(1) 39 Mohammed J. Zaki
+
+(1) 40 Donato Malerba
+
+(1) 41 Michelangelo Ceci
+
+(1) 42 Annalisa Appice
+
+(1) 45 Volker Tresp
+
+(1) 51 Nada Lavrac
+
+(1) 54 Matthew E. Taylor
+
+(1) 55 Kurt Driessens
+
+(1) 56 Karl Tuyls
+
+(1) 60 M. Narasimha Murty
+
+(1) 61 Abdeslam Boularias
+
+(1) 63 Jan Peters 0001
+
+(1) 65 Yann LeCun
+
+(1) 68 Christian Igel
+
+(1) 71 Gerd Stumme
+
+(1) 75 Masashi Sugiyama
+
+(1) 79 Grigorios Tsoumakas
+
+(1) 82 Jiawei Han
+
+(1) 85 Joydeep Ghosh
+
+(1) 91 Alex Alves Freitas
+
+(1) 93 Nikolay I. Nikolaev
+
+(1) 99 Ljupco Todorovski
+
+(1) 100 Saso Dzeroski
+
+(1) 105 Pierre Geurts
+
+(1) 106 Louis Wehenkel
+
+(1) 109 Naonori Ueda
+
+(1) 115 Zhiyong Shen
+
+(1) 116 Hui Li
+
+(1) 117 Yi-Dong Shen
+
+(1) 119 João Gama
+
+(1) 121 Eibe Frank
+
+(1) 122 Ian H. Witten
+
+(1) 125 Wei Fan
+
+(1) 126 Jing Gao
+
+(1) 127 Yong Yu
+
+(1) 132 Johannes Fürnkranz
+
+(1) 133 Jessica Lin 0001
+
+(1) 134 Eamonn J. Keogh
+
+(1) 137 C. Lee Giles
+
+(1) 140 Philip S. Yu
+
+(1) 141 Evgueni N. Smirnov
+
+(1) 144 Stephan Günnemann
+
+(1) 146 Christos Faloutsos
+
+(1) 147 Aleksander Kolcz
+
+(1) 149 Yoav Freund
+
+(1) 154 Peter A. Flach
+
+(1) 155 Nathalie Japkowicz
+
+(1) 156 Stan Matwin
+
+(1) 157 Mohammad M. Masud
+
+(1) 158 Latifur Khan
+
+(1) 159 Bhavani M. Thuraisingham
+
+(1) 161 Tijl De Bie
+
+(1) 162 Nello Cristianini
+
+(1) 163 Tanya Y. Berger-Wolf
+
+(1) 164 Pu Wang
+
+(1) 165 Carlotta Domeniconi
+
+(1) 166 Kathryn B. Laskey
+
+(1) 169 Tom M. Mitchell
+
+(1) 170 Gerhard Paass
+
+(1) 173 Jörg Kindermann
+
+(1) 178 Aleksandar Lazarevic
+
+(1) 179 Zoran Obradovic
+
+(1) 180 Siegfried Nijssen
+
+(1) 181 Tias Guns
+
+(1) 182 Jun Du
+
+(1) 183 Charles X. Ling
+
+(1) 184 Ayan Acharya
+
+(1) 186 Raymond J. Mooney
+
+(1) 188 Matthijs van Leeuwen
+
+(1) 189 Arno Siebes
+
+(1) 195 Kristian Kersting
+
+(1) 196 Zhao Xu
+
+(1) 197 Tao Jiang
+
+(1) 198 Ah-Hwee Tan
+
+(1) 199 Xuan Hong Dang
+
+(1) 201 Ira Assent
+
+(1) 202 Raymond T. Ng
+
+(1) 204 Padraig Cunningham
+
+(1) 207 Daniel Barbará
+
+(1) 210 Kaizhu Huang
+
+(1) 211 Cheng-Lin Liu
+
+(1) 212 Stefan Wrobel
+
+(1) 213 Geoffrey Holmes
+
+(1) 215 Bernhard Pfahringer
+
+(1) 219 Alex Aussem
+
+(1) 221 Pascal Poupart
+
+(1) 222 Tobias Lang 0001
+
+(1) 223 Marc Toussaint
+
+(1) 224 Bing Liu 0001
+
+(1) 225 Yiming Ma
+
+(1) 229 Christel Vrain
+
+(1) 231 Lorenzo Rosasco
+
+(1) 233 Alessandro Verri
+
+(1) 235 Howard J. Hamilton
+
+(1) 240 Jaakko Peltonen
+
+(1) 253 Nikolaj Tatti
+
+(1) 259 Matthew B. Blaschko
+
+(1) 260 Wojciech Zaremba
+
+(1) 261 Arthur Gretton
+
+(1) 269 Deepayan Chakrabarti
+
+(1) 273 Andrzej Skowron
+
+(1) 276 Chang-Shing Perng
+
+(1) 277 Ricardo Vilalta
+
+(1) 278 Sheng Ma
+
+(1) 281 Zbigniew W. Ras
+
+(1) 284 Marco Stolpe
+
+(1) 285 Katharina Morik
+
+(1) 287 Leman Akoglu
+
+(1) 289 Luís Torgo
+
+(1) 293 Christophe G. Giraud-Carrier
+
+(1) 297 Aijun An
+
+(1) 300 Ross D. King
+
+(1) 302 Bhiksha Raj
+
+(1) 303 George Forman
+
+(1) 304 Ira Cohen
+
+(1) 307 Tao Li
+
+(1) 308 Stéphan Clémençon
+
+(1) 310 Emmanuel Müller
+
+(1) 311 Ralph Krieger
+
+(1) 312 Timm Jansen
+
+(1) 313 Thomas Seidl 0001
+
+(1) 315 Vladimir Vovk
+
+(1) 318 Bettina Berendt
+
+(1) 324 Christoph Sawade
+
+(1) 325 Tobias Scheffer
+
+(1) 326 Niels Landwehr
+
+(1) 329 Siyuan Liu
+
+(1) 331 Feida Zhu
+
+(1) 333 Sholom M. Weiss
+
+(1) 334 Nitin Indurkhya
+
+(1) 336 Kuiyu Chang
+
+(1) 343 Amol Ghoting
+
+(1) 344 Srinivasan Parthasarathy
+
+(1) 345 Michele Berlingerio
+
+(1) 352 Mehdi Kaytoue
+
+(1) 356 Sergei O. Kuznetsov
+
+(1) 357 Amedeo Napoli
+
+(1) 358 Neal Lathia
+
+(1) 360 Licia Capra
+
+(1) 362 Taneli Mielikäinen
+
+(1) 363 Heikki Mannila
+
+(1) 364 Yu Zhang 0006
+
+(1) 365 Dit-Yan Yeung
+
+(1) 366 Myra Spiliopoulou
+
+(1) 368 Yannis Theodoridis
+
+(1) 370 Albert Bifet
+
+(1) 371 Ricard Gavaldà
+
+(1) 372 Laurence A. F. Park
+
+(1) 374 Yoshinobu Kawahara
+
+(1) 375 Tomoharu Iwata
+
+(1) 378 Leslie Pack Kaelbling
+
+(1) 382 Derek Greene
+
+(1) 385 Zhouchen Lin
+
+(1) 386 Chao Zhang
+
+(1) 389 Luigi Di Caro
+
+(1) 390 Alejandro Jaimes
+
+(1) 391 Nicola Barbieri
+
+(1) 392 Giuseppe Manco
+
+(1) 395 Pierre Baldi
+
+(1) 396 Fred A. Hamprecht
+
+(1) 398 Limin Yao
+
+(1) 399 Andrew McCallum
+
+(1) 400 Tapio Elomaa
+
+(1) 401 Juho Rousu
+
+(1) 403 Vivekanand Gopalkrishnan
+
+(1) 404 Steven C. H. Hoi
+
+(1) 405 Wee Keong Ng
+
+(1) 410 Yuchang Lu
+
+(1) 424 Ning Zhong
+
+(1) 426 Setsuo Ohsuga
+
+(1) 430 Behzad Golshan
+
+(1) 431 Evimaria Terzi
+
+(1) 434 James Bailey
+
+(1) 435 Kotagiri Ramamohanarao
+
+(1) 437 Shie Mannor
+
+(1) 439 Sebastian Tschiatschek
+
+(1) 440 Franz Pernkopf
+
+(1) 444 Marko Grobelnik
+
+(1) 446 Marc Boullé
+
+(1) 447 Antoine Cornuéjols
+
+(1) 449 Sanjay Chawla
+
+(1) 453 Mingyuan Zhou
+
+(1) 454 Jesse Read
+
+(1) 459 Luc De Raedt
+
+(1) 461 Ata Kabán
+
+(1) 469 Ming Li 0001
+
+(1) 471 Qian Zhang
+
+(1) 479 Martin Atzmueller
+
+(1) 480 Florian Lemmerich
+
+(1) 481 José Bento
+
+(1) 482 Stratis Ioannidis
+
+(1) 483 S. Muthukrishnan
+
+(1) 491 Lei Yu
+
+(1) 496 Alexandros Kalousis
+
+(1) 497 Adam Woznica
+
+(1) 498 Melanie Hilario
+
+(1) 504 Jin Huang
+
+(1) 505 José L. Balcázar
+
+(1) 507 Ioannis P. Vlahavas
+
+(1) 513 Irene Ntoutsi
+
+(1) 515 Meng Fang
+
+(1) 516 Jie Yin
+
+(1) 517 Xingquan Zhu
+
+(1) 528 Thierry Artières
+
+(1) 532 Avinava Dubey
+
+(1) 533 Indrajit Bhattacharya
+
+(1) 534 Shantanu Godbole
+
+(1) 535 Jorge Díez
+
+(1) 536 Juan José del Coz
+
+(1) 537 Antonio Bahamonde
+
+(1) 538 Oscar Luaces
+
+(1) 539 Meelis Kull
+
+(1) 544 Pauli Miettinen
+
+(1) 546 Sunita Sarawagi
+
+(1) 547 Daniel Hernández-Lobato
+
+(1) 548 José Miguel Hernández-Lobato
+
+(1) 550 Pierre Dupont
+
+(1) 551 Marzena Kryszkiewicz
+
+(1) 553 Éric Gaussier
+
+(1) 554 Amaury Habrard
+
+(1) 555 Marc Sebban
+
+(1) 557 Salvatore Ruggieri
+
+(1) 566 Hans-Peter Kriegel
+
+(1) 567 Jörg Sander
+
+(1) 571 Alexandros Nanopoulos
+
+(1) 572 Lars Schmidt-Thieme
+
+(1) 577 Antti Ukkonen
+
+(1) 578 Philipp Kranen
+
+(1) 579 Pieter Abbeel
+
+(1) 582 Martin Wistuba
+
+(1) 583 Nicolas Schilling
+
+(1) 586 Janez Demsar
+
+(1) 588 Blaz Zupan
+
+(1) 590 Ronen Feldman
+
+(1) 592 Robert Gwadera
+
+(1) 596 Michalis Vazirgiannis
+
+(1) 597 Kjetil Nørvåg
+
+(1) 598 David J. Hand
+
+(1) 599 Michail Vlachos
+
+(1) 600 Spiros Papadimitriou
+
+(1) 604 Jean-Gabriel Ganascia
+
+(1) 616 Céline Robardet
+
+(1) 623 Wee Sun Lee
+
+(1) 624 Tze-Yun Leong
+
+(1) 626 Takashi Washio
+
+(1) 629 Hendrik Blockeel
+
+(1) 634 Jan M. Zytkow
+
+(1) 635 Yuhong Guo
+
+(1) 636 Dale Schuurmans
+
+(1) 640 Yuji Matsumoto
+
+(1) 643 Xindong Wu
+
+(1) 654 Klemens Böhm
+
+(1) 655 Anton Dries
+
+(1) 661 Nitesh V. Chawla
+
+(1) 662 Lawrence O. Hall
+
+(1) 672 Djamel A. Zighed
+
+(1) 678 Jan Ramon
+
+(1) 680 Geoffrey J. Gordon
+
+(1) 684 Corrado Loglisci
+
+(1) 685 Pascal Jappy
+
+(1) 696 Stefan Kramer 0001
+
+(1) 698 Maria Halkidi
+
+(1) 703 Frederik Janssen
+
+(1) 704 Francisco S. Melo
+
+(1) 705 Manuel Lopes
+
+(1) 708 Robert D. Nowak
+
+(1) 709 Xiaojin Zhu
+
+(1) 710 Ricco Rakotomalala
+
+(1) 711 Stéphane Lallich
+
+(1) 715 Mohamed Nadif
+
+(1) 722 Paolo Ferragina
+
+(1) 726 Bruno Scherrer
+
+(1) 727 Matthieu Geist
+
+(1) 730 Balaraman Ravindran
+
+(1) 732 Marcos André Gonçalves
+
+(1) 733 Adriano Veloso
+
+(1) 738 Yi Zhang
+
+(1) 741 William Perrizo
+
+(1) 743 Marius Kloft
+
+(1) 744 Shinichi Nakajima
+
+(1) 745 Ulf Brefeld
+
+(1) 748 Franco Turini
+
+(1) 751 Jürgen Schmidhuber
+
+(1) 752 Michèle Sebag
+
+(1) 754 Xinhua Zhang
+
+(1) 755 Tibério S. Caetano
+
+(1) 757 Tianqi Chen
+
+(1) 759 Qiang Yang 0001
+
+(1) 768 Assaf Schuster
+
+(1) 769 Ran Wolff
+
+(1) 771 Petros Drineas
+
+(1) 777 Yoshua Bengio
+
+(1) 778 Kanishka Bhaduri
+
+(1) 779 Kamalika Das
+
+(1) 781 Wenyuan Dai
+
+(1) 782 Gui-Rong Xue
+
+(1) 783 Chi-Hoon Lee
+
+(1) 784 Russell Greiner
+
+(1) 785 Osmar R. Zaïane
+
+(1) 801 Giovanni Semeraro
+
+(1) 802 Nan Du
+
+(1) 803 Hao Wang
+
+(1) 808 Ronny Lempel
+
+(1) 816 Gautam Kunapuli
+
+(1) 817 Jude W. Shavlik
+
+(1) 818 Ulrich Rückert 0002
+
+(1) 821 Hiroshi Mamitsuka
+
+(1) 824 Mark Last
+
+(1) 832 Gholamreza Haffari
+
+(1) 836 Nick Cercone
+
+(1) 838 Jue Wang
+
+(1) 840 Nahum Shimkin
+
+(1) 841 Zheng Zhao
+
+(1) 853 Rémi Munos
+
+(1) 854 Sebastian Thrun
+
+(1) 856 Helge J. Ritter
+
+(1) 864 Piyush Rai
+
+(1) 865 Hal Daumé III
+
+(1) 866 Suresh Venkatasubramanian
+
+(1) 868 Alexandre Lacasse
+
+(1) 869 François Laviolette
+
+(1) 870 Mario Marchand
+
+(1) 872 Sihong Xie
+
+(1) 873 Olivier Verscheure
+
+(1) 874 Jiangtao Ren
+
+(1) 875 Quanquan Gu
+
+(1) 876 Jie Zhou
+
+(1) 880 Peter Tiño
+
+(1) 885 Alexandre d'Aspremont
+
+(1) 887 Jean-Philippe Vert
+
+(1) 888 Deng Cai
+
+(1) 890 Xiaofei He
+
+(1) 891 Xifeng Yan
+
+(1) 897 Nicolas Vayatis
+
+(1) 899 Changyou Chen
+
+(1) 901 Lawrence Carin
+
+(1) 904 Fabrizio Silvestri
+
+(1) 908 Samuel Kaski
+
+(1) 910 Yan Zhou
+
+(1) 912 Murat Kantarcioglu
+
+(1) 918 Eyke Hüllermeier
+
+(1) 931 Shuang-Hong Yang
+
+(1) 932 Hongyuan Zha
+
+(1) 934 Bao-Gang Hu
+
+(1) 935 Hsun-Ping Hsieh
+
+(1) 936 Cheng-Te Li
+
+(1) 937 Shou-De Lin
+
+(1) 938 Tetsuro Morimura
+
+(1) 941 Kenji Doya
+
+(1) 943 Maria-Florina Balcan
+
+(1) 946 David Barber
+
+(1) 948 Wei-Min Shen
+
+(1) 951 Hoang Thanh Lam
+
+(1) 963 Tamás Horváth
+
+(1) 969 Boris Chidlovskii
+
+(1) 973 Debora Donato
+
+(1) 974 Ricardo A. Baeza-Yates
+
+(1) 975 Yiming Yang
+
+(1) 976 Abhay Harpale
+
+(1) 992 Sriraam Natarajan
+
+(1) 993 Wen Jin
+
+(1) 994 Martin Ester
+
+(1) 997 Koji Tsuda
+
+(1) 1001 Francesco Bonchi
+
+(1) 1002 Fosca Giannotti
+
+(1) 1003 Dino Pedreschi
+
+(1) 1006 Dino Ienco
+
+(1) 1007 Pascal Poncelet
+
+(1) 1010 Carlo Zaniolo
+
+(1) 1026 Aristidis Likas
+
+(1) 1028 Sitaram Asur
+
+(1) 1030 Theodoros Lappas
+
+(1) 1031 Aristides Gionis
+
+(1) 1043 Odalric-Ambrym Maillard
+
+(1) 1054 Pang-Ning Tan
+
+(1) 1061 Vibhav Gogate
+
+(1) 1067 René Vidal
+
+(1) 1068 Dan He
+
+(1) 1072 Dominique Gay
+
+(1) 1073 Fabrice Clérot
+
+(1) 1076 Jimeng Sun
+
+(1) 1077 Christopher M. Bishop
+
+(1) 1079 Soumen Chakrabarti
+
+(1) 1082 Mario Boley
+
+(1) 1097 Jun Sakuma
+
+(1) 1105 Ian Davidson
+
+(1) 1106 S. S. Ravi
+
+(1) 1115 Peter Auer
+
+(1) 1116 John Shawe-Taylor
+
+(1) 1123 Ariadna Quattoni
+
+(1) 1124 Shyamsundar Rajaram
+
+(1) 1125 Martin Scholz
+
+(1) 1130 Gautam Das
+
+(1) 1131 Charalampos E. Tsourakakis
+
+(1) 1133 Tina Eliassi-Rad
+
+(1) 1135 Junming Shao
+
+(1) 1136 Christian Böhm
+
+(1) 1137 Qinli Yang
+
+(1) 1138 Claudia Plant
+
+(1) 1142 Stefano Ermon
+
+(1) 1143 John E. Hopcroft
+
+(1) 1146 Patrick Gallinari
+
+(1) 1147 Björn Bringmann
+
+(1) 1148 Albrecht Zimmermann
+
+(1) 1150 Oliver Kramer
+
+(1) 1152 Aleks Jakulin
+
+(1) 1153 Ivan Bratko
+
+(1) 1160 Antoine Bordes
+
+(1) 1161 Nicolas Usunier
+
+(1) 1162 Adam Kowalczyk
+
+(1) 1163 Bhavani Raskutti
+
+(1) 1168 Charles Elkan
+
+(1) 1173 Gustavo E. A. P. A. Batista
+
+(1) 1194 Andreas Hotho
+
+(1) 1196 Ana Paula Appel
+
+(1) 1200 Caetano Traina Jr.
+
+(1) 1202 Toshihiro Kamishima
+
+(1) 1211 Shoji Hirano
+
+(1) 1212 Céline Rouveirol
+
+(1) 1213 Mohammad Gheshlaghi Azar
+
+(1) 1214 Alessandro Lazaric
+
+(1) 1216 Akihiro Inokuchi
+
+(1) 1217 Hiroshi Motoda
+
+(1) 1220 Gholamreza Nakhaeizadeh
+
+(1) 1224 Cédric Archambeau
+
+(1) 1226 Guillaume Bouchard
+
+(1) 1227 Chris H. Q. Ding
+
+(1) 1228 Xiaofeng He
+
+(1) 1229 Horst D. Simon
+
+(1) 1233 Alan Fern
+
+(1) 1234 Prasad Tadepalli
+
+(1) 1238 Hannu Toivonen
+
+(1) 1247 Xue Li
+
+(1) 1256 Seungjin Choi
+
+(1) 1264 Wenliang Du
+
+(1) 1265 Weiwei Cheng
+
+(1) 1268 Jochen Garcke
+
+(1) 1276 Carla P. Gomes
+
+(1) 1277 Bart Selman
+
+(1) 1280 Mark W. Schmidt
+
+(1) 1281 Jean-François Boulicaut
+
+(1) 1283 Christophe Rigotti
+
+(1) 1289 Andreas Argyriou
+
+(1) 1290 Andreas Maurer
+
+(1) 1291 Massimiliano Pontil
+
+(1) 1294 Mehrdad Farajtabar
+
+(1) 1300 Matteo Riondato
+
+(1) 1302 Marek Petrik
+
+(1) 1303 Sridhar Mahadevan
+
+(1) 1306 Xin Jin
+
+(1) 1307 Fuzhen Zhuang
+
+(1) 1309 Qing He
+
+(1) 1310 Zhongzhi Shi
+
+(1) 1312 Tu Bao Ho
+
+(1) 1317 José Ramón Quevedo
+
+(1) 1323 Ali Jalali
+
+(1) 1324 Javad Azimi
+
+(1) 1325 Xiaoli Fern
+
+(1) 1326 Ruofei Zhang
+
+(1) 1331 Natalia V. Andrienko
+
+(1) 1332 Gennady L. Andrienko
+
+(1) 1335 George Karypis
+
+(1) 1340 Toon Calders
+
+(1) 1341 XuanLong Nguyen
+
+(1) 1342 Ling Huang
+
+(1) 1345 Francesco Calabrese
+
+(1) 1348 Fabio Pinelli
+
+(1) 1353 Philip Bachman
+
+(1) 1354 Doina Precup
+
+(1) 1359 Peter Stone
+
+(1) 1363 Thomas G. Dietterich
+
+(1) 1364 Xin Wang 0010
+
+(1) 1371 Neil D. Lawrence
+
+(1) 1373 Daniel Lowd
+
+(1) 1374 Anshumali Shrivastava
+
+(1) 1375 Ping Li 0001
+
+(1) 1378 Kai Puolamäki
+
+(1) 1379 Krzysztof Dembczynski
+
+(1) 1380 Willem Waegeman
+
+(1) 1382 Szymon Jaroszewicz
+
+(1) 1383 Dan A. Simovici
+
+(1) 1386 Bernardo A. Huberman
+
+(1) 1387 José Francisco Martínez Trinidad
+
+(1) 1393 Florence d'Alché-Buc
+
+(1) 1399 KyungHyun Cho
+
+(1) 1400 Tapio Pahikkala
+
+(1) 1412 Ming Ji
+
+(1) 1413 Yizhou Sun
+
+(1) 1414 Marina Danilevsky
+
+(1) 1415 Hua Wang
+
+(1) 1416 Heng Huang
+
+(1) 1417 Yangqiu Song
+
+(1) 1420 Chih-Jen Lin
+
+(1) 1421 Edward Y. Chang
+
+(1) 1427 Gerhard Widmer
+
+(1) 1438 Vladan Radosavljevic
+
+(1) 1439 Slobodan Vucetic
+
+(1) 1440 Mohak Shah
+
+(1) 1441 Evangelos E. Papalexakis
+
+(1) 1442 Nicholas D. Sidiropoulos
+
+(1) 1444 Juanzi Li
+
+(1) 1445 Lizhu Zhou
+
+(1) 1450 Sinno Jialin Pan
+
+(1) 1455 ErHeng Zhong
+
+(1) 1460 Hamed Valizadegan
+
+(1) 1461 Rong Jin
+
+(1) 1462 Anil K. Jain
+
+(1) 1464 Yiming Ying
+
+(1) 1467 Suvrit Sra
+
+(1) 1471 Eric Eaton
+
+(1) 1472 Marie desJardins
+
+(1) 1473 Terran Lane
+
+(1) 1478 Lise Getoor
+
+(1) 1480 Iyad Batal
+
+(1) 1481 Gregory F. Cooper
+
+(1) 1482 Milos Hauskrecht
+
+(1) 1483 Ambuj K. Singh
+
+(1) 1484 Petko Bogdanov
+
+(1) 1491 Ludovic Denoyer
+
+(1) 1492 Philippe Preux
+
+(1) 1495 Marco Saerens
+
+(1) 1499 Joachim M. Buhmann
+
+(1) 1500 Sangkyum Kim
+
+(1) 1504 Jesse Davis
+
+(1) 1518 Amos J. Storkey
+
+(1) 1525 Maximilian Nickel
+
+(1) 1534 Gerhard Neumann
+
+(1) 1535 Manfred Jaeger
+
+(1) 1543 Eli Upfal
+
+(1) 1544 Rakesh Agrawal
+
+(1) 1546 Alexander Hinneburg
+
+(1) 1549 Pedro M. Domingos
+
+(1) 1553 Shai Ben-David
+
+(1) 1564 Ping Luo
+
+(1) 1566 José Hernández-Orallo
+
+(1) 1573 Vojtech Franc
+
+(1) 1576 Elizabeth S. Burnside
+
+(1) 1577 David Page
+
+(1) 1578 Vítor Santos Costa
+
+(1) 1588 Hillol Kargupta
+
+(1) 1590 Krishnamoorthy Sivakumar
+
+(1) 1591 Byung-Hoon Park
+
+(1) 1594 César Ferri
+
+(1) 1601 Mirco Nanni
+
+(1) 1610 Paul Mineiro
+
+(1) 1611 Nikos Karampatziakis
+
+(1) 1621 Alexander Zien
+
+(1) 1622 Nicole Krämer
+
+(1) 1623 Sören Sonnenburg
+
+(1) 1624 Gunnar Rätsch
+
+(1) 1627 Naren Ramakrishnan
+
+(1) 1629 Mahesh V. Joshi
+
+(1) 1630 Ramesh C. Agarwal
+
+(1) 1631 Vipin Kumar
+
+(1) 1641 Geoffrey I. Webb
+
+(1) 1650 Hyungsul Kim
+
+(1) 1658 Irina Rish
+
+(1) 1659 Panagiotis Papapetrou
+
+(1) 1660 Jaideep Srivastava
+
+(1) 1667 Yuxiao Dong
+
+(1) 1668 Jie Tang
+
+(1) 1669 Yang Yang
+
+(1) 1682 Bart Goethals
+
+(1) 1684 Jason Weston
+
+(1) 1689 Haixun Wang
+
+(1) 1690 Jian Pei
+
+(1) 1696 Paolo Avesani
+
+(1) 1698 Ethem Alpaydin
+
+(1) 1700 Gao Cong
+
+(1) 1703 Ioannis Tsamardinos
+
+(1) 1708 Geoff Holmes
+
+(1) 1709 Hardy Kremer
+
+(1) 1715 Stéphane Canu
+
+(1) 1716 Partha Pratim Talukdar
+
+(1) 1717 Koby Crammer
+
+(1) 1718 Atsuyoshi Nakamura
+
+(1) 1722 Luis Talavera
+
+(1) 1739 Motoaki Kawanabe
+
+(1) 1741 Binyamin Rosenfeld
+
+(1) 1742 Moshe Fresko
+
+(1) 1743 Deguang Kong
+
+(1) 1748 Jouni K. Seppänen
+
+(1) 1752 Zhihua Zhang
+
+(1) 1762 Christoph F. Eick
+
+(1) 1766 Dan Roth
+
+(1) 1767 Roberto Trasarti
+
+(1) 1768 Anna Monreale
+
+(1) 1771 Michail G. Lagoudakis
+
+(1) 1776 Tom Heskes
+
+(1) 1778 Kazumi Saito
+
+(1) 1780 Rong Pan
+
+(1) 1781 Maria-Luiza Antonie
+
+(1) 1783 Jefrey Lijffijt
+
+(1) 1784 Massih-Reza Amini
+
+(1) 1798 Hongyu Guo
+
+(1) 1801 Jingu Kim
+
+(1) 1803 Xueqi Cheng
+
+(1) 1804 Ruilin Liu
+
+(1) 1805 Wendy Hui Wang
+
+(1) 1813 Ran El-Yaniv
+
+(1) 1815 Yiyu Yao
+
+(1) 1816 Yonatan Aumann
+
+(1) 1821 Guimei Liu
+
+(1) 1822 Limsoon Wong
+
+(1) 1832 Shuyang Lin
+
+(1) 1837 Michael May
+
+(1) 1839 Pedro Pereira Rodrigues
+
+(1) 1846 Frank Wood
+
+(1) 1848 Gerald DeJong
+
+(1) 1850 Rajhans Samdani
+
+(1) 1852 Shipeng Yu
+
+(1) 1853 Kai Yu
+
+(1) 1855 Chandan K. Reddy
+
+(1) 1856 Salah Rifai
+
+(1) 1858 Pascal Vincent
+
+(1) 1860 Yann Dauphin
+
+(1) 1863 Yanjun Qi
+
+(1) 1864 Bing Bai
+
+(1) 1866 Stanley Kok
+
+(1) 1869 Koen Vanhoof
+
+(1) 1870 Geert Wets
+
+(1) 1873 Henrik Grosskreutz
+
+(1) 1875 Rich Caruana
+
+(1) 1877 Tzu-Kuo Huang
+
+(1) 1878 Jeff G. Schneider
+
+(1) 1880 Sally I. McClean
+
+(1) 1882 Arno J. Knobbe
+
+(1) 1890 Yanghua Xiao
+
+(1) 1891 Wei Wang 0009
+
+(1) 1894 Henry A. Kautz
+
+(1) 1896 Jussara M. Almeida
+
+(1) 1897 Yasuko Matsubara
+
+(1) 1899 Alexander Ilin
+
+(1) 1902 Marc Plantevit
+
+(1) 1903 Bin Cao
+
+(1) 1904 Jian-Tao Sun
+
+(1) 1906 Zheng Chen
+
+(1) 1907 Charles Kemp
+
+(1) 1908 Wouter Duivesteijn
+
+(1) 1912 Zhongfei (Mark) Zhang
+
+(1) 1919 Maguelonne Teisseire
+
+(1) 1924 Min Xiao
+
+(1) 1927 Hiroshi Nakagawa
+
+(1) 1934 Zheng Wang
+
+(1) 1935 Changshui Zhang
+
+(1) 1937 Alessandro Moschitti
+
+(1) 1942 Pavel Laskov
+
+(1) 1945 Feiping Nie
+
+(1) 1946 Xiao Cai
+
+(1) 1947 Ricardo Bezerra de Andrade e Silva
+
+(1) 1954 Arnaud Soulet
+
+(1) 1955 Bruno Crémilleux
+
+(1) 1957 Brigitte Boden
+
+(1) 1962 Jiayuan Huang
+
+(1) 1971 Anand Rangarajan
+
+(1) 1976 Xintao Wu
+
+(1) 1978 Claire Cardie
+
+(1) 1981 Dimitrios Mavroeidis
+
+(1) 1983 Róbert Busa-Fekete
+
+(1) 1984 Balázs Kégl
+
+(1) 1996 Edwin R. Hancock
+
+(1) 1998 Robert L. Grossman
+
+(1) 2003 Henry Tirri
+
+(1) 2006 Khalid El-Arini
+
+(1) 2007 Andrew W. Moore 0001
+
+(1) 2008 Ting Liu
+
+(1) 2016 Shirish Krishnaj Shevade
+
+(1) 2022 Arto Klami
+
+(1) 2027 Chedy Raïssi
+
+(1) 2028 Piew Datta
+
+(1) 2037 Duen Horng Chau
+
+(1) 2048 Jun Zhu
+
+(1) 2049 Bo Zhang
+
+(1) 2052 K. Selçuk Candan
+
+(1) 2053 Yong Liu
+
+(1) 2064 Indre Zliobaite
+
+(1) 2067 Hannes Heikinheimo
+
+(1) 2072 Huzefa Rangwala
+
+(1) 2073 Fabian Mörchen
+
+(1) 2106 Rafael M. Frongillo
+
+(1) 2107 Yoram Singer
+
+(1) 2116 Padhraic Smyth
+
+(1) 2124 Bin Wu
+
+(1) 2128 Jaime G. Carbonell
+
+(1) 2130 Fabrice Guillet
+
+(1) 2132 Henri Briand
+
+(1) 2135 Janardhan Rao Doppa
+
+(1) 2136 Jun Yu
+
+(1) 2138 Tai Sing Lee
+
+(1) 2141 Hsuan-Tien Lin
+
+(1) 2142 Yaser S. Abu-Mostafa
+
+(1) 2143 Nan Zhang 0004
+
+(1) 2148 Ee-Peng Lim
+
+(1) 2161 Peilin Zhao
+
+(1) 2164 Hiroki Arimura
+
+(1) 2165 Setsuo Arikawa
+
+(1) 2184 Aditya Krishna Menon
+
+(1) 2190 Rüdiger Wirth
+
+(1) 2191 Dijun Luo
+
+(1) 2193 Hirotaka Hachiya
+
+(1) 2196 Élisa Fromont
+
+(1) 2201 András György
+
+(1) 2202 Jan Rauch
+
+(1) 2204 Martha White
+
+(1) 2205 Mark A. Hall
+
+(1) 2206 Chris Clifton
+
+(1) 2212 Marie-Christine Rousset
+
+(1) 2219 Gianluca Bontempi
+
+(1) 2221 Kai-Wei Chang
+
+(1) 2222 S. Sundararajan
+
+(1) 2223 S. Sathiya Keerthi
+
+(1) 2224 Raghu Ramakrishnan
+
+(1) 2228 Jeffrey Chan
+
+(1) 2232 András Lörincz
+
+(1) 2236 Xia Ning
+
+(1) 2238 Thomas Gärtner
+
+(1) 2240 Dimitrios Gunopulos
+
+(1) 2245 Mitsunori Ogihara
+
+(1) 2251 Fritz Wysotzki
+
+(1) 2267 Miguel Á. Carreira-Perpiñán
+
+(1) 2270 Graham W. Taylor
+
+(1) 2274 Wolfram Burgard
+
+(1) 2281 Tim Oates
+
+(1) 2282 Bilal Piot
+
+(1) 2283 Olivier Pietquin
+
+(1) 2286 Guoji Zhang
+
+(1) 2287 Alekh Agarwal
+
+(1) 2293 Jure Leskovec
+
+(1) 2294 Jon M. Kleinberg
+
+(1) 2296 Georgiana Ifrim
+
+(1) 2307 Shivakumar Vaithyanathan
+
+(1) 2313 Nico Görnitz
+
+(1) 2318 Ella Bingham
+
+(1) 2323 Willi Klösgen
+
+(1) 2330 Erkki Oja
+
+(1) 2335 Stefano Ferilli
+
+(1) 2337 Floriana Esposito
+
+(1) 2342 Xiaohai Sun
+
+(1) 2356 Mohammed Javeed Zaki
+
+(1) 2357 Charu C. Aggarwal
+
+(1) 2362 Nam Nguyen
+
+(1) 2370 Gemma C. Garriga
+
+(1) 2373 Christian Bauckhage
+
+(1) 2376 Ali Ghodsi
+
+(1) 2379 Frans Coenen
+
+(1) 2381 Paul H. Leng
+
+(1) 2387 Carlos Castillo
+
+(1) 2388 Andrew Gordon Wilson
+
+(1) 2389 Zoubin Ghahramani
+
+(1) 2391 Eric P. Xing
+
+(1) 2392 Alexander G. Hauptmann
+
+(1) 2400 Longin Jan Latecki
+
+(1) 2404 Chotirat (Ann) Ratanamahatana
+
+(1) 2406 Douglas Eck
+
+(1) 2410 Christian R. Shelton
+
+(1) 2414 Paul D. Scott
+
+(1) 2425 Yu-Feng Li
+
+(1) 2426 James T. Kwok
+
+(1) 2427 Ivor W. Tsang
+
+(1) 2428 Nan Li
+
+(1) 2429 Yang Yu
+
+(1) 2434 B. Aditya Prakash
+
+(1) 2435 Hanghang Tong
+
+(1) 2438 Xiangliang Zhang
+
+(1) 2440 Yuh-Jyh Hu
+
+(1) 2441 Xiaoxiao Shi
+
+(1) 2454 Jonathan P. How
+
+(1) 2458 Longbing Cao
+
+(1) 2459 Chengqi Zhang
+
+(1) 2468 Francesco Gullo
+
+(1) 2470 Andrea Tagarelli
+
+(1) 2471 Zhenhui Li
+
+(1) 2477 Jurgen Van Gael
+
+(1) 2478 Ralf Herbrich
+
+(1) 2479 Thore Graepel
+
+(1) 2483 Daniel Paurat
+
+(1) 2484 Shengbo Guo
+
+(1) 2485 Scott Sanner
+
+(1) 2486 Wray L. Buntine
+
+(1) 2488 Nicola Di Mauro
+
+(1) 2491 Jan Van den Bussche
+
+(1) 2492 Maurice Bruynooghe
+
+(1) 2501 Ron Kohavi
+
+(1) 2504 Mahito Sugiyama
+
+(1) 2509 Léon Bottou
+
+(1) 2511 Paulo J. Azevedo
+
+(1) 2512 Thorsten Joachims
+
+(1) 2517 Gerhard Weikum
+
+(1) 2526 Pavel Brazdil
+
+(1) 2528 Manish Gupta
+
+(1) 2530 Steffen Grünewälder
+
+(1) 2531 Hannes Nickisch
+
+(1) 2532 Klaus Obermayer
+
+(1) 2541 Ad Feelders
+
+(1) 2542 Michael I. Jordan
+
+(1) 2547 Neel Sundaresan
+
+(1) 2551 Bernhard Schölkopf
+
+(1) 2552 Eleazar Eskin
+
+(1) 2553 Christina S. Leslie
+
+(1) 2554 William Stafford Noble
+
+(1) 2556 Stefan Rüping
+
+(1) 2560 Dario García-García
+
+(1) 2561 Raúl Santos-Rodríguez
+
+(1) 2567 Cynthia Rudin
+
+(1) 2581 Aris Anagnostopoulos
+
+(1) 2591 Kun Zhang
+
+(1) 2592 Aapo Hyvärinen
+
+(1) 2603 Chia-Hui Chang
+
+(1) 2605 Jinbo Bi
+
+(1) 2606 Tao Xiong
+
+(1) 2607 Murat Dundar
+
+(1) 2608 R. Bharat Rao
+
+(1) 2612 Roman Garnett
+
+(1) 2614 Grigorios Loukides
+
+(1) 2615 Aris Gkoulalas-Divanis
+
+(1) 2618 Olivier Sigaud
+
+(1) 2625 Steffen Bickel
+
+(1) 2627 Karthik Raman
+
+(1) 2632 A. J. Feelders
+
+(1) 2635 Henrik Boström
+
+(1) 2642 Magdalini Eirinaki
+
+(1) 2651 Jaakko Hollmén
+
+(1) 2653 Michael J. Pazzani
+
+(1) 2654 Lionel Martin
+
+(1) 2671 Lars Asker
+
+(1) 2673 Kohei Hayashi
+
+(1) 2674 Ryota Tomioka
+
+(1) 2675 Hisashi Kashima
+
+(1) 2682 Sethu Vijayakumar
+
+(1) 2690 Jean-Michel Renders
+
+(1) 2692 Harry Zhang
+
+(1) 2695 Kristen Grauman
+
+(1) 2697 Florent Masseglia
+
+(1) 2704 Faisal Kamiran
+
+(1) 2715 Petroula Tsampouka
+
+(1) 2720 Yang Song
+
+(1) 2721 Jian Huang 0002
+
+(1) 2722 Ding Zhou
+
+(1) 2738 Enhong Chen
+
+(1) 2739 Qi Liu
+
+(1) 2741 Tong Xu
+
+(1) 2744 Jyrki Kivinen
+
+(1) 2756 Madhav V. Marathe
+
+(1) 2758 Honglei Zhuang
+
+(1) 2760 Sen Wu
+
+(1) 2761 Wei Wang
+
+(1) 2770 Boris Cule
+
+(1) 2776 François Schnitzler
+
+(1) 2785 Sheng Gao
+
+(1) 2795 Karthik Subbian
+
+(1) 2797 Maarten van Someren
+
+(1) 2798 Thomas Liebig
+
+(1) 2809 Kun Liu
+
+(1) 2812 Yangqing Jia
+
+(1) 2815 Jiang Bian
+
+(1) 2816 Bin Gao
+
+(1) 2817 Tie-Yan Liu
+
+(1) 2818 Daniel A. Keim
+
+(1) 2828 Nicolas Baskiotis
+
+(1) 2849 Pannagadatta K. Shivaswamy
+
+(1) 2850 Tony Jebara
+
+(1) 2854 Gideon Dror
+
+(1) 2855 Yoelle Maarek
+
+(1) 2871 Moisés Goldszmidt
+
+(1) 2872 Marc Najork
+
+(1) 2875 Chidanand Apté
+
+(1) 2878 Cheng Soon Ong
+
+(1) 2880 Jing Peng
+
+(1) 2884 Rosa Meo
+
+(1) 2887 Miho Ohsaki
+
+(1) 2890 Hideto Yokoi
+
+(1) 2891 Takahira Yamaguchi
+
+(1) 2892 Peter L. Bartlett
+
+(1) 2905 Wojciech Kotlowski
+
+(1) 2908 Ofer Meshi
+
+(1) 2909 Amir Globerson
+
+(1) 2914 Gavin Brown
+
+(1) 2935 David Buffoni
+
+(1) 2939 Ron Meir
+
+(1) 2943 Josh Attenberg
+
+(1) 2944 Prem Melville
+
+(1) 2945 Foster J. Provost
+
+(1) 2952 Herna L. Viktor
+
+(1) 2953 François Fleuret
+
+(1) 2956 Leonidas Lefakis
+
+(1) 2961 Vana Kalogeraki
+
+(1) 2969 Fredrick H. M. Semazzi
+
+(1) 2970 Nagiza F. Samatova
+
+(1) 2974 Wolfgang Lehner
+
+(1) 2979 Chao Wang
+
+(1) 2992 Jesús Cerquides
+
+(1) 2993 Ramon López de Mántaras
+
+(1) 2994 Borja Balle
+
+(1) 2995 Xavier Carreras
+
+(1) 3002 Pavel P. Kuksa
+
+(1) 3003 Ronan Collobert
+
+(1) 3004 Vladimir Pavlovic
+
+(1) 3006 Ya Zhang
+
+(1) 3012 Ying Liu
+
+(1) 3013 Alok N. Choudhary
+
+(1) 3026 Hamid R. Rabiee
+
+(1) 3038 Yves Kodratoff
+
+(1) 3076 Dmitry Pechyony
+
+(1) 3077 Vladimir Vapnik
+
+(1) 3083 Klaus-Robert Müller
+
+(1) 3084 Kiri Wagstaff
+
+(1) 3085 Sugato Basu
+
+(1) 3090 Mark Palatucci
+
+(1) 3092 Xin Wang
+
+(1) 3109 Jan Struyf
+
+(1) 3110 Chi Wang 0001
+
+(1) 3115 Byron C. Wallace
+
+(1) 3134 Wei Liu
+
+(1) 3135 Christopher Leckie
+
+(1) 3141 Li-Ping Liu
+
+(1) 3142 Xiaoli Z. Fern
+
+(1) 3145 Chabane Djeraba
+
+(1) 3164 Jinyan Li
+
+(1) 3165 Guozhu Dong
+
+(1) 3166 Danai Koutra
+
+(1) 3168 U. Kang
+
+(1) 3171 Hilbert J. Kappen
+
+(1) 3183 Vikas C. Raykar
+
+(1) 3189 Jonathan Huang
+
+(1) 3190 Leonidas J. Guibas
+
+(1) 3199 Nicola Fanizzi
+
+(1) 3212 Christoph H. Lampert
+
+(1) 3233 Jun Wang 0017
+
+(1) 3239 Dotan Di Castro
+
+(1) 3246 Francisco Pereira
+
+(1) 3256 Andrei Z. Broder
+
+(1) 3264 Chris Drummond
+
+(1) 3268 Mikko Koivisto
+
+(1) 3279 Kelvin Sim
+
+(1) 3281 See-Kiong Ng
+
+(1) 3282 Michael E. Houle
+
+(1) 3293 Bai Wang
+
+(1) 3294 Fabian Gieseke
+
+(1) 3303 Edwin V. Bonilla
+
+(1) 3312 Francis R. Bach
+
+(1) 3318 Martin Pfeifle
+
+(1) 3319 Mihajlo Grbovic
+
+(1) 3340 Giorgio Corani
+
+(1) 3343 Marco Zaffalon
+
+(1) 3356 Arnold P. Boedihardjo
+
+(1) 3365 Konstantin Kutzkov
+
+(1) 3373 Stephen J. Wright
+
+(1) 3374 Dragan Gamberger
+
+(1) 3382 Marc Schoenauer
+
+(1) 3383 Chuan Shi
+
+(1) 3384 Xiangnan Kong
+
+(1) 3387 Boleslaw K. Szymanski
+
+(1) 3388 Tomaso A. Poggio
+
+(1) 3389 Jun Liu
+
+(1) 3392 Dimitris Achlioptas
+
+(1) 3396 Ye Chen
+
+(1) 3400 Ondrej Kuzelka
+
+(1) 3403 Filip Zelezný
+
+(1) 3405 Shotaro Akaho
+
+(1) 3410 Dengyong Zhou
+
+(1) 3414 Minyoung Kim
+
+(1) 3420 Georges Hébrail
+
+(1) 3425 Dirk Van den Poel
+
+(1) 3427 Bart De Moor
+
+(1) 3430 Kristin P. Bennett
+
+(1) 3432 Richard Maclin
+
+(1) 3443 Alexander J. Smola
+
+(1) 3465 Chris Giannella
+
+(1) 3470 Elke Achtert
+
+(1) 3471 Peer Kröger
+
+(1) 3473 Arthur Zimek
+
+(1) 3478 Pieter W. Adriaans
+
+(1) 3494 Ying Yang
+
+(1) 3504 Rosie Jones
+
+(1) 3513 Tsuyoshi Idé
+
+(1) 3526 Paramveer S. Dhillon
+
+(1) 3528 Dean P. Foster
+
+(1) 3529 Lyle H. Ungar
+
+(1) 3547 Vassilios S. Verykios
+
+(1) 3558 Hong Shen
+
+(1) 3569 Tao Wang
+
+(1) 3570 Jennifer Neville
+
+(1) 3571 Brian Gallagher
+
+(1) 3592 Shimon Whiteson
+
+(1) 3594 Nikos A. Vlassis
+
+(1) 3603 Zhixiang Eddie Xu
+
+(1) 3604 Kilian Q. Weinberger
+
+(1) 3619 Noriaki Kawamae
+
+(1) 3620 Jiliang Tang
+
+(1) 3621 Shiyu Chang
+
+(1) 3622 Huan Liu
+
+(1) 3624 Mor Naaman
+
+(1) 3630 Suhrid Balakrishnan
+
+(1) 3631 Sumit Chopra
+
+(1) 3632 Nemanja Djuric
+
+(1) 3633 Xiao Yu
+
+(1) 3639 Hongbo Deng
+
+(1) 3640 Yi Chang
+
+(1) 3641 Amr Ahmed
+
+(1) 3647 Maarten de Rijke
+
+(1) 3649 Jaime Teevan
+
+(1) 3650 Susan T. Dumais
+
+(1) 3653 Sandeep Pandey
+
+(1) 3654 Vanja Josifovski
+
+(1) 3655 Lluis Garcia Pueyo
+
+(1) 3658 Michael R. Lyu
+
+(1) 3659 Irwin King
+
+(1) 3662 Nicola Tonellotto
+
+(1) 3663 Craig Macdonald
+
+(1) 3668 Panagiotis Papadimitriou 0002
+
+(1) 3669 Panagiotis G. Ipeirotis
+
+(1) 3672 Hector Garcia-Molina
+
+(1) 3674 Ahmed Hassan Awadallah
+
+(1) 3675 Ryen W. White
+
+(1) 3678 Richi Nayak
+
+(1) 3687 Michael Mitzenmacher
+
+(1) 3689 Tak-Lam Wong
+
+(1) 3691 Wai Lam
+
+(1) 3692 Lihong Li
+
+(1) 3693 Wei Chu
+
+(1) 3694 John Langford
+
+(1) 3695 Xuanhui Wang
+
+(1) 3698 Masrour Zoghi
+
+(1) 3702 Sergei Vassilvitskii
+
+(1) 3705 Jiang Chen
+
+(1) 3707 Belle L. Tseng
+
+(1) 3708 Zhaohui Zheng
+
+(1) 3713 Gunhee Kim
+
+(1) 3717 Gianmarco De Francisci Morales
+
+(1) 3718 Claudio Lucchese
+
+(1) 3723 Junghoo Cho
+
+(1) 3724 Xia Hu
+
+(1) 3725 Lei Tang
+
+(1) 3728 Hongxia Jin
+
+(1) 3729 Haiqin Yang
+
+(1) 3732 Christopher D. Manning
+
+(1) 3733 Silvio Lattanzi
+
+(1) 3734 Vahab S. Mirrokni
+
+(1) 3737 Gert R. G. Lanckriet
+
+(1) 3738 Nina Mishra
+
+(1) 3740 Jaewon Yang
+
+(1) 3742 Jianyong Wang
+
+(1) 3744 Kristina Lerman
+
+(1) 3750 Navin Goyal
+
+(1) 3770 Hang Li
+
+(1) 3772 Michael Bendersky
+
+(1) 3774 W. Bruce Croft
+
+(1) 3798 Ravi Kumar
+
+(1) 3799 Andrew Tomkins
+
+(1) 3807 Guy Lebanon
+
+(1) 3818 Lars Backstrom
+
+(1) 3824 Nick Koudas
+
+(1) 3832 Weizhu Chen
+
+(1) 3841 Duncan J. Watts
+
+(1) 3842 Daniel Sheldon
+
+(1) 3844 Martin Szummer
+
+(1) 3845 Nick Craswell
+
+(1) 3859 Hui Xiong
+
+(1) 3865 Dawei Yin
+
+(1) 3866 Jian Yang
+
+(1) 3868 Sreenivas Gollapudi
+
+(1) 3870 Rina Panigrahy
+
+(1) 3871 Li Zhang 0001
+
+(1) 3876 Alex Kulesza
+
+(1) 3877 Alfred O. Hero III
+
+(1) 3880 Filip Radlinski
+
+(1) 3881 Paul N. Bennett
+
+(1) 3888 Evgeniy Gabrilovich
+
+(1) 3889 Bo Pang
+
+(1) 3906 Jia Li
+
+(1) 3909 Kuansan Wang
+
+(1) 3913 Jérôme Kunegis
+
+(1) 3915 Steffen Rendle
+
+(1) 3916 Manuel Gomez-Rodriguez
+
+(1) 3920 Jiafeng Guo
+
+(1) 3922 Rohini K. Srihari
+
+(1) 3928 Wei Chen
+
+(1) 3929 Xiaoyan Zhu
+
+(1) 3931 Wei Chen 0013
+
+(1) 3932 Yajun Wang
+
+(1) 3937 Berkant Barla Cambazoglu
+
+(1) 3940 Atish Das Sarma
+
+(1) 3942 Jun Wang
+
+(1) 3949 Charles L. A. Clarke
+
+(1) 3952 Wang-Chien Lee
+
+(1) 3954 Deepak Agarwal
+
+(1) 3955 Nitin Agarwal
+
+(1) 3963 Guo-Jun Qi
+
+(1) 3964 Thomas S. Huang
+
+(1) 3966 Jaegul Choo
+
+(1) 3969 Haesun Park
+
+(1) 3972 Luo Si
+
+(1) 3975 Nilesh N. Dalvi
+
+(1) 3977 Filippo Menczer
+
+(1) 3981 Flavio Chierichetti
+
+(1) 3982 Prabhakar Raghavan
+
+(1) 3989 Jeffrey Dean
+
+(1) 3992 Yisong Yue
+
+(1) 3998 ChengXiang Zhai
+
+(1) 4006 Venkatesh Ganti
+
+(1) 4007 Arnd Christian König
+
+(1) 4008 Anlei Dong
+
+(1) 4015 Suju Rajan
+
+(1) 4016 Cyrus Shahabi
+
+(1) 4017 Yan Liu
+
+(1) 4018 Peifeng Yin
+
+(1) 4019 Min Wang
+
+(1) 4022 Wolfgang Nejdl
+
+(1) 4024 Nicholas Jing Yuan
+
+(1) 4027 Xing Xie
+
+(1) 4028 Wei Wu
+
+(1) 4034 Alex Deng
+
+(1) 4037 David F. Gleich
+
+(1) 4038 Georges Dupret
+
+(1) 4040 Brian D. Davison 0001
+
+(1) 4045 Nir Ailon
+
+(1) 4047 Pei Yang
+
+(1) 4055 Qiaozhu Mei
+
+(1) 4060 David Lo
+
+(1) 4062 Xinran He
+
+(1) 4065 Yuchen Zhang
+
+(1) 4090 Samuel Ieong
+
+(1) 4091 Onno Zoeter
+
+(1) 4094 Kenneth Ward Church
+
+(1) 4097 Ingmar Weber
+
+(1) 4098 Kai Zhang
+
+(1) 4101 Zhoujun Li
+
+(1) 4103 Bee-Chung Chen
+
+(1) 4105 Azin Ashkan
+
+(1) 4107 Sofus A. Macskassy
+
+(1) 4112 Ji-Rong Wen
+
+(1) 4113 Xiang Ren
+
+(1) 4133 Huiji Gao
+
+(1) 4136 Fan Guo
+
+(1) 4137 Chao Liu 0001
+
+(1) 4142 Shuo Chen
+
+(1) 4148 Bokai Cao
+
+(1) 4152 Rómer Rosales
+
+(1) 4153 Haibin Cheng
+
+(1) 4155 Dou Shen
+
+(1) 4156 Toby Walker
+
+(1) 4157 Zijian Zheng
+
+(1) 4158 Ying Li
+
+(1) 4161 Yehuda Koren
+
+(1) 4163 Aixin Sun
+
+(1) 4165 Hady Wirawan Lauw
+
+(1) 4166 David Sontag
+
+(1) 4167 Kevyn Collins-Thompson
+
+(1) 4170 Lada A. Adamic
+
+(1) 4176 Jun Yan
+
+(1) 4181 Krishna Prasad Chitrapura
+
+(1) 4184 Mohammad Al Hasan
+
+(1) 4187 Eugene Agichtein
+
+(1) 4189 Peng Jiang
+
+(1) 4203 Isabel Valera
+
+(1) 4206 Tom Minka
+
+(1) 4207 Anirban Dasgupta 0001
+
+(1) 4209 Liang Zhang
+
+(1) 4213 Xi Chen
+
+(1) 4214 Eric Horvitz
+
+(1) 4218 Pavel Serdyukov
+
+(1) 4224 Daniel P. Huttenlocher
+
+(1) 4237 Srujana Merugu
+
+(1) 4238 Mu Li
+
+(1) 4240 Yu-Xiang Wang
+
+(1) 4247 Zohar Shay Karnin
+
+(1) 4268 Hongning Wang
+
+(1) 4276 Jane Yung-jen Hsu
+
+(1) 4281 Xiaoming Jin
+
+(1) 4282 Bo Long
+
+(1) 4285 Qi He
+
+(1) 4287 Prasenjit Mitra
+
+(1) 4298 Feng Liang
+
+(1) 4303 Yu Wang
+
+(1) 4308 Ran Gilad-Bachrach
+
+(1) 4316 Choon Hui Teo
+
+(1) 4317 Kunal Punera
+
+(1) 4318 Byron Dom
+
+(1) 4321 David H. Stern
+
+(1) 4328 Makoto Yamada
+
+(1) 4330 Vagelis Hristidis
+
+(1) 4343 Daxin Jiang
+
+(1) 4349 Yanyan Lan
+
+(1) 4350 Ning Chen
+
+(1) 4360 Panayiotis Tsaparas
+
+(1) 4361 Jialu Liu
+
+(1) 4362 Peng Cui
+
+(1) 4363 Fei Wang
+
+(1) 4375 Jing Jiang
+
+(1) 4379 Salvatore Orlando
+
+(1) 4380 Raffaele Perego
+
+(1) 4385 Oren Etzioni
+
+(1) 4386 Zeyuan Allen Zhu
+
+(1) 4394 Chiranjib Bhattacharyya
+
+(1) 4395 Pengcheng Wu
+
+(1) 4407 Vikas Sindhwani
+
+(1) 4410 Jianmin Wang 0001
+
+(1) 4411 Steven Minton
+
+(1) 4415 Tat-Seng Chua
+
+(1) 4417 Abhimanyu Das
+
+(1) 4436 Weiming Hu
+
+(1) 4447 Keith Henderson
+
+(1) 4448 Amit Goyal 0002
+
+(1) 4449 Laks V. S. Lakshmanan
+
+(1) 4460 Edo Liberty
+
+(1) 4466 Lei Li
+
+(1) 4479 Qi Li
+
+(1) 4488 Rasmus Pagh
+
+(1) 4493 Michael Mathioudakis
+
+(1) 4500 Javed A. Aslam
+
+(1) 4504 Yasuhiro Fujiwara
+
+(1) 4505 Hiroshi Sawada
+
+(1) 4515 S. V. N. Vishwanathan
+
+(1) 4541 Jiawei Zhang
+
+(1) 4547 Ramakrishnan Srikant
+
+(1) 4555 Ya Xu
+
+(1) 4574 Dong Xin
+
+(1) 4588 Weinan Zhang
+
+(1) 4594 Mohammad Mahdian
+
+(1) 4600 Shenghua Bao
+
+(1) 4603 Li Zhang 0007
+
+(1) 4604 Zhong Su
+
+(1) 4605 Kevin J. Lang
+
+(1) 4630 H. V. Jagadish
+
+(1) 4632 Quanzeng You
+
+(1) 4633 Jiebo Luo
+
+(1) 4636 Smriti Bhagat
+
+(1) 4637 Julian J. McAuley
+
+(1) 4650 Kevin Chen-Chuan Chang
+
+(1) 4651 Yong Rui
+
+(1) 4664 Gang Wang
+
+(1) 4666 Liangjie Hong
+
+(1) 4675 Alice X. Zheng
+
+(1) 4679 Xuerui Wang
+
+(1) 4684 Qi Zhang
+
+(1) 4689 Weng-Keen Wong
+
+(1) 4691 Themis Palpanas
+
+(1) 4695 Paul R. Schrater
+
+(1) 4703 Tao Qin
+
+(1) 4726 Olivier Chapelle
+
+(1) 4740 Mohsen Jamali
+
+(1) 4743 Chandrika Kamath
+
+(1) 4749 Md. Mostofa Ali Patwary
+
+(1) 4750 Ankit Agrawal
+
+(1) 4756 Stephen H. Bach
+
+(1) 4757 Marcus A. Maloof
+
+(1) 4762 Sebastian Nowozin
+
+(1) 4764 Guangzhong Sun
+
+(1) 4765 Li Wei
+
+(1) 4784 Tantan Liu
+
+(1) 4787 Gagan Agrawal
+
+(1) 4788 Hwanjo Yu
+
+(1) 4797 Shin Ando
+
+(1) 4798 Matthew Eric Otey
+
+(1) 4799 Jie Wang
+
+(1) 4800 Jun Zhang 0001
+
+(1) 4807 Ahmed K. Farahat
+
+(1) 4809 Mohamed S. Kamel
+
+(1) 4814 Shashi Shekhar
+
+(1) 4822 Bo Wang
+
+(1) 4831 Jiayu Zhou
+
+(1) 4833 Sethuraman Panchanathan
+
+(1) 4834 Jieping Ye
+
+(1) 4836 Peng Wang
+
+(1) 4838 Yujia Li
+
+(1) 4839 Baile Shi
+
+(1) 4841 Taghi M. Khoshgoftaar
+
+(1) 4850 Naoki Abe
+
+(1) 4855 Geetha Jagannathan
+
+(1) 4856 Rebecca N. Wright
+
+(1) 4876 Bin Zhao
+
+(1) 4877 James Tin-Yau Kwok
+
+(1) 4878 Shohei Hido
+
+(1) 4881 Carlos Ordonez
+
+(1) 4885 W. Scott Spangler
+
+(1) 4886 Ying Chen
+
+(1) 4899 Animashree Anandkumar
+
+(1) 4903 Bolin Ding
+
+(1) 4915 Daniel B. Neill
+
+(1) 4930 Yue Xu
+
+(1) 4932 Yu Cheng
+
+(1) 4933 Kunpeng Zhang
+
+(1) 4934 Yusheng Xie
+
+(1) 4935 Wei-keng Liao
+
+(1) 4950 Alexandre Termier
+
+(1) 4962 Yanjie Fu
+
+(1) 4978 Weichang Li
+
+(1) 4981 Gunjan Gupta
+
+(1) 4993 Yong Shi
+
+(1) 5010 Man Leung Wong
+
+(1) 5011 Kwong-Sak Leung
+
+(1) 5012 Qi Mao
+
+(1) 5014 Li Wang
+
+(1) 5017 Yijun Sun
+
+(1) 5019 Xiaoli Li
+
+(1) 5022 Niall M. Adams
+
+(1) 5023 William Hendrix
+
+(1) 5026 Thomas Hofmann
+
+(1) 5034 Margaret H. Dunham
+
+(1) 5043 Alexander Tuzhilin
+
+(1) 5047 Christopher M. Jermaine
+
+(1) 5051 Jun Huan
+
+(1) 5061 Nan Cao
+
+(1) 5079 Akinori Abe
+
+(1) 5082 Michihiro Kuramochi
+
+(1) 5086 Yingjie Tian
+
+(1) 5103 Erik Cambria
+
+(1) 5106 Mykola Pechenizkiy
+
+(1) 5117 Joshua Zhexue Huang
+
+(1) 5124 Sandeep Mane
+
+(1) 5137 Mustafa Bilgic
+
+(1) 5141 Jiming Liu
+
+(1) 5148 Dragomir Yankov
+
+(1) 5154 Aparna S. Varde
+
+(1) 5156 Aidong Zhang
+
+(1) 5158 Kush R. Varshney
+
+(1) 5159 Jun Wang 0006
+
+(1) 5161 Aleksandra Mojsilovic
+
+(1) 5163 Bing Hu 0001
+
+(1) 5164 Thanawin Rakthanmanon
+
+(1) 5167 Stefano Lonardi
+
+(1) 5171 Arvind Agarwal
+
+(1) 5173 Yun Fu
+
+(1) 5182 I. V. Ramakrishnan
+
+(1) 5195 Tomonobu Ozaki
+
+(1) 5196 Takenao Ohkawa
+
+(1) 5208 Raj Bhatnagar
+
+(1) 5209 Hui Zhang
+
+(1) 5210 Frederick H. Lochovsky
+
+(1) 5211 Yuchen Zhao
+
+(1) 5217 James M. Kang
+
+(1) 5221 Paul R. Cohen
+
+(1) 5230 Xiaowei Xu
+
+(1) 5244 Ming-Syan Chen
+
+(1) 5246 Karsten Steinhaeuser
+
+(1) 5247 Shyam Boriah
+
+(1) 5251 Deepak S. Turaga
+
+(1) 5254 Michael Hahsler
+
+(1) 5261 Ke Wang
+
+(1) 5274 Amy McGovern
+
+(1) 5286 Huan Sun
+
+(1) 5289 Chun-Nan Hsu
+
+(1) 5300 Min-Ling Zhang
+
+(1) 5314 Carson Kai-Sang Leung
+
+(1) 5328 Christine Körner
+
+(1) 5332 Dejing Dou
+
+(1) 5334 Jeffrey Xu Yu
+
+(1) 5335 Yiping Ke
+
+(1) 5337 Lei Chen 0002
+
+(1) 5353 Yixin Chen
+
+(1) 5357 Honghua Dai
+
+(1) 5367 Jasper Snoek
+
+(1) 5372 Malik Magdon-Ismail
+
+(1) 5375 Ying Cui
+
+(1) 5376 Jennifer G. Dy
+
+(1) 5377 Ryohei Fujimaki
+
+(1) 5379 Alexandru Niculescu-Mizil
+
+(1) 5384 Moninder Singh
+
+(1) 5397 Hidenao Abe
+
+(1) 5398 Jinfeng Yi
+
+(1) 5399 Tianbao Yang
+
+(1) 5400 Mehrdad Mahdavi
+
+(1) 5401 Yanchi Liu
+
+(1) 5402 Chuanren Liu
+
+(1) 5404 Junjie Wu
+
+(1) 5408 Suh-Yin Lee
+
+(1) 5424 Jun Nakamura
+
+(1) 5425 Masahiko Teramoto
+
+(1) 5430 Han-Shen Huang
+
+(1) 5440 Vincent S. Tseng
+
+(1) 5441 Cheng-Wei Wu
+
+(1) 5471 Fei Wang 0001
+
+(1) 5475 Gang Li
+
+(1) 5485 Maitreya Natu
+
+(1) 5488 Doina Caragea
+
+(1) 5495 Raghu Krishnapuram
+
+(1) 5499 Hao Huang
+
+(1) 5502 Vandana Pursnani Janeja
+
+(1) 5507 Hongyan Liu
+
+(1) 5508 Jun He
+
+(1) 5512 Hua-Jun Zeng
+
+(1) 5516 Ramesh Nallapati
+
+(1) 5519 Binbin Lin
+
+(1) 5523 Balaji Padmanabhan
+
+(1) 5527 Keke Chen
+
+(1) 5529 Zeeshan Syed
+
+(1) 5545 Yong Ge
+
+(1) 5552 Katsutoshi Yada
+
+(1) 5558 Yukio Ohsawa
+
+(1) 5564 Jingrui He
+
+(1) 5571 Shichao Zhang
+
+(1) 5575 Yintao Yu
+
+(1) 5579 Young-Rae Cho
+
+(1) 5588 Shenghuo Zhu
+
+(1) 5593 Lei Shi
+
+(1) 5604 Zhiang Wu
+
+(1) 5611 Tamraparni Dasu
+
+(1) 5612 Jing Feng
+
+(1) 5613 Xiao He
+
+(1) 5618 Chih-Hua Tai
+
+(1) 5619 Brendan Kitts
+
+(1) 5620 Dyng Au
+
+(1) 5623 James Cheng
+
+(1) 5624 Liang Zhao
+
+(1) 5626 Feng Chen
+
+(1) 5627 Chang-Tien Lu
+
+(1) 5631 Ruoming Jin
+
+(1) 5645 Peter Christen
+
+(1) 5650 Ranga Raju Vatsavai
+
+(1) 5660 Douglas Stott Parker Jr.
+
+(1) 5665 Yun Chi
+
+(1) 5666 Richard R. Muntz
+
+(1) 5668 Craig A. Knoblock
+
+(1) 5670 Wei Lu
+
+(1) 5676 Dacheng Tao
+
+(1) 5686 Wei Ding 0003
+
+(1) 5695 Hong Cheng
+
+(1) 5713 Anne Denton
+
+(1) 5726 Sau Dan Lee
+
+(1) 5727 Xiang Wang
+
+(1) 5730 Nikunj C. Oza
+
+(1) 5731 Ashok N. Srivastava
+
+(1) 5735 Dennis Shasha
+
+(1) 5738 Guojie Song
+
+(1) 5752 Lei Xu 0001
+
+(1) 5766 Gaurav Pandey
+
+(1) 5772 Rafal A. Angryk
+
+(1) 5807 Dóra Erdös
+
+(1) 5808 Ganesh Ramakrishnan
+
+(1) 5810 Patrick Lucey
+
+(1) 5813 Iain A. Matthews
+
+(1) 5820 Carla E. Brodley
+
+(1) 5824 Auroop R. Ganguly
+
+(1) 5826 Cho-Jui Hsieh
+
+(1) 5827 Si Si
+
+(1) 5828 Inderjit S. Dhillon
+
+(1) 5837 Hongjun Lu
+
+(1) 5847 Jacob D. Furst
+
+(1) 5848 Daniela Stan Raicu
+
+(1) 5851 Mikhail Bilenko
+
+(1) 5852 Mehran Sahami
+
+(1) 5885 Yanping Chen 0005
+
+(1) 5886 Jesin Zakaria
+
+(1) 5894 David D. Lewis
+
+(1) 5909 Li Zheng
+
+(1) 5916 Kang Li
+
+(1) 5921 Wei Luo
+
+(1) 5924 Ines Färber
+
+(1) 5930 Joseph L. Hellerstein
+
+(1) 5934 Matthew J. Rattigan
+
+(1) 5935 Marc E. Maier
+
+(1) 5936 David Jensen
+
+(1) 5961 Sundararajan Sellamanickam
+
+(1) 5965 Abdullah Mueen
+
+(1) 5968 Qihang Lin
+
+(1) 5973 Keith C. C. Chan
+
+(1) 5979 Grzegorz Swirszcz
+
+(1) 5981 Rick Lawrence
+
+(1) 5982 Wei Shen
+
+(1) 5993 Cheng Yang
+
+(1) 5995 Shuicheng Yan
+
+(1) 5996 Ning Liu
+
+(1) 5997 Ming Zhang
+
+(1) 6000 Hengshu Zhu
+
+(1) 6017 Cheng-Ru Lin
+
+(1) 6019 Igor Kononenko
+
+(1) 6023 Mary McGlohon
+
+(1) 6031 Saharon Rosset
+
+(1) 6043 Yanshan Xiao
+
+(1) 6044 Bo Liu
+
+(1) 6045 Zhifeng Hao
+
+(1) 6051 Tom Fawcett
+
+(1) 6062 Yasushi Sakurai
+
+(1) 6077 Meghana Deodhar
+
+(1) 6082 Hongliang Fei
+
+(1) 6083 Liang Du
+
+(1) 6085 Peng Zhou
+
+(1) 6092 Xiaowei Ying
+
+(1) 6096 Benyu Zhang
+
+(1) 6107 Wen-Chih Peng
+
+(1) 6112 Rui Liu
+
+(1) 6120 Wei-Ying Ma
+
+(1) 6135 Rui Kuang
+
+(1) 6138 Niko Vuokko
+
+(1) 6150 Xianchao Zhang
+
+(1) 6153 Keng-Pei Lin
+
+(1) 6161 Anitha Kannan
+
+(1) 6182 Yuefeng Li
+
+(1) 6190 Yuqiang Guan
+
+(1) 6196 Kyomin Jung
+
+(1) 6202 Laiwan Chan
+
+(1) 6212 Daria Sorokina
+
+(1) 6213 Johannes Gehrke
+
+(1) 6228 Ching-Yung Lin
+
+(1) 6245 Rayid Ghani
+
+(1) 6246 Chang-Dong Wang
+
+(1) 6247 Jian-Huang Lai
+
+(1) 6264 Chris Volinsky
+
+(1) 6270 Diane J. Cook
+
+(1) 6281 Kenji Yamanishi
+
+(1) 6293 Hichem Frigui
+
+(1) 6301 Henry Soldano
+
+(1) 6311 Stephen D. Scott
+
+(1) 6320 Stephen J. Roberts
+
+(1) 6333 Sigal Sahar
+
+(1) 6338 Mong-Li Lee
+
+(1) 6339 Wynne Hsu
+
+(1) 6348 Jianhua Feng
+
+(1) 6351 Douglas H. Fisher
+
+(1) 6353 Kaidi Zhao
+
+(1) 6359 Fakhri Karray
+
+(1) 6360 Jiuyong Li
+
+(1) 6387 Martin H. C. Law
+
+(1) 6389 Jie Luo
+
+(1) 6414 Gang Wu
+
+(1) 6417 Shengrui Wang
+
+(1) 6418 Lingfeng Niu
+
+(1) 6433 Yuhong Xiong
+
+(1) 6446 Kilho Shin
+
+(1) 6458 Asim Karim
+
+(1) 6483 Qiang Fu
+
+(1) 6487 Yan Liu 0002
+
+(1) 6489 Xin Yao
+
+(1) 6492 Ramesh Natarajan
+
+(1) 6504 Xiaohua Hu
+
+(1) 6505 Xin Chen
+
+(1) 6506 Chengcui Zhang
+
+(1) 6512 Buyue Qian
+
+(1) 6513 Jianying Hu
+
+(1) 6524 Guy Shani
+
+(1) 6525 Christopher Meek
+
+(1) 6529 Chen Chen
+
+(1) 6532 Senjuti Basu Roy
+
+(1) 6538 Zhongfei Zhang
+
+(1) 6542 Varun Chandola
+
+(1) 6555 Christopher Re
+
+(1) 6560 Wilfred Ng
+
+(1) 6562 Mark Johnson
+
+(1) 6565 Tzung-Pei Hong
+
+(1) 6573 Takehisa Yairi
+
+(1) 6577 David C. Kale
+
+(1) 6583 Dong Xu
+
+(1) 6595 Fabrizio Costa
+
+(1) 6600 Florian Verhein
+
+(1) 6601 Xiangji Huang
+
+(1) 6629 Karsten M. Borgwardt
+
+(1) 6642 Alexander G. Gray
+
+(1) 6669 Murali Ramanathan
+
+(1) 6677 Zhengzhang Chen
+
+(1) 6681 Jason Tsong-Li Wang
+
+(1) 6692 David W. Cheung
+
+(1) 6702 Byron J. Gao
+
+(1) 6710 Bianca Zadrozny
+
+(1) 6715 Xiaofei Zhou
+
+(1) 6717 De-Nian Yang
+
+(1) 6739 Ankur P. Parikh
+
+(1) 6740 Budhaditya Saha
+
+(1) 6743 Svetha Venkatesh
+
+(1) 6749 Anthony J. Bonner
+
+(1) 6785 Jiong Yang
+
+(1) 6786 Wei Wang 0010
+
+(1) 6788 Hongfu Liu
+
+(1) 6800 Mohammad Taha Bahadori
+
+(1) 6801 Dan Zhang
+
+(1) 6808 Ming Shao
+
+(1) 6819 Wei Zhang
+
+(1) 6822 Alex Beutel
+
+(1) 6855 Kui Yu
+
+(1) 6859 Jian Chen
+
+(1) 6860 Wenjun Zhou
+
+(1) 6882 Xiang Zhang
+
+(1) 6887 Qiang Zhu 0002
+
+(1) 6895 Claire Monteleoni
+
+(1) 6896 Krishnan Pillaipakkamnatt
+
+(1) 6906 Kyuseok Shim
+
+(1) 6914 Michael Steinbach
+
+(1) 6917 Matthias Schubert
+
+(1) 6924 Alessandro Sperduti
+
+(1) 6951 W. Nick Street
+
+(1) 6961 Arindam Banerjee
+
+(1) 6968 Bruce G. Buchanan
+
+(1) 6971 Snigdhansu Chatterjee
+
+(1) 6992 Markus Ojala
+
+(1) 7005 Kun-Ta Chuang
+
+(1) 7019 Ali Dasdan
+
+(1) 7053 Jeff M. Phillips
+
+(1) 7070 Peng Zhang
+
+(1) 7073 Li Guo
+
+(1) 7074 Tianyi Zhou
+
+(1) 7075 Mirek Riedewald
+
+(1) 7078 Ling Liu
+
+(1) 7118 Csaba Szepesvári
+
+(1) 7144 Hazem M. Hajj
+
+(1) 7146 Liang Ge
+
+(1) 7155 Wei Xu
+
+(1) 7159 Issei Sato
+
+(1) 7163 Bin Li
+
+(1) 7170 Vasant Honavar
+
+(1) 7193 Kamal Nigam
+
+(1) 7194 Sameep Mehta
+
+(1) 7195 Hui Yang 0002
+
+(1) 7200 Fan Jiang
+
+(1) 7222 Jinze Liu
+
+(1) 7234 Guofei Jiang
+
+(1) 7242 David Madigan
+
+(1) 7246 Michael W. Mahoney
+
+(1) 7249 Takeshi Yamada
+
+(1) 7251 Xian-Sheng Hua
+
+(1) 7277 Jia-Yu Pan
+
+(1) 7286 Yu Zheng
+
+(1) 7290 Jianping Zhang
+
+(1) 7317 Salvatore J. Stolfo
+
+(1) 7318 Wenke Lee
+
+(1) 7319 Philip K. Chan
+
+(1) 7348 Bo Chen
+
+(1) 7352 Zhengdong Lu
+
+(1) 7365 Hanhuai Shan
+
+(1) 7393 Lawrence B. Holder
+
+(1) 7398 Shixia Liu
+
+(1) 7400 Yang Chen
+
+(1) 7409 Kian-Lee Tan
+
+(1) 7410 Anthony K. H. Tung
+
+(1) 7411 Feng Pan
+
+(1) 7412 Tamara G. Kolda
+
+(1) 7432 Sachindra Joshi
+
+(1) 7441 Jacob Goldberger
+
+(1) 7447 Michael Bain
+
+(1) 7505 Xiang Li
+
+(1) 7512 Bo Li
+
+(1) 7529 Glenn Fung
+
+(1) 7530 Ling Chen
+
+(1) 7548 Yabo Xu
+
+(1) 7550 Ben Kao
+
+(1) 7575 Rong Yan
+
+(1) 7584 Ardian Kristanto Poernomo
+
+(1) 7585 Raymond Chi-Wing Wong
+
+(1) 7586 Ada Wai-Chee Fu
+
+(1) 7617 Francesco Orabona
+
+(1) 7618 Nicolò Cesa-Bianchi
+
+(1) 7619 Huiping Cao
+
+(1) 7620 Nikos Mamoulis
+
+(1) 7635 Gerhard Friedrich
+
+(1) 7641 Cindy Xide Lin
+
+(1) 7642 Bo Zhao
+
+(1) 7685 Hong Qin
+
+(1) 7686 Shinjae Yoo
+
+(1) 7687 Dantong Yu
+
+(1) 7692 Robin D. Burke
+
+(1) 7693 Bamshad Mobasher
+
+(1) 7712 Ce Liu
+
+(1) 7740 Manoranjan Dash
+
+(1) 7741 Alexandrin Popescul
+
+(1) 7742 Steve Lawrence
+
+(1) 7743 David M. Pennock
+
+(1) 7766 Ameet Talwalkar
+
+(1) 7795 Farshad Fotouhi
+
+(1) 7819 Liang Xiong
+
+(1) 7826 Xiaopeng Xi
+
+(1) 7847 Olfa Nasraoui
+
+(1) 7861 Linli Xu
+
+(1) 7912 Morteza Alamgir
+
+(1) 7913 Ulrike von Luxburg
+
+(1) 7969 Hongfei Li
+
+(1) 7976 Vasileios Megalooikonomou
+
+(1) 7996 Edwin P. D. Pednault
+
+(1) 8008 Yihong Gong
+
+(1) 8010 Jie Liu
+
+(1) 8044 Wenliang Zhong
+
+(1) 8066 Shiqiang Yang
+
+(1) 8099 Yi Mao
+
+(1) 8101 Minmin Chen
+
+(1) 8107 Reda Alhajj
+
+(1) 8123 Yousef Saad
+
+(1) 8127 Shuiwang Ji
+
+(1) 8146 Wei Bian
+
+(1) 8152 Bernard Zenko
+
+(1) 8158 Jingdong Wang
+
+(1) 8161 Aurelie C. Lozano
+
+(1) 8163 Prabhanjan Kambadur
+
+(1) 8169 Bing Tian Dai
+
+(1) 8178 Yuan (Alan) Qi
+
+(1) 8179 Bartek Rajwa
+
+(1) 8206 Xiaotong Yuan
+
+(1) 8230 John D. Lafferty
+
+(1) 8251 Colin Campbell
+
+(1) 8281 Seung-Taek Park
+
+(1) 8333 Shahram Ebadollahi
+
+(1) 8338 Ambedkar Dukkipati
+
+(1) 8345 Zhuang Wang
+
+(1) 8360 Andrew S. Fast
+
+(1) 8370 Jing Zhang 0001
+
+(1) 8372 Li Wan
+
+(1) 8397 Gregory Piatetsky-Shapiro
+
+(1) 8403 Ping Li
+
+(1) 8411 Chris Jermaine
+
+(1) 8423 Srivatsan Laxman
+
+(1) 8457 Sunil Kumar Gupta
+
+(1) 8516 Benjamin C. M. Fung
+
+(1) 8522 Chong Wang
+
+(1) 8531 Novi Quadrianto
+
+(1) 8546 Wei Bi
+
+(1) 8554 Wei Cheng
+
+(1) 8555 Aoying Zhou
+
+(1) 8559 Robert C. Holte
+
+(1) 8574 Brian Burdick
+
+(1) 8586 Fanhua Shang
+
+(1) 8598 Ji Zhu
+
+(1) 8606 C. Seshadhri
+
+(1) 8607 Ali Pinar
+
+(1) 8615 Weili Wu
+
+(1) 8624 Guan Wang
+
+(1) 8653 Shlomo Zilberstein
+
+(1) 8673 Matjaz Gams
+
+(1) 8720 Richard D. Lawrence
+
+(1) 8724 György J. Simon
+
+(1) 8738 Cheng Long
+
+(1) 8770 Wilhelmiina Hämäläinen
+
+(1) 8777 Emilie Morvant
+
+(1) 8789 Freddy Chong Tat Chua
+
+(1) 8806 Jaideep Vaidya
+
+(1) 8813 Yang Zhou
+
+(1) 8814 Kevin Small
+
+(1) 8823 Ravi Janardan
+
+(1) 8861 Jasmina Bogojeska
+
+(1) 8888 Ruslan Salakhutdinov
+
+(1) 8937 Kamalakar Karlapalem
+
+(1) 8961 Olvi L. Mangasarian
+
+(1) 8987 Stéphane Marchand-Maillet
+
+(1) 9006 Scott Gaffney
+
+(1) 9009 Shih-Fu Chang
+
+(1) 9049 Dinh Q. Phung
+
+(1) 9054 Geoffrey J. McLachlan
+
+(1) 9067 W. Philip Kegelmeyer
+
+(1) 9074 Graham J. Williams
+
+(1) 9081 Ted E. Senator
+
+(1) 9095 Vinod Nair
+
+(1) 9112 Michael K. Ng
+
+(1) 9117 Miroslav Kubat
+
+(1) 9153 Shaojun Wang
+
+(1) 9179 Liu Yang
+
+(1) 9194 Shobeir Fakhraei
+
+(1) 9200 Jeremy Kubica
+
+(1) 9201 Gilles Bisson
+
+(1) 9267 Amit Dhurandhar
+
+(1) 9290 Dmitry Pavlov
+
+(1) 9291 Jan Prins
+
+(1) 9300 Fengjiao Wang
+
+(1) 9303 Reynold Cheng
+
+(1) 9340 Bo Dai
+
+(1) 9342 Gang Niu
+
+(1) 9385 Vijay V. Raghavan 0001
+
+(1) 9398 Zenglin Xu
+
+(1) 9412 Llew Mason
+
+(1) 9423 Erich Schubert
+
+(1) 9432 Wenlin Chen
+
+(1) 9448 Liang Tang
+
+(1) 9466 Rui Chen
+
+(1) 9522 Nihit Desai
+
+(1) 9523 Heng Ji
+
+(1) 9554 Takafumi Kanamori
+
+(1) 9593 Patrick Butler
+
+(1) 9642 Sandra Zilles
+
+(1) 9647 Mark D. Reid
+
+(1) 9659 Michal Valko
+
+(1) 9660 Branislav Kveton
+
+(1) 9672 Victor S. Sheng
+
+(1) 9680 Jianzhuang Liu
+
+(1) 9742 Zhenjie Zhang
+
+(1) 9837 Chao Shen
+
+(1) 9879 Dimitris Margaritis
+
+(1) 9896 Yuri Kalnishkan
+
+(1) 9900 Anthony Wirth
+
+(1) 9902 Lei Zhang
+
+(1) 9934 Sergey Kirshner
+
+(1) 9952 David M. Blei
+
+(1) 10021 Barnabás Póczos
+
+(1) 10055 Stephen E. Fienberg
+
+(1) 10117 Simeon J. Simoff
+
+(1) 10153 Walter Daelemans
+
+(1) 10176 Shen-Shyang Ho
+
+(1) 10184 Yan Yan
+
+(1) 10196 Petri Myllymäki
+
+(1) 10197 Tomi Silander
+
+(1) 10253 Pierre Gançarski
+
+(1) 10271 Xiaoyun Wu
+
+(1) 10277 Troy Raeder
+
+(1) 10332 Wei Wei
+
+(1) 10390 Oliver Schulte
+
+(1) 10396 Yi Sun
+
+(1) 10413 Yves Grandvalet
+
+(1) 10433 Claudia Perlich
+
+(1) 10477 Peter J. Haas
+
+(1) 10481 Koray Kavukcuoglu
+
+(1) 10494 Liangliang Cao
+
+(1) 10528 Charles L. Isbell
+
+(1) 10562 Andrew McGregor
+
+(1) 10572 Jiang Su
+
+(1) 10614 Jialei Wang
+
+(1) 10617 Michinari Momma
+
+(1) 10618 Satoshi Morinaga
+
+(1) 10655 Le Song
+
+(1) 10690 Leonard Pitt
+
+(1) 10713 Judea Pearl
+
+(1) 10734 Ming Yang
+
+(1) 10811 Kari Torkkola
+
+(1) 10818 Birgit Tausend
+
+(1) 10820 Wolfgang Maass
+
+(1) 10830 Craig Saunders
+
+(1) 10831 Ilia Nouretdinov
+
+(1) 10832 Volodya Vovk
+
+(1) 10846 Faustino J. Gomez
+
+(1) 10847 Risto Miikkulainen
+
+(1) 10849 Manuela M. Veloso
+
+(1) 10851 J. Ross Quinlan
+
+(1) 10861 Peter Geibel
+
+(1) 10862 Francesco Bergadano
+
+(1) 10867 Isabelle Guyon
+
+(1) 10872 Ole Martin Halck
+
+(1) 10882 Herman L. Ferrá
+
+(1) 10887 N. Jeremy Hill
+
+(1) 10891 András Kocsor
+
+(1) 10902 Tilman Lange
+
+(1) 10906 Lluís Màrquez
+
+(1) 10912 Ronen I. Brafman
+
+(1) 10914 Mehryar Mohri
+
+(1) 10915 Irene Stahl
+
+(1) 10918 Marko Robnik-Sikonja
+
+(1) 10926 Pat Langley
+
+(1) 10932 David Grangier
+
+(1) 10934 Samy Bengio
+
+(1) 10937 Peter Clark
+
+(1) 10943 Enric Plaza
+
+(1) 10955 Jo-Anne Ting
+
+(1) 10957 Stefan Schaal
+
+(1) 10961 Stephen Muggleton
+
+(1) 10963 Shan-Hwei Nienhuys-Cheng
+
+(1) 10964 Dan Pelleg
+
+(1) 10968 Daniel Boley
+
+(1) 10970 Dennis DeCoste
+
+(1) 10973 Santiago Ontañón
+
+(1) 10991 Nicholas Kushmerick
+
+(1) 11004 Antal van den Bosch
+
+(1) 11018 Daan Wierstra
+
+(1) 11027 Olivier Bousquet
+
+(1) 11028 Richard S. Sutton
+
+(1) 11029 Satinder P. Singh
+
+(1) 11035 Jean-Daniel Zucker
+
+(1) 11046 Marcus Hutter
+
+(1) 11051 Martin A. Riedmiller
+
+(1) 11052 Gheorghe Tecuci
+
+(1) 11063 Lorenza Saitta
+
+(1) 11073 Stuart J. Russell
+
+(1) 11075 Attilio Giordana
+
+(1) 11077 Ashutosh Garg
+
+(1) 11087 Claude Sammut
+
+(1) 11090 Rajesh P. N. Rao
+
+(1) 11092 Ashwin Ram
+
+(1) 11096 Marco Wiering
+
+(1) 11097 Petri Kontkanen
+
+(1) 11099 Ioannis Tsochantaridis
+
+(1) 11115 Douglas Aberdeen
+
+(1) 11118 Alain Rakotomamonjy
+
+(1) 11131 Daniel Borrajo
+
+(1) 11133 Joelle Pineau
+
+(1) 11137 Stephen D. Bay
+
+(1) 11147 Gerald Tesauro
+
+(1) 11152 Justus H. Piater
+
+(1) 11155 Peter Haider
+
+(1) 11167 Ashwin Srinivasan
+
+(1) 11194 Ioannis Katakis
+
+(1) 11215 Balaji Krishnapuram
+
+(1) 11219 Mark Craven
+
+(1) 11220 Seán Slattery
+
+(1) 11221 Dominic Mazzoni
+
+(1) 11222 Michael C. Burl
+
+(1) 11229 Larry A. Rendell
+
+(1) 11275 Dietrich Wettschereck
+
+(1) 11278 Alexander Gammerman
+
+(1) 11286 Quoc V. Le
+
+(1) 11287 Yasemin Altun
+
+(1) 11296 Clifford Brunk
+
+(1) 11297 Dorian Suc
+
+(1) 11304 David W. Aha
+
+(1) 11313 Cullen Schaffer
+
+(1) 11321 Matthew Brand
+
+(1) 11328 Harald Steck
+
+(1) 11377 Masayuki Numao
+
+(1) 11383 Yaakov Engel
+
+(1) 11389 Jason V. Davis
+
+(1) 11402 Dennis F. Kibler
+
+(1) 11409 Kenneth A. De Jong
+
+(1) 11416 Shiau Hong Lim
+
+(1) 11429 Thomas J. Walsh
+
+(1) 11431 Michael L. Littman
+
+(1) 11438 Marko Bohanec
+
+(1) 11439 Jason Catlett
+
+(1) 11446 Marco Botta
+
+(1) 11450 Rahul Sukthankar
+
+(1) 11468 Colin de la Higuera
+
+(1) 11469 Jean-Christophe Janodet
+
+(1) 11473 Guido Sanguinetti
+
+(1) 11478 Ronald Ortner
+
+(1) 11485 Claudio Carpineto
+
+(1) 11492 Han Liu
+
+(1) 11509 Wei Wang 0028
+
+(1) 11513 Peter Grünwald
+
+(1) 11525 Siwei Lyu
+
+(1) 11526 Sander M. Bohte
+
+(1) 11534 Stephen Kwek
+
+(1) 11565 Cèsar Ferri Ramirez
+
+(1) 11569 Matthias W. Seeger
+
+(1) 11570 Sebastian Gerwinn
+
+(1) 11571 Matthias Bethge
+
+(1) 11574 Ryszard S. Michalski
+
+(1) 11576 Christino Tamon
+
+(1) 11592 Corinna Cortes
+
+(1) 11593 Daryl Pregibon
+
+(1) 11603 Sanjay Ranka
+
+(1) 11612 Max Welling
+
+(1) 11632 Geoff Hulten
+
+(1) 11635 Gang Wei
+
+(1) 11643 Gary William Flake
+
+(1) 11653 D. Sculley
+
+(1) 11666 Steve A. Chien
+
+(1) 11670 Dekang Lin
+
+(1) 11693 Zaiqing Nie
+
+(1) 11713 Michael Kearns
+
+(1) 11746 Andrew W. Moore
+
+(1) 11756 Lawrence K. Saul
+
+(1) 11757 Stefan Savage
+
+(1) 11758 Geoffrey M. Voelker
+
+(1) 11801 Alexandros G. Dimakis
+
+(1) 11802 Usama M. Fayyad
+
+(1) 11804 Paul S. Bradley
+
+(1) 11837 Randy Kerber
+
+(1) 11838 Nadia Bianchi-Berthouze
+
+(1) 11848 Parikshit Ram
+
+(1) 11857 Rob Fergus
+
+(1) 11866 Igor V. Cadez
+
+(1) 11884 Sen Yang
+
+(1) 11885 Qian Sun
+
+(1) 11886 Peter Wonka
+
+(1) 11905 Pinghua Gong
+
+(1) 11923 Edoardo Airoldi
+
+(1) 11929 Feng Yan
+
+(1) 11935 Serge J. Belongie
+
+(1) 11948 Alexander T. Ihler
+
+(1) 11949 Masamichi Shimura
+
+(1) 11954 Lawrence D. Jackel
+
+(1) 11966 Michael L. Wick
+
+(1) 11970 Ting Wang
+
+(1) 11985 Omid Madani
+
+(1) 11999 Ronald K. Pearson
+
+(1) 12015 William DuMouchel
+
+(1) 12046 Lian Yan
+
+(1) 12059 Harris Drucker
+
+(1) 12067 George H. John
+
+(1) 12082 Brian Kulis
+
+(1) 12115 Xun Zheng
+
+(1) 12132 Kewei Chen
+
+(1) 12133 Teresa Wu
+
+(1) 12134 Jing Li
+
+(1) 12138 Eric Reiman
+
+(1) 12140 Dehua Cheng
+
+(1) 12149 Simon Lacoste-Julien
+
+(1) 12150 Konstantina Palla
+
+(1) 12156 Sudipto Guha
+
+(1) 12167 Moshe Koppel
+
+(1) 12198 Takanori Maehara
+
+(1) 12200 Ken-ichi Kawarabayashi
+
+(1) 12206 Rajeev Rastogi
+
+(1) 12211 Wei Li 0010
+
+(1) 12213 Paul E. Stolorz
+
+(1) 12231 Lei Yuan
+
+(1) 12235 Trevor Hastie
+
+(1) 12236 Robert Tibshirani
+
+(1) 12241 Xiaodan Song
+
+(1) 12247 Dmitriy Fradkin
+
+(1) 12250 Jun-ichi Takeuchi
+
+(1) 12259 Christopher J. Matheus
+
+(1) 12272 Carlos Guestrin
+
+(1) 12313 Michael Brückner
+
+(1) 12318 David Heckerman
+
+(1) 12326 Manik Varma
+
+(1) 12327 Ashish Kapoor
+
+(1) 12335 William B. March
+
+(1) 12418 Brian Dalessandro
+
+(1) 12421 Andreas Krause
+
+(1) 12428 Shuo Xiang
+
+(1) 12437 John V. Guttag
+
+(1) 12470 Lisa Friedland
+
+(1) 12481 Matthew Richardson
+
+(1) 12499 Rong Ge
+
+(1) 12519 Jungsoon P. Yoo
+
+(1) 12533 Tong Zhang 0001
+
+(1) 12564 James R. Foulds
+
+(1) 12573 Kaushik Sinha
+
+(1) 12590 Huahua Wang
+
+(1) 12600 J. Saketha Nath
+
+(1) 12608 Junling Hu
+
+(1) 12609 Honglak Lee
+
+(1) 12612 Andrew Cotter
+
+(1) 12613 Nathan Srebro
+
+(1) 12614 Joseph Keshet
+
+(1) 12617 Jin Yu
+
+(1) 12662 Robert Kleinberg
+
+(1) 12676 Cun-Hui Zhang
+
+(1) 12689 Dafna Shahaf
+
+(1) 12702 Bert Huang
+
+(1) 12737 Pietro Perona
+
+(1) 12740 Christos Boutsidis
+
+(1) 12742 Shu-Ching Chen
+
+(1) 12747 Graham Cormode
+
+(1) 12769 David Newman
+
+(1) 12770 Arthur U. Asuncion
+
+(1) 12793 Liang Sun
+
+(1) 12809 Rodolphe Jenatton
+
+(1) 12815 Robert A. Legenstein
+
+(1) 12827 Jianhui Chen
+
+(1) 12831 Haym Hirsh
+
+(1) 12880 John E. Moody
+
+(1) 12908 Martin Zinkevich
+
+(1) 12911 Leonid Sigal
+
+(1) 12915 Laurent Charlin
+
+(1) 12916 Richard S. Zemel
+
+(1) 12917 Hugo Larochelle
+
+(1) 12945 Ichiro Takeuchi
+
+(1) 12950 Ming Tan
+
+(1) 12985 Gökhan H. Bakir
+
+(1) 12986 Charles A. Sutton
+
+(1) 12987 Chris Mesterharm
+
+(1) 13040 Bilson J. L. Campana
+
+(1) 13055 Steven Salzberg
+
+(1) 13086 Quan Yuan
+
+(1) 13121 Mark Steyvers
+
+(1) 13122 Michal Rosen-Zvi
+
+(1) 13123 Thomas L. Griffiths
+
+(1) 13129 Dharmendra S. Modha
+
+(1) 13173 David A. McAllester
+
+(1) 13174 Daphne Koller
+
+(1) 13185 Eric Mjolsness
+
+(1) 13265 Ni Lao
+
+(1) 13299 Giovanni Zappella
+
+(1) 13306 Anton Schwaighofer
+
+(1) 13307 Joaquin Quiñonero Candela
+
+(1) 13367 Kostas Tsioutsiouliklis
+
+(1) 13495 Finale Doshi-Velez
+
+(1) 13503 Ido Dagan
+
+(1) 13541 Seth Rogers
+
+(1) 13546 Jonathan Chang
+
+(1) 13547 Jordan L. Boyd-Graber
+
+(1) 13565 Rita Chattopadhyay
+
+(1) 13570 Richard G. Baraniuk
+
+(1) 13605 Misha Denil
+
+(1) 13606 Nando de Freitas
+
+(1) 13654 Andreas S. Weigend
+
+(1) 13676 Amin Karbasi
+
+(1) 13688 John C. Platt
+
+(1) 13709 Qirong Ho
+
+(1) 13715 Yaoliang Yu
+
+(1) 13757 Jian Zhang 0003
+
+(1) 13760 David Wolpert
+
+(1) 13767 David C. Parkes
+
+(1) 13791 Nimrod Megiddo
+
+(1) 13849 Valery A. Petrushin
+
+(1) 13850 Kristian J. Hammond
+
+(1) 13901 Min Xu
+
+(1) 13902 Emily B. Fox
+
+(1) 13915 Gal Chechik
+
+(1) 13932 Gary M. Weiss
+
+(1) 13941 Aharon Bar-Hillel
+
+(1) 14023 Ke Yang
+
+(1) 14037 Mingrui Wu
+
+(1) 14190 Marcos Salganicoff
+
+(1) 14215 Frank McSherry
+
+(1) 14218 Siddharth Gopal
+
+(1) 14219 Kenichi Kurihara
+
+(1) 14298 Yi Li
+
+(1) 14299 David P. Woodruff
+
+(1) 14320 David M. Mimno
+
+(1) 14331 Theodoros Evgeniou
+
+(1) 14341 Purnamrita Sarkar
+
+(1) 14428 Anastasios T. Kyrillidis
+
+(1) 14436 Katherine A. Heller
+
+(1) 14455 H. Brendan McMahan
+
+(1) 14463 Daniel Golovin
+
+(1) 14475 David Haussler
+
+(1) 14478 Tong Zhang
+
+(1) 14490 Roberto Esposito
+
+(1) 14499 Harikrishna Narasimhan
+
+(1) 14500 Shivani Agarwal 0001
+
+(1) 14508 Steve Goodison
+
+(1) 14547 Ji Liu 0002
+
+(1) 14563 Lijun Zhang 0005
+
+(1) 14591 Joshua Alspector
+
+(1) 14665 John William Paisley
+
+(1) 14666 Hanna M. Wallach
+
+(1) 14675 Richard M. Karp
+
+(1) 14690 Andrew Y. Ng
+
+(1) 14711 Gautam Biswas
+
+(1) 14802 Chuanyi Ji
+
+(1) 14806 Alina Beygelzimer
+
+(1) 14826 Jitendra Malik
+
+(1) 14862 Hua Ouyang
+
+(1) 14871 Özgür Simsek
+
+(1) 14976 Khashayar Rohanimanesh
+
+(1) 15011 Fei-Fei Li
+
+(1) 15020 Alina Ene
+
+(1) 15105 Mikhail Belkin
+
+(1) 15106 Fabian L. Wauthier
+
+(1) 15107 Nebojsa Jojic
+
+(1) 15127 Zhaosong Lu
+
+(1) 15170 Lin Xiao
+
+(1) 15171 Thomas Finley
+
+(1) 15176 Naftali Tishby
+
+(1) 15178 Ronald Parr
+
+(1) 15180 Richard Lippmann
+
+(1) 15181 M. Pawan Kumar
+
+(1) 15182 Philip H. S. Torr
+
+(1) 15183 Michael A. Osborne
+
+(1) 15184 David K. Duvenaud
+
+(1) 15186 Theodore J. Perkins
+
+(1) 15187 Sam T. Roweis
+
+(1) 15192 Carl Edward Rasmussen
+
+(1) 15195 Christof Koch
+
+(1) 15197 Peter Sykacek
+
+(1) 15198 Larry A. Wasserman
+
+(1) 15204 Dmitri B. Chklovskii
+
+(1) 15208 Paul W. Munro
+
+(1) 15214 Daniel Tarlow
+
+(1) 15215 Victor Gabillon
+
+(1) 15216 Mohammad Ghavamzadeh
+
+(1) 15217 Sébastien Bubeck
+
+(1) 15226 Michael H. Bowling
+
+(1) 15228 Deva Ramanan
+
+(1) 15229 Raghu Meka
+
+(1) 15230 Prateek Jain 0002
+
+(1) 15231 Eero P. Simoncelli
+
+(1) 15234 David Hsu
+
+(1) 15244 Bernd Porr
+
+(1) 15246 Florentin Wörgötter
+
+(1) 15249 David G. Stork
+
+(1) 15255 Rishabh K. Iyer
+
+(1) 15256 Jeff A. Bilmes
+
+(1) 15258 Morten Mørup
+
+(1) 15262 Lars Kai Hansen
+
+(1) 15263 Wim Wiegerinck
+
+(1) 15266 Karthik Sridharan
+
+(1) 15267 Shai Shalev-Shwartz
+
+(1) 15268 Barak A. Pearlmutter
+
+(1) 15269 Lucas C. Parra
+
+(1) 15274 Yair Weiss
+
+(1) 15275 William T. Freeman
+
+(1) 15277 Michael Bowling
+
+(1) 15289 Javier R. Movellan
+
+(1) 15293 Elad Hazan
+
+(1) 15295 Gábor Bartók
+
+(1) 15297 Nuno Vasconcelos
+
+(1) 15298 Wouter M. Koolen
+
+(1) 15301 Kwabena Boahen
+
+(1) 15302 Andreas G. Andreou
+
+(1) 15303 Ralph Neuneier
+
+(1) 15305 Bill Triggs
+
+(1) 15306 Michael O. Duff
+
+(1) 15307 Andrew G. Barto
+
+(1) 15308 Christopher K. I. Williams
+
+(1) 15309 Christopher G. Atkeson
+
+(1) 15311 Terrence J. Sejnowski
+
+(1) 15315 Liam Paninski
+
+(1) 15319 Michael C. Mozer
+
+(1) 15321 Huan Xu
+
+(1) 15322 Constantine Caramanis
+
+(1) 15326 Greg Mori
+
+(1) 15328 John S. Denker
+
+(1) 15337 Benjamin Van Roy
+
+(1) 15344 David Gamarnik
+
+(1) 15345 Devavrat Shah
+
+(1) 15348 William M. Campbell
+
+(1) 15351 Steven Gold
+
+(1) 15353 David Saad
+
+(1) 15354 Eunho Yang
+
+(1) 15355 Pradeep D. Ravikumar
+
+(1) 15358 Tim van Erven
+
+(1) 15365 David E. Rumelhart
+
+(1) 15370 Mikio L. Braun
+
+(1) 15373 Alan S. Willsky
+
+(1) 15374 Geoffrey E. Hinton
+
+(1) 15376 Yishay Mansour
+
+(1) 15379 Trevor Darrell
+
+(1) 15380 Sepp Hochreiter
+
+(1) 15381 Michael Mozer
+
+(1) 15382 DeLiang L. Wang
+
+(1) 15384 Liefeng Bo
+
+(1) 15386 Dieter Fox
+
+(1) 15387 Liva Ralaivola
+
+(1) 15397 Gábor Lugosi
+
+(1) 15398 Gilles Stoltz
+
+(1) 15402 Wulfram Gerstner
+
+(1) 15410 Sean Gerrish
+
+(1) 15414 Tommi S. Jaakkola
+
+(1) 15415 Sophie Denève
+
+(1) 15417 Alexandre Pouget
+
+(1) 15418 Tony Plate
+
+(1) 15421 Manfred Opper
+
+(1) 15424 David J. Fleet
+
+(1) 15425 Aaron Hertzmann
+
+(1) 15431 Peter Dayan
+
+(1) 15432 Máté Lengyel
+
+(1) 15433 Mehmet Gönen
+
+(1) 15435 Alyson K. Fletcher
+
+(1) 15436 Sundeep Rangan
+
+(1) 15438 Paul A. Viola
+
+(1) 15442 Andreas Ziehe
+
+(1) 15443 Adel Javanmard
+
+(1) 15444 Andrea Montanari
+
+(1) 15445 Afshin Rostamizadeh
+
+(1) 15447 Craig Boutilier
+
+(1) 15453 Wu-Jun Li
+
+(1) 15454 Robert C. Williamson
+
+(1) 15455 Kian Ming Adam Chai
+
+(1) 15456 Roi Livni
+
+(1) 15457 Ohad Shamir
+
+(1) 15461 Mitsuo Kawato
+
+(1) 15465 Suzanna Becker
+
+(1) 15467 Laurent Itti
+
+(1) 15472 Daniel M. Roy
+
+(1) 15473 Yee Whye Teh
+
+(1) 15475 John N. Tsitsiklis
+
+(1) 15482 Garrison W. Cottrell
+
+(1) 15486 Shimon Ullman
+
+(1) 15492 Raquel Urtasun
+
+(1) 15495 André Elisseeff
+
+(1) 15499 Joshua B. Tenenbaum
+
+(1) 15501 Gilles Blanchard
+
+(1) 15502 Virginia R. de Sa
+
+(1) 15503 Dana H. Ballard
+
+(1) 15504 Richard Socher
+
+(1) 15506 Xiaohui Xie
+
+(1) 15507 H. Sebastian Seung
+
+(1) 15508 Abhishek Kumar 0001
+
+(1) 15510 Anthony M. Zador
+
+(1) 15512 Soumya Ray
+
+(1) 15513 Sham M. Kakade
+
+(1) 15521 Marina Meila
+
+(1) 15522 Ashish Sabharwal
+
+(1) 15524 Mário A. T. Figueiredo
+
+(1) 15526 Partha Niyogi
+
+(1) 15528 Sujay Sanghavi
+
+(1) 15530 Aryeh Kontorovich
+
+(1) 15532 Tamir Hazan
+
+(1) 15536 Chunhua Shen
+
+(1) 15544 Anthony J. Robinson
+
+(1) 15545 Yevgeny Seldin
+
+(1) 15546 Noam Slonim
+
+(1) 15548 Matthew J. Beal
+
+(1) 15549 Jean-Yves Audibert
+
+(1) 15550 John M. Winn
+
+(1) 15554 Guillaume Obozinski
+
+(1) 15555 Martin J. Wainwright
+
+(1) 15556 Jaz S. Kandola
+
+(1) 15559 Hai Leong Chieu
+
+(1) 15562 Jakob H. Macke
+
+(1) 15563 Iain Murray
+
+(1) 15564 Peter E. Latham
+
+(1) 15565 Sebastian Mika
+
+(1) 15566 Manfred K. Warmuth
+
+(1) 15567 Brendan J. Frey
+
+(1) 15574 Maneesh Sahani
+
+(1) 15576 Balázs Szörényi
+
+(1) 15578 Terence D. Sanger
+
+(1) 15579 Hiroyuki Nakahara
+
+(1) 15580 Taiji Suzuki
+
+(1) 15585 Fei Sha
+
+(1) 15587 Bruno A. Olshausen
+
+(1) 15593 Joseph L. Austerweil
+
+(1) 15594 John Blitzer
+
+(1) 15595 Fernando Pereira
+
+(1) 15596 Jennifer Wortman
+
+(1) 15597 Geoffrey J. Goodhill
+
+(1) 15599 Ryan Gomes
+
+(1) 15604 Christopher J. Merz
+
+(1) 15609 Eilon Vaadia
+
+(1) 15614 John Wright
+
+(1) 15618 Florian Steinke
+
+(1) 15619 Matthias Hein 0001
+
+(1) 15625 Scott Makeig
+
+(1) 15631 Kenji Fukumizu
+
+(1) 15633 Hava T. Siegelmann
+
+(1) 15636 Paul Ruvolo
+
+(1) 15638 Kamalika Chaudhuri
+
+(1) 15639 Sanjoy Dasgupta
+
+(1) 15645 Arnaud Doucet
+
+(1) 15646 Ole Winther
+
+(1) 15647 Varun Kanade
+
+(1) 15649 Praneeth Netrapalli
+
+(1) 15652 Shih-Chii Liu
+
+(1) 15653 John G. Harris
+
+(1) 15656 John C. Duchi
+
+(1) 15661 Avrim Blum
+
+(1) 15664 Daniel Hsu
+
+(1) 15665 Alexander Rakhlin
+
+(1) 15668 Haim Sompolinsky
+
+(1) 15669 Daniel D. Lee
+
+(1) 15670 James M. Bower
+
+(1) 15673 Timothy X. Brown
+
+(1) 15679 Giacomo Indiveri
+
+(1) 15680 Rodney J. Douglas
+
+(1) 15683 Claudio Gentile
+
+(1) 15685 K. Y. Michael Wong
+
+(1) 15686 Si Wu
+
+(1) 15688 Te-Won Lee
+
+(1) 15689 Anthony J. Bell
+
+(1) 15696 Noah D. Goodman
+
+(1) 15699 David P. Wipf
+
+(1) 15701 Bhaskar D. Rao
+
+(1) 15713 Adnan Darwiche
+
+(1) 15714 Fabio Vitale
+
+(1) 15715 Baback Moghaddam
+
+(1) 15716 Ming-Hsuan Yang
+
+(1) 15717 Nicol N. Schraudolph
+
+(1) 15720 Marcello Pelillo
+
+(1) 15724 Mark Herbster
+
+(1) 15730 Felix V. Agakov
+
+(1) 15732 Masato Okada
+
+(1) 15733 Kazuyuki Aihara
+
+(1) 15735 Daniel J. Navarro
+
+(1) 15738 William Bialek
+
+(1) 15741 Maya R. Gupta
+
+(1) 15745 Clayton D. Scott
+
+(1) 15752 David B. Dunson
+
+(1) 15755 Alexei A. Efros
+
+(1) 15756 David A. Cohn
+
+(1) 15759 Ralph Etienne-Cummings
+
+(1) 15766 Stephen Jose Hanson
+
+(1) 15768 Moritz Hardt
+
+(1) 15774 Mohammad Emtiyaz Khan
+
+(1) 15775 Shakir Mohamed
+
+(1) 15776 Kevin P. Murphy
+
+(1) 15787 Bernhard E. Boser
+
+(1) 15789 Charles Lee Isbell Jr.
+
+(1) 15802 Shuheng Zhou
+
+(1) 15803 Daphna Weinshall
+
+(1) 15805 Amnon Shashua
+
+(1) 15810 Zaïd Harchaoui
+
+(1) 15811 Lawrence Cayton
+
+(1) 15812 Pradeep K. Ravikumar
+
+(1) 15815 Alan F. Murray
+
+(1) 15821 Leon N. Cooper
+
+(1) 15832 Samory Kpotufe
+
+(1) 15841 Chuong B. Do
+
+(1) 15842 Dana Ron
+
+(1) 15851 Ah Chung Tsoi
+
+(1) 15857 Christian K. Machens
+
+(1) 15863 Stefano Soatto
+
+(1) 15867 Alan L. Yuille
+
+(1) 15869 Timothy K. Horiuchi
+
+(1) 15871 Stephen P. DeWeerth
+
+(1) 15873 Rajat Raina
+
+(1) 15874 Ofer Dekel
+
+(1) 15876 Cristian Sminchisescu
+
+(1) 15889 Subutai Ahmad
+
+(1) 15890 Yasin Abbasi-Yadkori
+
+(1) 15891 Dávid Pál
+
+(1) 15893 Michalis K. Titsias
+
+(1) 15900 Volker Roth
+
+(1) 15906 Radford M. Neal
+
+(1) 15910 Reza Shadmehr
+
+(1) 15917 Deepti Pachauri
+
+(1) 15918 Risi Kondor
+
+(1) 15920 Vikas Singh
+
+(1) 15929 Patrik O. Hoyer
+
+(1) 15930 Dominik Janzing
+
+(1) 15931 Joris M. Mooij
+
+(1) 15932 Jonas Peters
+
+(1) 15937 John A. Hertz
+
+(1) 15941 Zheng Wen
+
+(1) 15943 Odelia Schwartz
+
+(1) 15946 Marwan A. Jabri
+
+(1) 15955 Fernando Pérez-Cruz
+
+(1) 15960 Gregory Shakhnarovich
+
+(1) 15962 Michael J. Black
+
+(1) 15969 Marco Cuturi
+
+(1) 15980 Polina Golland
+
+(1) 15981 Amit Daniely
+
+(1) 15982 Sivan Sabato
+
+(1) 15985 Mark A. Gluck
+
+(1) 15989 Gal Elidan
+
+(1) 15993 Jean-François Paiement
+
+(1) 15995 Nicolas Le Roux
+
+(1) 16003 Demetri Psaltis
+
+(1) 16005 Jack D. Cowan
+
+(1) 16012 Cassio Polpo de Campos
+
+(1) 16021 Clayton Scott
+
+(1) 16028 Peter Sollich
+
+(1) 16029 Anders Krogh
+
+(1) 16032 Haim Avron
+
+(1) 16042 Rina Foygel
+
+(1) 16043 Sourangshu Bhattacharya
+
+(1) 16048 Emanuel Todorov
+
+(1) 16053 Surya Ganguli
+
+(1) 16071 Adam Tauman Kalai
+
+(1) 16073 Bartlett W. Mel
+
+(1) 16077 Anthony C. C. Coolen
+
+(1) 16090 Stephen Gould
+
+(1) 16098 Fredrik Lindsten
+
+(1) 16099 Thomas B. Schön
+
+(1) 16100 Marcello Restelli
+
+(1) 16102 Todd K. Leen
+
+(1) 16104 Alex Waibel
+
+(1) 16110 Fernando J. Pineda
+
+(1) 16115 Roderic A. Grupen
+
+(1) 16118 Ilya Sutskever
+
+(1) 16120 Antonio Torralba
+
+(1) 16126 Lester W. Mackey
+
+(1) 16143 J. Andrew Bagnell
+
+(1) 16149 Jia Yuan Yu
+
+(1) 16151 Genevieve B. Orr
+
+(1) 16152 James Bergstra
+
+(1) 16153 Rémi Bardenet
+
+(1) 16155 Jonathan Baxter
+
+(1) 16159 Alexandra Carpentier
+
+(1) 16162 Erik B. Sudderth
+
+(1) 16170 Michael Collins
+
+(1) 16171 Robert E. Schapire
+
+(1) 16178 Justin Domke
+
+(1) 16180 Marian Stewart Bartlett
+
+(1) 16188 Magnus Rattray
+
+(1) 16199 Jong-Hoon Oh
+
+(1) 16200 David Wingate
+
+(1) 16201 Nicholas Roy
+
+(1) 16215 Matus Telgarsky
+
+(1) 16216 Michael J. Kearns
+
+(1) 16217 Luis E. Ortiz
+
+(1) 16219 Steven J. Nowlan
+
+(1) 16220 Christian Walder
+
+(1) 16223 Eric Moulines
+
+(1) 16227 Alex Pentland
+
+(1) 16232 Arnak S. Dalalyan
+
+(1) 16236 Benjamin Recht
+
+(1) 16260 Nir Friedman
+
+(1) 16261 Sham Kakade
+
+(1) 16263 Klaus Pawelzik
+
+(1) 16269 Philip S. Thomas
+
+(1) 16271 James D. Keeler
+
+(1) 16277 Vittorio Murino
+
+(1) 16280 Guy Lever
+
+(1) 16290 Eric B. Baum
+
+(1) 16292 Robert A. Jacobs
+
+(1) 16294 Aaron C. Courville
+
+(1) 16301 Adam Kalai
+
+(1) 16315 Volkan Cevher
+
+(1) 16316 Dongryeol Lee
+
+(1) 16327 Lionel Tarassenko
+
+(1) 16337 Donnie Henderson
+
+(1) 16342 Jordan B. Pollack
+
+(1) 16347 Miguel Figueroa
+
+(1) 16348 Chris Diorio
+
+(1) 16362 Howard Hua Yang
+
+(1) 16363 Shun-ichi Amari
+
+(1) 16367 Sanjeev R. Kulkarni
+
+(1) 16368 Eytan Ruppin
+
+(1) 16370 David Horn
+
+(1) 16372 Kai-Yeung Siu
+
+(1) 16373 Thomas Kailath
+
+(1) 16374 John Lazzaro
+
+(1) 16389 Fernando C. N. Pereira
+
+(1) 16390 J. Zico Kolter
+
+(1) 16392 Ryan Prescott Adams
+
+(1) 16394 Alon Orlitsky
+
+(1) 16398 Janet Wiles
+
+(1) 16404 Sumio Watanabe
+
+(1) 16412 David S. Touretzky
+
+(1) 16414 Yang Wang 0003
+
+(1) 16423 Zhaoping Li
+
+(1) 16428 Christoph Bregler
+
+(1) 16429 Stephen M. Omohundro
+
+(1) 16431 Michael S. Lewicki
+
+(1) 16440 Eduardo D. Sontag
+
+(1) 16442 Gert Cauwenberghs
+
+(1) 16447 Piotr Dollár
+
+(1) 16453 Rocco A. Servedio
+
+(1) 16457 Alex Graves
+
+(1) 16458 Christopher Painter-Wakefield
+
+(1) 16461 Paul Smolensky
+
+(1) 16468 James Martens
+
+(1) 16471 Benjamin Taskar
+
+(1) 16489 Mladen Kolar
+
+(1) 16490 Sivaraman Balakrishnan
+
+(1) 16492 Aarti Singh
+
+(1) 16493 Marie Szafranski
+
+(1) 16496 Stefanie Jegelka
+
+(1) 16499 James Petterson
+
+(1) 16509 Hariharan Narayanan
+
+(1) 16516 Raman Arora
+
+(1) 16520 Tomas Mikolov
+
+(1) 16535 Isaac Meilijson
+
+(1) 16546 Clay Spence
+
+(1) 16547 Paul Sajda
+
+(1) 16551 Benjamin Schrauwen
+
+(1) 16553 José Carlos Príncipe
+
+(1) 16554 Philip M. Long
+
+(1) 16555 Daniel L. Ruderman
+
+(1) 16560 Sahand Negahban
+
+(1) 16563 Ben Taskar
+
+(1) 16571 Pushmeet Kohli
+
+(1) 16575 Gergely Neu
+
+(1) 16576 András Antos
+
+(1) 16600 Sanjeev Arora
+
+(1) 16601 Ankur Moitra
+
+(1) 16606 Jacob Abernethy
+
+(1) 16607 Satyen Kale
+
+(1) 16611 Hans Peter Graf
+
+(1) 16623 Ali Rahimi
+
+(1) 16627 Nick Littlestone
+
+(1) 16634 David Silver
+
+(1) 16637 Thomas R. Hancock
+
+(1) 16643 Shumeet Baluja
+
+(1) 16644 Dean Pomerleau
+
+(1) 16647 Rodney M. Goodman
+
+(1) 16652 Marc'Aurelio Ranzato
+
+(1) 16654 Geoffrey G. Towell
+
+(1) 16657 Lev Reyzin
+
+(1) 16663 Benjamin Blankertz
+
+(1) 16664 Gabriel Curio
+
+(1) 16672 Thomas Petsche
+
+(1) 16674 Christian Darken
+
+(1) 16677 Sewoong Oh
+
+(1) 16680 Alexandre Gramfort
+
+(1) 16681 Gaël Varoquaux
+
+(1) 16682 Bertrand Thirion
+
+(1) 16683 Andrew Guillory
+
+(1) 16692 Sven Koenig
+
+(1) 16693 Maxim Likhachev
+
+(1) 16697 Andrzej Cichocki
+
+(1) 16700 Liwei Wang
+
+(1) 16701 Krikamol Muandet
+
+(1) 16712 Diederik P. Kingma
+
+(1) 16717 Vwani P. Roychowdhury
+
+(1) 16722 Thomas Natschläger
+
+(1) 16724 Jason D. Lee
+
+(1) 16742 Amy Greenwald
+
+(1) 16756 Jonathan D. Cohen
+
+(1) 16767 Sajid M. Siddiqi
+
+(1) 16768 Byron Boots
+
+(1) 16778 David E. Carlson
+
+(1) 16786 Jörg Lücke
+
+(1) 16787 Dirk Husmeier
+
+(1) 16791 Ricardo Henao
+
+(1) 16810 Julian John McAuley
+
+(1) 16813 Laurent El Ghaoui
+
+(1) 16814 Timothy T. Rogers
+
+(1) 16818 Carver Mead
+
+(1) 16820 Aaron Defazio
+
+(1) 16823 Sergey Levine
+
+(1) 16824 Vladlen Koltun
+
+(1) 16827 Sylvain Arlot
+
+(1) 16829 Adam R. Klivans
+
+(1) 16837 John W. Fisher III
+
+(1) 16838 Fang Han
+
+(1) 16847 Bill G. Horne
+
+(1) 16850 Adam Coates
+
+(1) 16853 Robert H. Dodier
+
+(1) 16856 Dirk Ormoneit
+
+(1) 16867 Ronny Meir
+
+(1) 16881 Xiang Bai
+
+(1) 16889 Adams Wei Yu
+
+(1) 16900 Hervé Bourlard
+
+(1) 16901 Nelson Morgan
+
+(1) 16910 Anton van den Hengel
+
+(1) 16913 Noah A. Smith
+
+(1) 16919 Kevin Swersky
+
+(1) 16928 Les E. Atlas
+
+(1) 16936 Jianbo Shi
+
+(1) 16945 Shigenobu Kobayashi
+
+(1) 16960 Yingyu Liang
+
+(1) 16963 Patrick Haffner
+
+(1) 16965 Daniel B. Schwartz
+
+(1) 16998 Guo-Zheng Sun
+
+(1) 16999 Hsing-Hen Chen
+
+(1) 17000 Yee-Chun Lee
+
+(1) 17004 Yudong Chen
+
+(1) 17018 John C. Pearson
+
+(1) 17024 David P. Helmbold
+
+(1) 17031 Hans-Georg Zimmermann
+
+(1) 17033 Nathan Intrator
+
+(1) 17061 Miroslav Dudík
+
+(1) 17066 Nathaniel D. Daw
+
+(1) 17069 Andriy Mnih
+
+(1) 17078 Mátyás A. Sustik
+
+(1) 17083 Michael Schmitt
+
+(1) 17087 Dimitris Samaras
+
+(1) 17100 Pascal Germain
+
+(1) 17104 Thomas R. Shultz
+
+(1) 17109 Wyeth Bair
+
+(1) 17111 Peter V. Gehler
+
+(1) 17118 Paul W. Goldberg
+
+(1) 17123 Adam J. Grove
+
+(1) 17135 Oriol Vinyals
+
+(1) 17144 Su-In Lee
+
+(1) 17148 Matthias O. Franz
+
+(1) 17151 Richard Turner
+
+(1) 17156 Marc Lanctot
+
+(1) 17162 Ryan Kiros
+
+(1) 17180 Jian Li
+
+(1) 17189 Boaz Nadler
+
+(1) 17194 Toshiyuki Tanaka
+
+(1) 17200 Roland Memisevic
+
+(1) 17204 Zhirong Yang
+
+(1) 17211 Daniela Pucci de Farias
+
+(1) 17217 Philipp Hennig
+
+(1) 17218 Amir Massoud Farahmand
+
+(1) 17224 Angela J. Yu
+
+(1) 17234 Patrice Y. Simard
+
+(1) 17239 Jonathan W. Pillow
+
+(1) 17246 Krishna V. Shenoy
+
+(1) 17256 Seyoung Kim
+
+(1) 17262 Matthew D. Hoffman
+
+(1) 17269 Srikantan S. Nagarajan
+
+(1) 17277 Bill Baird
+
+(1) 17285 Qiang Liu
+
+(1) 17292 Frank H. Eeckman
+
+(1) 17294 Nati Srebro
+
+(1) 17295 Ambuj Tewari
+
+(1) 17307 Christopher J. C. Burges
+
+(1) 17309 Mark Girolami
+
+(1) 17313 Hossein Azari Soufiani
+
+(1) 17315 Lirong Xia
+
+(1) 17319 James M. Coughlan
+
+(1) 17327 Shimon Edelman
+
+(1) 17329 David Cohn
+
+(1) 17331 Bin Yu 0001
+
+(1) 17355 Hongjing Lu
+
+(1) 17363 Li Cheng
+
+(1) 17370 Larry S. Davis
+
+(1) 17372 David J. C. MacKay
+
+(1) 17404 Yichao Lu
+
+(1) 17406 James P. Callan
+
+(1) 17407 Pranjal Awasthi
+
+(1) 17409 Miguel Lázaro-Gredilla
+
+(1) 17422 Sally A. Goldman
+
+(1) 17447 Michael Fink 0002
+
+(1) 17448 Charles A. Micchelli
+
+(1) 17459 Fabian H. Sinz
+
+(1) 17466 Umar Syed
+
+(1) 17478 Luis Rademacher
+
+(1) 17488 Hagai Attias
+
+(1) 17495 Xuejun Liao
+
+(1) 17497 Zhenguo Li
+
+(1) 17502 Byron M. Yu
+
+(1) 17526 Yves Chauvin
+
+(1) 17540 Ingo Steinwart
+
+(1) 17541 Clint Scovel
+
+(1) 17544 Ian J. Goodfellow
+
+(1) 17548 Stephen Becker
+
+(1) 17552 Nan Ding
+
+(1) 17557 Vinayak Rao
+
+(1) 17560 Ying Zhao
+
+(1) 17577 Armand Joulin
+
+(1) 17583 George Konidaris
+
+(1) 17585 Vittorio Ferrari
+
+(1) 17592 Takayuki Osogami
+
+(1) 17615 Ronald L. Rivest
+
+(1) 17630 Sayan Mukherjee
+
+(1) 17634 Samuel Gershman
+
+(1) 17636 Michael E. Tipping
+
+(1) 17645 Tengyu Ma
+
+(1) 17646 Huy L. Nguyen
+
+(1) 17649 Uri Shalit
+
+(1) 17672 Vitaly Kuznetsov
+
+(1) 17703 André van Schaik
+
+(1) 17719 Xiaoou Tang
+
+(1) 17724 Tuomas Sandholm
+
+(1) 17730 Andrea Vedaldi
+
+(1) 17752 Stephen P. Boyd
+
+(1) 17759 Danilo Jimenez Rezende
+
+(1) 17782 Tomer Koren
+
+(1) 17785 Shaul Markovitch
+
+(1) 17789 Paris Smaragdis
+
+(1) 17804 Anoop Korattikara Balan
+
+(1) 17817 Ross B. Girshick
+
+(1) 17821 Varsha Dani
+
+(1) 17822 Thomas P. Hayes
+
+(1) 17854 Alan Stocker
+
+(1) 17862 Dima Kuzmin
+
+(1) 17877 Don R. Hush
+
+(1) 17901 S. Derin Babacan
+
+(1) 17905 Nicolas Heess
+
+(1) 17925 Amir Navot
+
+(1) 17946 Sara A. Solla
+
+(1) 17961 Joseph K. Bradley
+
+(1) 17975 Lorenzo Torresani
+
+(1) 17996 Emile Richard
+
+(1) 17997 Ashutosh Saxena
+
+(1) 18006 Il Memming Park
+
+(1) 18018 Alex Conconi
+
+(1) 18023 Andreas Ruttor
+
+(1) 18061 Alberto L. Sangiovanni-Vincentelli
+
+(1) 18101 Vladimir Kolmogorov
+
+(1) 18110 Percy Liang
+
+(1) 18117 Guillermo Sapiro
+
+(1) 18134 Joel Veness
+
+(1) 18154 Gregory Z. Grudic
+
+(1) 18164 Roger B. Grosse
+
+(1) 18173 Matthew J. Streeter
+
+(1) 18186 Dan Klein
+
+(1) 18197 Tomer Hertz
+
+(1) 18199 Andrew Zisserman
+
+(1) 18200 Noboru Murata
+
+(1) 18202 David A. Forsyth
+
+(1) 18219 Charles Blundell
+
+(1) 18221 Daniil Ryabko
+
+(1) 18225 Nitish Srivastava
+
+(1) 18241 John P. Cunningham
+
+(1) 18257 Esther Salazar
+
+(1) 18272 James Neufeld
+
+(1) 18306 Hamid Reza Maei
+
+(1) 18307 Shalabh Bhatnagar
+
+(1) 18310 Arthur Szlam
+
+(1) 18311 Karol Gregor
+
+(1) 18316 Ryan P. Adams
+
+(1) 18322 Sinisa Todorovic
+
+(1) 18325 Antoni B. Chan
+
+(1) 18350 Jiquan Ngiam
+
+(1) 18351 Pang Wei Koh
+
+(1) 18352 Zhenghao Chen
+
+(1) 18360 Sanjiv Kumar
+
+(1) 18401 Drew Bagnell
+
+(1) 18409 Vladimir Koltchinskii
+
+(1) 18444 Babak Hassibi
+
+(1) 18453 Sung Ju Hwang
+
+(1) 18465 Venkatesh Saligrama
+
+(1) 18476 Julien Mairal
+
+(1) 18489 Joachim Giesen
+
+(1) 18512 Joshua T. Vogelstein
+
+(1) 18556 Harish G. Ramaswamy
+
+(1) 18567 Purushottam Kar
+
+(1) 18568 Tadashi Shibata
+
+(1) 18585 Alexander G. Schwing
+
+(1) 18603 Alexandre Bouchard-Côté
+
+(1) 18616 Marthinus Christoffel du Plessis
+
+(1) 18626 Alexander L. Strehl
+
+(1) 18629 Benjamin M. Marlin
+
+(1) 18644 Joseph Sill
+
+(1) 18651 Marc Peter Deisenroth
+
+(1) 18652 Lars Buesing
+
+(1) 18663 Akshay Krishnamurthy
+
+(1) 18688 Gregory Valiant
+
+(1) 18717 Eyal Even-Dar
+
+(1) 18720 Stephen Tyree
+
+(1) 18753 Finnegan Southey
+
+(1) 18754 Jean Honorio
+
+(1) 18762 Ralf Schoknecht
+
+(1) 18763 Artur Merke
+
+(1) 18780 Fernando De la Torre
+
+(1) 18790 Alexandre B. Tsybakov
+
+(1) 18796 Bharath K. Sriperumbudur
+
+(1) 18797 Dino Sejdinovic
+
+(1) 18881 Tamás Linder
+
+(1) 18884 Neil Houlsby
+
+(1) 18903 Sören Laue
+
+(1) 18915 Lauren Hannah
+
+(1) 18921 Santosh S. Venkatesh
+
+(1) 19035 Jascha Sohl-Dickstein
+
+(1) 19059 Stéphane Ross
+
+(1) 19060 Brahim Chaib-draa
+
+(1) 19069 Sinead Williamson
+
+(1) 19071 David Balduzzi
+
+(1) 19084 Timothy Arthur Mann
+
+(1) 19135 Sean B. Holden
+
+(1) 19166 Haipeng Luo
+
+(1) 19184 David A. Knowles
+
+(1) 19234 Kunle Olukotun
+
+(1) 19307 Yutian Chen
+
+(1) 19340 Mélanie Rey
+
+(1) 19342 Ya Xue
+
+(1) 19344 Bernardino Romera-Paredes
+
+(1) 19357 Justin A. Boyan
+
+(1) 19444 Peder A. Olsen
+
+(1) 19484 Steven de Rooij
+
+(1) 19491 George E. Dahl
+
+(1) 19493 Laurens van der Maaten
+
+(1) 19499 Carsten Rother
+
+(1) 19524 Paul E. Utgoff
+
+(1) 19557 Martin Jaggi
+
+(1) 19568 Karl Pfleger
+
+(1) 19619 Aleksandrs Slivkins
+
+(1) 19641 Mahesan Niranjan
+
+(1) 19698 Yi Zhang 0010
+
+(1) 19707 Kihyuk Sohn
+
+(1) 19799 Takeo Kanade
+
+(1) 20065 Jeffrey C. Jackson
+
+(1) 20162 Aditya Bhaskara
+
+(1) 20178 Martial Hebert
+
+(1) 20213 Arlindo L. Oliveira
+
+(1) 20352 Yarin Gal
+
+(1) 20409 Vitaly Feldman
+
+(1) 20431 Yingjian Wang
+
+(1) 20459 Yichuan Tang
+
+(1) 20574 Hans-Ulrich Simon
+
+(1) 20645 Peter I. Frazier
+
+(1) 20727 Xiaoli Zhang Fern
+
+(1) 21396 Mark D. Pendrith
+
+(1) 21408 Eric Wiewiora
+
+(1) 21421 Dayne Freitag
+
+(1) 21425 Tom Bylander
+
+(1) 21463 Matt J. Kusner
+
+(1) 21471 Malcolm J. A. Strens
+
+(1) 21473 Peng Sun
+
+(1) 21476 Jakub Segen
+
+(1) 21492 Wenzhuo Yang
+
+(1) 21499 Jeffrey C. Schlimmer
+
+(1) 21511 Carl Myers Kadie
+
+(1) 21521 Aviv Tamar
+
+(1) 21522 James Wogulis
+
+(1) 21555 Diana F. Gordon
+
+(1) 21556 John J. Grefenstette
+
+(1) 21557 Randolph M. Jones
+
+(1) 21561 Scott E. Decatur
+
+(1) 21567 François Denis
+
+(1) 21577 Vianney Perchet
+
+(1) 21608 Carlos Diuk
+
+(1) 21637 Lisa Hellerstein
+
+(1) 21648 Hajime Kimura
+
+(1) 21669 Steven D. Whitehead
+
+(1) 21685 Vincent Conitzer
+
+(1) 21687 Xiangyang Xue
+
+(1) 21737 David C. Wilkins
+
+(1) 21764 Ruth Urner
+
+(1) 21778 Wayne Iba
+
+(1) 21820 Thomas J. Fuchs
+
+(1) 21824 Steve Hanneke
+
+(1) 21839 David J. Stracuzzi
+
+(1) 21862 Lawrence Hunter
+
+(1) 21877 Hongbin Zha
+
+(1) 21881 Malcolm R. K. Ryan
+
+(1) 21901 Kurt VanLehn
+
+(1) 21936 Yuxin Chen
+
+(1) 22051 Nader H. Bshouty
+
+(1) 22083 Claude-Nicolas Fiechter
+
+(1) 22101 Stephen C. Y. Lu
+
+(1) 22127 Shivaram Kalyanakrishnan
+
+(1) 22227 Jacob Steinhardt
+
+(1) 22374 Paul O'Rorke
+
+(1) 22457 Takaki Makino
+
+(1) 22520 Ha Quang Minh
+
+(1) 22541 Toby Hocking
+
+(1) 22593 Dmitry Vetrov
+
+(1) 22594 Patrick M. Murphy
+
+(1) 22614 Alberto Maria Segre
+
+(1) 22699 Karen Livescu
+
+(1) 22932 David Lopez-Paz
+
+(1) 23134 Paul Fischer
+
+(1) 23350 Frank Stephan
+
+(1) 23353 Leslie G. Valiant
+
+(1) 23359 Robert H. Sloan
+
+(1) 23362 V. G. Vovk
+
+(1) 23369 Santosh Vempala
+
+(1) 23373 Eiji Takimoto
+
+(1) 23374 Nikolas List
+
+(1) 23376 Martin Kummer
+
+(1) 23380 Robert P. Daley
+
+(1) 23387 Shahar Mendelson
+
+(1) 23390 Martin Anthony
+
+(1) 23394 Steffen Lange
+
+(1) 23400 Efim B. Kinber
+
+(1) 23401 Carl H. Smith
+
+(1) 23402 Mahendran Velauthapillai
+
+(1) 23403 Rolf Wiehagen
+
+(1) 23415 H. David Mathias
+
+(1) 23416 Dana Angluin
+
+(1) 23421 Rusins Freivalds
+
+(1) 23432 Sanjay Jain
+
+(1) 23444 Vijay Raghavan 0002
+
+(1) 23452 Arun Sharma
+
+(1) 23483 John Case
+
+(1) 23492 Thomas Zeugmann
+
+(1) 23493 William I. Gasarch
+
+(1) 23534 Eyal Kushilevitz
+
+(1) 23551 György Turán
+
+(1) 23569 Michael V. Vyugin
+
+(1) 23591 Nadav Eiron
+
+(2) 3 Bhavana Bharat Dalvi
+    4 William W. Cohen
+    
+(2) 6 Richard Nock
+    8 Frank Nielsen
+    
+(2) 6 Richard Nock
+    555 Marc Sebban
+    
+(2) 11 Einoshin Suzuki
+    4797 Shin Ando
+    
+(2) 12 Shusaku Tsumoto
+    1211 Shoji Hirano
+    
+(2) 12 Shusaku Tsumoto
+    5397 Hidenao Abe
+    
+(2) 20 Fei Tony Liu
+    21 Kai Ming Ting
+    
+(2) 22 Zhi-Hua Zhou
+    1461 Rong Jin
+    
+(2) 22 Zhi-Hua Zhou
+    2425 Yu-Feng Li
+    
+(2) 22 Zhi-Hua Zhou
+    2429 Yang Yu
+    
+(2) 22 Zhi-Hua Zhou
+    11509 Wei Wang 0028
+    
+(2) 27 Dunja Mladenic
+    444 Marko Grobelnik
+    
+(2) 29 Jilles Vreeken
+    188 Matthijs van Leeuwen
+    
+(2) 29 Jilles Vreeken
+    189 Arno Siebes
+    
+(2) 29 Jilles Vreeken
+    253 Nikolaj Tatti
+    
+(2) 34 Jan N. van Rijn
+    35 Joaquin Vanschoren
+    
+(2) 38 Wagner Meira Jr.
+    733 Adriano Veloso
+    
+(2) 38 Wagner Meira Jr.
+    2356 Mohammed Javeed Zaki
+    
+(2) 40 Donato Malerba
+    41 Michelangelo Ceci
+    
+(2) 40 Donato Malerba
+    42 Annalisa Appice
+    
+(2) 41 Michelangelo Ceci
+    42 Annalisa Appice
+    
+(2) 45 Volker Tresp
+    566 Hans-Peter Kriegel
+    
+(2) 45 Volker Tresp
+    1525 Maximilian Nickel
+    
+(2) 45 Volker Tresp
+    1852 Shipeng Yu
+    
+(2) 45 Volker Tresp
+    1853 Kai Yu
+    
+(2) 45 Volker Tresp
+    13306 Anton Schwaighofer
+    
+(2) 51 Nada Lavrac
+    3374 Dragan Gamberger
+    
+(2) 63 Jan Peters 0001
+    1534 Gerhard Neumann
+    
+(2) 65 Yann LeCun
+    15328 John S. Denker
+    
+(2) 65 Yann LeCun
+    17234 Patrice Y. Simard
+    
+(2) 71 Gerd Stumme
+    1194 Andreas Hotho
+    
+(2) 75 Masashi Sugiyama
+    744 Shinichi Nakajima
+    
+(2) 75 Masashi Sugiyama
+    2193 Hirotaka Hachiya
+    
+(2) 75 Masashi Sugiyama
+    2674 Ryota Tomioka
+    
+(2) 75 Masashi Sugiyama
+    2675 Hisashi Kashima
+    
+(2) 75 Masashi Sugiyama
+    9342 Gang Niu
+    
+(2) 75 Masashi Sugiyama
+    9554 Takafumi Kanamori
+    
+(2) 75 Masashi Sugiyama
+    12945 Ichiro Takeuchi
+    
+(2) 75 Masashi Sugiyama
+    15580 Taiji Suzuki
+    
+(2) 75 Masashi Sugiyama
+    17901 S. Derin Babacan
+    
+(2) 75 Masashi Sugiyama
+    18616 Marthinus Christoffel du Plessis
+    
+(2) 82 Jiawei Han
+    125 Wei Fan
+    
+(2) 82 Jiawei Han
+    126 Jing Gao
+    
+(2) 82 Jiawei Han
+    140 Philip S. Yu
+    
+(2) 82 Jiawei Han
+    157 Mohammad M. Masud
+    
+(2) 82 Jiawei Han
+    158 Latifur Khan
+    
+(2) 82 Jiawei Han
+    159 Bhavani M. Thuraisingham
+    
+(2) 82 Jiawei Han
+    875 Quanquan Gu
+    
+(2) 82 Jiawei Han
+    888 Deng Cai
+    
+(2) 82 Jiawei Han
+    890 Xiaofei He
+    
+(2) 82 Jiawei Han
+    891 Xifeng Yan
+    
+(2) 82 Jiawei Han
+    1306 Xin Jin
+    
+(2) 82 Jiawei Han
+    1412 Ming Ji
+    
+(2) 82 Jiawei Han
+    1413 Yizhou Sun
+    
+(2) 82 Jiawei Han
+    1414 Marina Danilevsky
+    
+(2) 82 Jiawei Han
+    1500 Sangkyum Kim
+    
+(2) 82 Jiawei Han
+    1650 Hyungsul Kim
+    
+(2) 82 Jiawei Han
+    1690 Jian Pei
+    
+(2) 82 Jiawei Han
+    2357 Charu C. Aggarwal
+    
+(2) 82 Jiawei Han
+    2528 Manish Gupta
+    
+(2) 82 Jiawei Han
+    3110 Chi Wang 0001
+    
+(2) 82 Jiawei Han
+    3633 Xiao Yu
+    
+(2) 82 Jiawei Han
+    4055 Qiaozhu Mei
+    
+(2) 82 Jiawei Han
+    4113 Xiang Ren
+    
+(2) 82 Jiawei Han
+    4361 Jialu Liu
+    
+(2) 82 Jiawei Han
+    4574 Dong Xin
+    
+(2) 82 Jiawei Han
+    4788 Hwanjo Yu
+    
+(2) 82 Jiawei Han
+    5695 Hong Cheng
+    
+(2) 82 Jiawei Han
+    7641 Cindy Xide Lin
+    
+(2) 82 Jiawei Han
+    7642 Bo Zhao
+    
+(2) 82 Jiawei Han
+    9522 Nihit Desai
+    
+(2) 82 Jiawei Han
+    9523 Heng Ji
+    
+(2) 85 Joydeep Ghosh
+    184 Ayan Acharya
+    
+(2) 85 Joydeep Ghosh
+    4237 Srujana Merugu
+    
+(2) 85 Joydeep Ghosh
+    4981 Gunjan Gupta
+    
+(2) 85 Joydeep Ghosh
+    5828 Inderjit S. Dhillon
+    
+(2) 85 Joydeep Ghosh
+    6077 Meghana Deodhar
+    
+(2) 85 Joydeep Ghosh
+    6961 Arindam Banerjee
+    
+(2) 99 Ljupco Todorovski
+    100 Saso Dzeroski
+    
+(2) 100 Saso Dzeroski
+    629 Hendrik Blockeel
+    
+(2) 100 Saso Dzeroski
+    8152 Bernard Zenko
+    
+(2) 105 Pierre Geurts
+    106 Louis Wehenkel
+    
+(2) 109 Naonori Ueda
+    375 Tomoharu Iwata
+    
+(2) 109 Naonori Ueda
+    1778 Kazumi Saito
+    
+(2) 109 Naonori Ueda
+    7249 Takeshi Yamada
+    
+(2) 115 Zhiyong Shen
+    117 Yi-Dong Shen
+    
+(2) 117 Yi-Dong Shen
+    6083 Liang Du
+    
+(2) 119 João Gama
+    1839 Pedro Pereira Rodrigues
+    
+(2) 121 Eibe Frank
+    122 Ian H. Witten
+    
+(2) 121 Eibe Frank
+    2205 Mark A. Hall
+    
+(2) 125 Wei Fan
+    126 Jing Gao
+    
+(2) 125 Wei Fan
+    140 Philip S. Yu
+    
+(2) 125 Wei Fan
+    759 Qiang Yang 0001
+    
+(2) 125 Wei Fan
+    872 Sihong Xie
+    
+(2) 125 Wei Fan
+    873 Olivier Verscheure
+    
+(2) 125 Wei Fan
+    874 Jiangtao Ren
+    
+(2) 125 Wei Fan
+    1105 Ian Davidson
+    
+(2) 125 Wei Fan
+    1455 ErHeng Zhong
+    
+(2) 125 Wei Fan
+    1689 Haixun Wang
+    
+(2) 125 Wei Fan
+    2435 Hanghang Tong
+    
+(2) 125 Wei Fan
+    2441 Xiaoxiao Shi
+    
+(2) 125 Wei Fan
+    2591 Kun Zhang
+    
+(2) 125 Wei Fan
+    2880 Jing Peng
+    
+(2) 125 Wei Fan
+    4834 Jieping Ye
+    
+(2) 125 Wei Fan
+    7317 Salvatore J. Stolfo
+    
+(2) 126 Jing Gao
+    140 Philip S. Yu
+    
+(2) 126 Jing Gao
+    157 Mohammad M. Masud
+    
+(2) 126 Jing Gao
+    158 Latifur Khan
+    
+(2) 126 Jing Gao
+    159 Bhavani M. Thuraisingham
+    
+(2) 126 Jing Gao
+    802 Nan Du
+    
+(2) 126 Jing Gao
+    1413 Yizhou Sun
+    
+(2) 126 Jing Gao
+    5156 Aidong Zhang
+    
+(2) 126 Jing Gao
+    5916 Kang Li
+    
+(2) 127 Yong Yu
+    759 Qiang Yang 0001
+    
+(2) 127 Yong Yu
+    781 Wenyuan Dai
+    
+(2) 127 Yong Yu
+    782 Gui-Rong Xue
+    
+(2) 132 Johannes Fürnkranz
+    918 Eyke Hüllermeier
+    
+(2) 133 Jessica Lin 0001
+    134 Eamonn J. Keogh
+    
+(2) 134 Eamonn J. Keogh
+    1173 Gustavo E. A. P. A. Batista
+    
+(2) 134 Eamonn J. Keogh
+    2404 Chotirat (Ann) Ratanamahatana
+    
+(2) 134 Eamonn J. Keogh
+    2653 Michael J. Pazzani
+    
+(2) 134 Eamonn J. Keogh
+    4765 Li Wei
+    
+(2) 134 Eamonn J. Keogh
+    5148 Dragomir Yankov
+    
+(2) 134 Eamonn J. Keogh
+    5163 Bing Hu 0001
+    
+(2) 134 Eamonn J. Keogh
+    5164 Thanawin Rakthanmanon
+    
+(2) 134 Eamonn J. Keogh
+    5167 Stefano Lonardi
+    
+(2) 134 Eamonn J. Keogh
+    5885 Yanping Chen 0005
+    
+(2) 134 Eamonn J. Keogh
+    5886 Jesin Zakaria
+    
+(2) 134 Eamonn J. Keogh
+    5965 Abdullah Mueen
+    
+(2) 134 Eamonn J. Keogh
+    6887 Qiang Zhu 0002
+    
+(2) 134 Eamonn J. Keogh
+    7826 Xiaopeng Xi
+    
+(2) 134 Eamonn J. Keogh
+    13040 Bilson J. L. Campana
+    
+(2) 137 C. Lee Giles
+    932 Hongyuan Zha
+    
+(2) 137 C. Lee Giles
+    2721 Jian Huang 0002
+    
+(2) 137 C. Lee Giles
+    2722 Ding Zhou
+    
+(2) 137 C. Lee Giles
+    16847 Bill G. Horne
+    
+(2) 140 Philip S. Yu
+    224 Bing Liu 0001
+    
+(2) 140 Philip S. Yu
+    599 Michail Vlachos
+    
+(2) 140 Philip S. Yu
+    600 Spiros Papadimitriou
+    
+(2) 140 Philip S. Yu
+    872 Sihong Xie
+    
+(2) 140 Philip S. Yu
+    891 Xifeng Yan
+    
+(2) 140 Philip S. Yu
+    1076 Jimeng Sun
+    
+(2) 140 Philip S. Yu
+    1689 Haixun Wang
+    
+(2) 140 Philip S. Yu
+    1690 Jian Pei
+    
+(2) 140 Philip S. Yu
+    1832 Shuyang Lin
+    
+(2) 140 Philip S. Yu
+    1912 Zhongfei (Mark) Zhang
+    
+(2) 140 Philip S. Yu
+    2357 Charu C. Aggarwal
+    
+(2) 140 Philip S. Yu
+    2441 Xiaoxiao Shi
+    
+(2) 140 Philip S. Yu
+    2458 Longbing Cao
+    
+(2) 140 Philip S. Yu
+    3384 Xiangnan Kong
+    
+(2) 140 Philip S. Yu
+    4148 Bokai Cao
+    
+(2) 140 Philip S. Yu
+    4282 Bo Long
+    
+(2) 140 Philip S. Yu
+    4541 Jiawei Zhang
+    
+(2) 140 Philip S. Yu
+    5211 Yuchen Zhao
+    
+(2) 140 Philip S. Yu
+    5244 Ming-Syan Chen
+    
+(2) 140 Philip S. Yu
+    5261 Ke Wang
+    
+(2) 140 Philip S. Yu
+    5440 Vincent S. Tseng
+    
+(2) 140 Philip S. Yu
+    5618 Chih-Hua Tai
+    
+(2) 140 Philip S. Yu
+    6043 Yanshan Xiao
+    
+(2) 140 Philip S. Yu
+    6044 Bo Liu
+    
+(2) 140 Philip S. Yu
+    6045 Zhifeng Hao
+    
+(2) 140 Philip S. Yu
+    6785 Jiong Yang
+    
+(2) 140 Philip S. Yu
+    6786 Wei Wang 0010
+    
+(2) 140 Philip S. Yu
+    8624 Guan Wang
+    
+(2) 144 Stephan Günnemann
+    313 Thomas Seidl 0001
+    
+(2) 144 Stephan Günnemann
+    1709 Hardy Kremer
+    
+(2) 144 Stephan Günnemann
+    5924 Ines Färber
+    
+(2) 146 Christos Faloutsos
+    269 Deepayan Chakrabarti
+    
+(2) 146 Christos Faloutsos
+    287 Leman Akoglu
+    
+(2) 146 Christos Faloutsos
+    600 Spiros Papadimitriou
+    
+(2) 146 Christos Faloutsos
+    1076 Jimeng Sun
+    
+(2) 146 Christos Faloutsos
+    1131 Charalampos E. Tsourakakis
+    
+(2) 146 Christos Faloutsos
+    1133 Tina Eliassi-Rad
+    
+(2) 146 Christos Faloutsos
+    1441 Evangelos E. Papalexakis
+    
+(2) 146 Christos Faloutsos
+    1897 Yasuko Matsubara
+    
+(2) 146 Christos Faloutsos
+    2037 Duen Horng Chau
+    
+(2) 146 Christos Faloutsos
+    2293 Jure Leskovec
+    
+(2) 146 Christos Faloutsos
+    2434 B. Aditya Prakash
+    
+(2) 146 Christos Faloutsos
+    2435 Hanghang Tong
+    
+(2) 146 Christos Faloutsos
+    3166 Danai Koutra
+    
+(2) 146 Christos Faloutsos
+    3168 U. Kang
+    
+(2) 146 Christos Faloutsos
+    3571 Brian Gallagher
+    
+(2) 146 Christos Faloutsos
+    4466 Lei Li
+    
+(2) 146 Christos Faloutsos
+    6023 Mary McGlohon
+    
+(2) 146 Christos Faloutsos
+    6062 Yasushi Sakurai
+    
+(2) 146 Christos Faloutsos
+    6822 Alex Beutel
+    
+(2) 146 Christos Faloutsos
+    7277 Jia-Yu Pan
+    
+(2) 149 Yoav Freund
+    16171 Robert E. Schapire
+    
+(2) 154 Peter A. Flach
+    1566 José Hernández-Orallo
+    
+(2) 154 Peter A. Flach
+    11565 Cèsar Ferri Ramirez
+    
+(2) 155 Nathalie Japkowicz
+    156 Stan Matwin
+    
+(2) 156 Stan Matwin
+    183 Charles X. Ling
+    
+(2) 157 Mohammad M. Masud
+    158 Latifur Khan
+    
+(2) 157 Mohammad M. Masud
+    159 Bhavani M. Thuraisingham
+    
+(2) 158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(2) 159 Bhavani M. Thuraisingham
+    912 Murat Kantarcioglu
+    
+(2) 161 Tijl De Bie
+    162 Nello Cristianini
+    
+(2) 162 Nello Cristianini
+    1116 John Shawe-Taylor
+    
+(2) 164 Pu Wang
+    165 Carlotta Domeniconi
+    
+(2) 165 Carlotta Domeniconi
+    207 Daniel Barbará
+    
+(2) 165 Carlotta Domeniconi
+    2240 Dimitrios Gunopulos
+    
+(2) 165 Carlotta Domeniconi
+    2286 Guoji Zhang
+    
+(2) 170 Gerhard Paass
+    173 Jörg Kindermann
+    
+(2) 179 Zoran Obradovic
+    1438 Vladan Radosavljevic
+    
+(2) 179 Zoran Obradovic
+    1439 Slobodan Vucetic
+    
+(2) 180 Siegfried Nijssen
+    181 Tias Guns
+    
+(2) 180 Siegfried Nijssen
+    459 Luc De Raedt
+    
+(2) 181 Tias Guns
+    459 Luc De Raedt
+    
+(2) 182 Jun Du
+    183 Charles X. Ling
+    
+(2) 183 Charles X. Ling
+    504 Jin Huang
+    
+(2) 183 Charles X. Ling
+    759 Qiang Yang 0001
+    
+(2) 183 Charles X. Ling
+    9672 Victor S. Sheng
+    
+(2) 186 Raymond J. Mooney
+    2944 Prem Melville
+    
+(2) 186 Raymond J. Mooney
+    3085 Sugato Basu
+    
+(2) 186 Raymond J. Mooney
+    5851 Mikhail Bilenko
+    
+(2) 188 Matthijs van Leeuwen
+    189 Arno Siebes
+    
+(2) 195 Kristian Kersting
+    196 Zhao Xu
+    
+(2) 195 Kristian Kersting
+    992 Sriraam Natarajan
+    
+(2) 195 Kristian Kersting
+    2373 Christian Bauckhage
+    
+(2) 201 Ira Assent
+    310 Emmanuel Müller
+    
+(2) 201 Ira Assent
+    311 Ralph Krieger
+    
+(2) 201 Ira Assent
+    313 Thomas Seidl 0001
+    
+(2) 204 Padraig Cunningham
+    382 Derek Greene
+    
+(2) 210 Kaizhu Huang
+    211 Cheng-Lin Liu
+    
+(2) 210 Kaizhu Huang
+    3658 Michael R. Lyu
+    
+(2) 210 Kaizhu Huang
+    3659 Irwin King
+    
+(2) 212 Stefan Wrobel
+    325 Tobias Scheffer
+    
+(2) 213 Geoffrey Holmes
+    215 Bernhard Pfahringer
+    
+(2) 215 Bernhard Pfahringer
+    370 Albert Bifet
+    
+(2) 215 Bernhard Pfahringer
+    454 Jesse Read
+    
+(2) 215 Bernhard Pfahringer
+    1708 Geoff Holmes
+    
+(2) 222 Tobias Lang 0001
+    223 Marc Toussaint
+    
+(2) 224 Bing Liu 0001
+    225 Yiming Ma
+    
+(2) 224 Bing Liu 0001
+    623 Wee Sun Lee
+    
+(2) 224 Bing Liu 0001
+    5019 Xiaoli Li
+    
+(2) 224 Bing Liu 0001
+    6339 Wynne Hsu
+    
+(2) 224 Bing Liu 0001
+    6353 Kaidi Zhao
+    
+(2) 225 Yiming Ma
+    6339 Wynne Hsu
+    
+(2) 231 Lorenzo Rosasco
+    233 Alessandro Verri
+    
+(2) 235 Howard J. Hamilton
+    836 Nick Cercone
+    
+(2) 240 Jaakko Peltonen
+    908 Samuel Kaski
+    
+(2) 253 Nikolaj Tatti
+    1031 Aristides Gionis
+    
+(2) 259 Matthew B. Blaschko
+    261 Arthur Gretton
+    
+(2) 261 Arthur Gretton
+    2551 Bernhard Schölkopf
+    
+(2) 261 Arthur Gretton
+    3443 Alexander J. Smola
+    
+(2) 261 Arthur Gretton
+    6629 Karsten M. Borgwardt
+    
+(2) 261 Arthur Gretton
+    10655 Le Song
+    
+(2) 261 Arthur Gretton
+    15631 Kenji Fukumizu
+    
+(2) 261 Arthur Gretton
+    18796 Bharath K. Sriperumbudur
+    
+(2) 261 Arthur Gretton
+    18797 Dino Sejdinovic
+    
+(2) 276 Chang-Shing Perng
+    278 Sheng Ma
+    
+(2) 276 Chang-Shing Perng
+    1689 Haixun Wang
+    
+(2) 278 Sheng Ma
+    307 Tao Li
+    
+(2) 278 Sheng Ma
+    1689 Haixun Wang
+    
+(2) 278 Sheng Ma
+    5930 Joseph L. Hellerstein
+    
+(2) 284 Marco Stolpe
+    285 Katharina Morik
+    
+(2) 287 Leman Akoglu
+    2435 Hanghang Tong
+    
+(2) 307 Tao Li
+    1227 Chris H. Q. Ding
+    
+(2) 307 Tao Li
+    4466 Lei Li
+    
+(2) 307 Tao Li
+    5471 Fei Wang 0001
+    
+(2) 307 Tao Li
+    5909 Li Zheng
+    
+(2) 307 Tao Li
+    9448 Liang Tang
+    
+(2) 307 Tao Li
+    9837 Chao Shen
+    
+(2) 308 Stéphan Clémençon
+    897 Nicolas Vayatis
+    
+(2) 310 Emmanuel Müller
+    311 Ralph Krieger
+    
+(2) 310 Emmanuel Müller
+    313 Thomas Seidl 0001
+    
+(2) 310 Emmanuel Müller
+    654 Klemens Böhm
+    
+(2) 311 Ralph Krieger
+    313 Thomas Seidl 0001
+    
+(2) 312 Timm Jansen
+    313 Thomas Seidl 0001
+    
+(2) 313 Thomas Seidl 0001
+    578 Philipp Kranen
+    
+(2) 313 Thomas Seidl 0001
+    1709 Hardy Kremer
+    
+(2) 313 Thomas Seidl 0001
+    1957 Brigitte Boden
+    
+(2) 313 Thomas Seidl 0001
+    5924 Ines Färber
+    
+(2) 324 Christoph Sawade
+    325 Tobias Scheffer
+    
+(2) 324 Christoph Sawade
+    326 Niels Landwehr
+    
+(2) 325 Tobias Scheffer
+    326 Niels Landwehr
+    
+(2) 325 Tobias Scheffer
+    745 Ulf Brefeld
+    
+(2) 325 Tobias Scheffer
+    2625 Steffen Bickel
+    
+(2) 325 Tobias Scheffer
+    11155 Peter Haider
+    
+(2) 325 Tobias Scheffer
+    12313 Michael Brückner
+    
+(2) 331 Feida Zhu
+    2148 Ee-Peng Lim
+    
+(2) 333 Sholom M. Weiss
+    334 Nitin Indurkhya
+    
+(2) 343 Amol Ghoting
+    344 Srinivasan Parthasarathy
+    
+(2) 344 Srinivasan Parthasarathy
+    2979 Chao Wang
+    
+(2) 344 Srinivasan Parthasarathy
+    4798 Matthew Eric Otey
+    
+(2) 344 Srinivasan Parthasarathy
+    7194 Sameep Mehta
+    
+(2) 344 Srinivasan Parthasarathy
+    7195 Hui Yang 0002
+    
+(2) 362 Taneli Mielikäinen
+    363 Heikki Mannila
+    
+(2) 363 Heikki Mannila
+    1031 Aristides Gionis
+    
+(2) 363 Heikki Mannila
+    1130 Gautam Das
+    
+(2) 363 Heikki Mannila
+    1238 Hannu Toivonen
+    
+(2) 363 Heikki Mannila
+    1748 Jouni K. Seppänen
+    
+(2) 364 Yu Zhang 0006
+    365 Dit-Yan Yeung
+    
+(2) 365 Dit-Yan Yeung
+    1752 Zhihua Zhang
+    
+(2) 368 Yannis Theodoridis
+    513 Irene Ntoutsi
+    
+(2) 370 Albert Bifet
+    371 Ricard Gavaldà
+    
+(2) 370 Albert Bifet
+    1708 Geoff Holmes
+    
+(2) 372 Laurence A. F. Park
+    435 Kotagiri Ramamohanarao
+    
+(2) 391 Nicola Barbieri
+    392 Giuseppe Manco
+    
+(2) 391 Nicola Barbieri
+    1001 Francesco Bonchi
+    
+(2) 399 Andrew McCallum
+    4679 Xuerui Wang
+    
+(2) 399 Andrew McCallum
+    11966 Michael L. Wick
+    
+(2) 399 Andrew McCallum
+    14320 David M. Mimno
+    
+(2) 399 Andrew McCallum
+    14976 Khashayar Rohanimanesh
+    
+(2) 400 Tapio Elomaa
+    401 Juho Rousu
+    
+(2) 403 Vivekanand Gopalkrishnan
+    7584 Ardian Kristanto Poernomo
+    
+(2) 404 Steven C. H. Hoi
+    1461 Rong Jin
+    
+(2) 404 Steven C. H. Hoi
+    2161 Peilin Zhao
+    
+(2) 424 Ning Zhong
+    426 Setsuo Ohsuga
+    
+(2) 424 Ning Zhong
+    1815 Yiyu Yao
+    
+(2) 430 Behzad Golshan
+    431 Evimaria Terzi
+    
+(2) 431 Evimaria Terzi
+    1030 Theodoros Lappas
+    
+(2) 431 Evimaria Terzi
+    1031 Aristides Gionis
+    
+(2) 434 James Bailey
+    435 Kotagiri Ramamohanarao
+    
+(2) 434 James Bailey
+    2228 Jeffrey Chan
+    
+(2) 434 James Bailey
+    3135 Christopher Leckie
+    
+(2) 435 Kotagiri Ramamohanarao
+    3135 Christopher Leckie
+    
+(2) 435 Kotagiri Ramamohanarao
+    3165 Guozhu Dong
+    
+(2) 437 Shie Mannor
+    840 Nahum Shimkin
+    
+(2) 437 Shie Mannor
+    2939 Ron Meir
+    
+(2) 437 Shie Mannor
+    3239 Dotan Di Castro
+    
+(2) 437 Shie Mannor
+    11383 Yaakov Engel
+    
+(2) 437 Shie Mannor
+    15321 Huan Xu
+    
+(2) 437 Shie Mannor
+    15322 Constantine Caramanis
+    
+(2) 437 Shie Mannor
+    15376 Yishay Mansour
+    
+(2) 437 Shie Mannor
+    15475 John N. Tsitsiklis
+    
+(2) 437 Shie Mannor
+    19084 Timothy Arthur Mann
+    
+(2) 439 Sebastian Tschiatschek
+    440 Franz Pernkopf
+    
+(2) 446 Marc Boullé
+    1072 Dominique Gay
+    
+(2) 449 Sanjay Chawla
+    3134 Wei Liu
+    
+(2) 453 Mingyuan Zhou
+    901 Lawrence Carin
+    
+(2) 459 Luc De Raedt
+    629 Hendrik Blockeel
+    
+(2) 496 Alexandros Kalousis
+    497 Adam Woznica
+    
+(2) 496 Alexandros Kalousis
+    498 Melanie Hilario
+    
+(2) 496 Alexandros Kalousis
+    3233 Jun Wang 0017
+    
+(2) 517 Xingquan Zhu
+    643 Xindong Wu
+    
+(2) 517 Xingquan Zhu
+    2459 Chengqi Zhang
+    
+(2) 517 Xingquan Zhu
+    7070 Peng Zhang
+    
+(2) 517 Xingquan Zhu
+    7073 Li Guo
+    
+(2) 532 Avinava Dubey
+    2391 Eric P. Xing
+    
+(2) 534 Shantanu Godbole
+    546 Sunita Sarawagi
+    
+(2) 535 Jorge Díez
+    536 Juan José del Coz
+    
+(2) 535 Jorge Díez
+    537 Antonio Bahamonde
+    
+(2) 535 Jorge Díez
+    538 Oscar Luaces
+    
+(2) 536 Juan José del Coz
+    537 Antonio Bahamonde
+    
+(2) 536 Juan José del Coz
+    538 Oscar Luaces
+    
+(2) 536 Juan José del Coz
+    1317 José Ramón Quevedo
+    
+(2) 537 Antonio Bahamonde
+    538 Oscar Luaces
+    
+(2) 546 Sunita Sarawagi
+    1079 Soumen Chakrabarti
+    
+(2) 547 Daniel Hernández-Lobato
+    548 José Miguel Hernández-Lobato
+    
+(2) 548 José Miguel Hernández-Lobato
+    2389 Zoubin Ghahramani
+    
+(2) 548 José Miguel Hernández-Lobato
+    18884 Neil Houlsby
+    
+(2) 554 Amaury Habrard
+    555 Marc Sebban
+    
+(2) 566 Hans-Peter Kriegel
+    567 Jörg Sander
+    
+(2) 566 Hans-Peter Kriegel
+    994 Martin Ester
+    
+(2) 566 Hans-Peter Kriegel
+    1136 Christian Böhm
+    
+(2) 566 Hans-Peter Kriegel
+    1852 Shipeng Yu
+    
+(2) 566 Hans-Peter Kriegel
+    1853 Kai Yu
+    
+(2) 566 Hans-Peter Kriegel
+    3318 Martin Pfeifle
+    
+(2) 566 Hans-Peter Kriegel
+    3471 Peer Kröger
+    
+(2) 566 Hans-Peter Kriegel
+    3473 Arthur Zimek
+    
+(2) 566 Hans-Peter Kriegel
+    6917 Matthias Schubert
+    
+(2) 566 Hans-Peter Kriegel
+    9423 Erich Schubert
+    
+(2) 572 Lars Schmidt-Thieme
+    582 Martin Wistuba
+    
+(2) 572 Lars Schmidt-Thieme
+    583 Nicolas Schilling
+    
+(2) 572 Lars Schmidt-Thieme
+    3915 Steffen Rendle
+    
+(2) 577 Antti Ukkonen
+    1001 Francesco Bonchi
+    
+(2) 577 Antti Ukkonen
+    1031 Aristides Gionis
+    
+(2) 579 Pieter Abbeel
+    14690 Andrew Y. Ng
+    
+(2) 582 Martin Wistuba
+    583 Nicolas Schilling
+    
+(2) 586 Janez Demsar
+    588 Blaz Zupan
+    
+(2) 586 Janez Demsar
+    1153 Ivan Bratko
+    
+(2) 588 Blaz Zupan
+    1153 Ivan Bratko
+    
+(2) 588 Blaz Zupan
+    11438 Marko Bohanec
+    
+(2) 590 Ronen Feldman
+    1741 Binyamin Rosenfeld
+    
+(2) 590 Ronen Feldman
+    1742 Moshe Fresko
+    
+(2) 590 Ronen Feldman
+    1816 Yonatan Aumann
+    
+(2) 600 Spiros Papadimitriou
+    1076 Jimeng Sun
+    
+(2) 616 Céline Robardet
+    1281 Jean-François Boulicaut
+    
+(2) 616 Céline Robardet
+    1902 Marc Plantevit
+    
+(2) 623 Wee Sun Lee
+    15234 David Hsu
+    
+(2) 626 Takashi Washio
+    1217 Hiroshi Motoda
+    
+(2) 629 Hendrik Blockeel
+    678 Jan Ramon
+    
+(2) 635 Yuhong Guo
+    1924 Min Xiao
+    
+(2) 636 Dale Schuurmans
+    754 Xinhua Zhang
+    
+(2) 636 Dale Schuurmans
+    2204 Martha White
+    
+(2) 636 Dale Schuurmans
+    7861 Linli Xu
+    
+(2) 636 Dale Schuurmans
+    9153 Shaojun Wang
+    
+(2) 636 Dale Schuurmans
+    13715 Yaoliang Yu
+    
+(2) 636 Dale Schuurmans
+    18272 James Neufeld
+    
+(2) 636 Dale Schuurmans
+    18753 Finnegan Southey
+    
+(2) 643 Xindong Wu
+    2459 Chengqi Zhang
+    
+(2) 643 Xindong Wu
+    5686 Wei Ding 0003
+    
+(2) 643 Xindong Wu
+    6855 Kui Yu
+    
+(2) 661 Nitesh V. Chawla
+    662 Lawrence O. Hall
+    
+(2) 661 Nitesh V. Chawla
+    1667 Yuxiao Dong
+    
+(2) 661 Nitesh V. Chawla
+    1668 Jie Tang
+    
+(2) 680 Geoffrey J. Gordon
+    854 Sebastian Thrun
+    
+(2) 680 Geoffrey J. Gordon
+    16768 Byron Boots
+    
+(2) 696 Stefan Kramer 0001
+    818 Ulrich Rückert 0002
+    
+(2) 708 Robert D. Nowak
+    709 Xiaojin Zhu
+    
+(2) 708 Robert D. Nowak
+    15745 Clayton D. Scott
+    
+(2) 709 Xiaojin Zhu
+    8230 John D. Lafferty
+    
+(2) 709 Xiaojin Zhu
+    16814 Timothy T. Rogers
+    
+(2) 726 Bruno Scherrer
+    15215 Victor Gabillon
+    
+(2) 726 Bruno Scherrer
+    15216 Mohammad Ghavamzadeh
+    
+(2) 727 Matthieu Geist
+    2282 Bilal Piot
+    
+(2) 727 Matthieu Geist
+    2283 Olivier Pietquin
+    
+(2) 743 Marius Kloft
+    2313 Nico Görnitz
+    
+(2) 744 Shinichi Nakajima
+    17901 S. Derin Babacan
+    
+(2) 751 Jürgen Schmidhuber
+    10396 Yi Sun
+    
+(2) 751 Jürgen Schmidhuber
+    10846 Faustino J. Gomez
+    
+(2) 752 Michèle Sebag
+    3382 Marc Schoenauer
+    
+(2) 754 Xinhua Zhang
+    13715 Yaoliang Yu
+    
+(2) 755 Tibério S. Caetano
+    3443 Alexander J. Smola
+    
+(2) 755 Tibério S. Caetano
+    8531 Novi Quadrianto
+    
+(2) 755 Tibério S. Caetano
+    16499 James Petterson
+    
+(2) 755 Tibério S. Caetano
+    16810 Julian John McAuley
+    
+(2) 755 Tibério S. Caetano
+    16820 Aaron Defazio
+    
+(2) 759 Qiang Yang 0001
+    781 Wenyuan Dai
+    
+(2) 759 Qiang Yang 0001
+    782 Gui-Rong Xue
+    
+(2) 759 Qiang Yang 0001
+    1455 ErHeng Zhong
+    
+(2) 759 Qiang Yang 0001
+    1906 Zheng Chen
+    
+(2) 759 Qiang Yang 0001
+    3832 Weizhu Chen
+    
+(2) 759 Qiang Yang 0001
+    4155 Dou Shen
+    
+(2) 759 Qiang Yang 0001
+    4176 Jun Yan
+    
+(2) 759 Qiang Yang 0001
+    6096 Benyu Zhang
+    
+(2) 768 Assaf Schuster
+    769 Ran Wolff
+    
+(2) 771 Petros Drineas
+    7246 Michael W. Mahoney
+    
+(2) 777 Yoshua Bengio
+    1399 KyungHyun Cho
+    
+(2) 777 Yoshua Bengio
+    1856 Salah Rifai
+    
+(2) 777 Yoshua Bengio
+    1858 Pascal Vincent
+    
+(2) 777 Yoshua Bengio
+    1860 Yann Dauphin
+    
+(2) 777 Yoshua Bengio
+    12917 Hugo Larochelle
+    
+(2) 777 Yoshua Bengio
+    15995 Nicolas Le Roux
+    
+(2) 777 Yoshua Bengio
+    16152 James Bergstra
+    
+(2) 777 Yoshua Bengio
+    16294 Aaron C. Courville
+    
+(2) 777 Yoshua Bengio
+    17544 Ian J. Goodfellow
+    
+(2) 781 Wenyuan Dai
+    782 Gui-Rong Xue
+    
+(2) 784 Russell Greiner
+    7118 Csaba Szepesvári
+    
+(2) 785 Osmar R. Zaïane
+    1781 Maria-Luiza Antonie
+    
+(2) 802 Nan Du
+    5156 Aidong Zhang
+    
+(2) 802 Nan Du
+    10655 Le Song
+    
+(2) 817 Jude W. Shavlik
+    3432 Richard Maclin
+    
+(2) 817 Jude W. Shavlik
+    11219 Mark Craven
+    
+(2) 817 Jude W. Shavlik
+    16654 Geoffrey G. Towell
+    
+(2) 841 Zheng Zhao
+    3622 Huan Liu
+    
+(2) 841 Zheng Zhao
+    4834 Jieping Ye
+    
+(2) 853 Rémi Munos
+    1043 Odalric-Ambrym Maillard
+    
+(2) 853 Rémi Munos
+    1214 Alessandro Lazaric
+    
+(2) 853 Rémi Munos
+    7118 Csaba Szepesvári
+    
+(2) 853 Rémi Munos
+    15216 Mohammad Ghavamzadeh
+    
+(2) 853 Rémi Munos
+    16159 Alexandra Carpentier
+    
+(2) 864 Piyush Rai
+    865 Hal Daumé III
+    
+(2) 865 Hal Daumé III
+    15508 Abhishek Kumar 0001
+    
+(2) 868 Alexandre Lacasse
+    869 François Laviolette
+    
+(2) 868 Alexandre Lacasse
+    870 Mario Marchand
+    
+(2) 868 Alexandre Lacasse
+    17100 Pascal Germain
+    
+(2) 869 François Laviolette
+    870 Mario Marchand
+    
+(2) 869 François Laviolette
+    17100 Pascal Germain
+    
+(2) 870 Mario Marchand
+    1116 John Shawe-Taylor
+    
+(2) 870 Mario Marchand
+    1440 Mohak Shah
+    
+(2) 870 Mario Marchand
+    17100 Pascal Germain
+    
+(2) 873 Olivier Verscheure
+    874 Jiangtao Ren
+    
+(2) 874 Jiangtao Ren
+    1455 ErHeng Zhong
+    
+(2) 875 Quanquan Gu
+    876 Jie Zhou
+    
+(2) 875 Quanquan Gu
+    3633 Xiao Yu
+    
+(2) 887 Jean-Philippe Vert
+    3312 Francis R. Bach
+    
+(2) 888 Deng Cai
+    890 Xiaofei He
+    
+(2) 891 Xifeng Yan
+    5286 Huan Sun
+    
+(2) 891 Xifeng Yan
+    5695 Hong Cheng
+    
+(2) 901 Lawrence Carin
+    14665 John William Paisley
+    
+(2) 901 Lawrence Carin
+    15752 David B. Dunson
+    
+(2) 901 Lawrence Carin
+    16778 David E. Carlson
+    
+(2) 901 Lawrence Carin
+    16791 Ricardo Henao
+    
+(2) 901 Lawrence Carin
+    17495 Xuejun Liao
+    
+(2) 901 Lawrence Carin
+    18257 Esther Salazar
+    
+(2) 901 Lawrence Carin
+    19342 Ya Xue
+    
+(2) 901 Lawrence Carin
+    20431 Yingjian Wang
+    
+(2) 908 Samuel Kaski
+    2022 Arto Klami
+    
+(2) 910 Yan Zhou
+    912 Murat Kantarcioglu
+    
+(2) 918 Eyke Hüllermeier
+    1265 Weiwei Cheng
+    
+(2) 918 Eyke Hüllermeier
+    1379 Krzysztof Dembczynski
+    
+(2) 932 Hongyuan Zha
+    1227 Chris H. Q. Ding
+    
+(2) 932 Hongyuan Zha
+    1228 Xiaofeng He
+    
+(2) 932 Hongyuan Zha
+    1229 Horst D. Simon
+    
+(2) 932 Hongyuan Zha
+    2722 Ding Zhou
+    
+(2) 935 Hsun-Ping Hsieh
+    937 Shou-De Lin
+    
+(2) 936 Cheng-Te Li
+    937 Shou-De Lin
+    
+(2) 943 Maria-Florina Balcan
+    10655 Le Song
+    
+(2) 943 Maria-Florina Balcan
+    15661 Avrim Blum
+    
+(2) 943 Maria-Florina Balcan
+    16960 Yingyu Liang
+    
+(2) 975 Yiming Yang
+    13757 Jian Zhang 0003
+    
+(2) 975 Yiming Yang
+    14218 Siddharth Gopal
+    
+(2) 994 Martin Ester
+    4740 Mohsen Jamali
+    
+(2) 994 Martin Ester
+    5230 Xiaowei Xu
+    
+(2) 994 Martin Ester
+    6702 Byron J. Gao
+    
+(2) 1001 Francesco Bonchi
+    1002 Fosca Giannotti
+    
+(2) 1001 Francesco Bonchi
+    1003 Dino Pedreschi
+    
+(2) 1001 Francesco Bonchi
+    1031 Aristides Gionis
+    
+(2) 1001 Francesco Bonchi
+    2387 Carlos Castillo
+    
+(2) 1001 Francesco Bonchi
+    2468 Francesco Gullo
+    
+(2) 1002 Fosca Giannotti
+    1003 Dino Pedreschi
+    
+(2) 1002 Fosca Giannotti
+    1348 Fabio Pinelli
+    
+(2) 1002 Fosca Giannotti
+    1601 Mirco Nanni
+    
+(2) 1002 Fosca Giannotti
+    1768 Anna Monreale
+    
+(2) 1031 Aristides Gionis
+    2387 Carlos Castillo
+    
+(2) 1031 Aristides Gionis
+    4360 Panayiotis Tsaparas
+    
+(2) 1054 Pang-Ning Tan
+    1631 Vipin Kumar
+    
+(2) 1054 Pang-Ning Tan
+    4153 Haibin Cheng
+    
+(2) 1076 Jimeng Sun
+    1668 Jie Tang
+    
+(2) 1076 Jimeng Sun
+    2435 Hanghang Tong
+    
+(2) 1076 Jimeng Sun
+    5471 Fei Wang 0001
+    
+(2) 1076 Jimeng Sun
+    6513 Jianying Hu
+    
+(2) 1076 Jimeng Sun
+    8333 Shahram Ebadollahi
+    
+(2) 1082 Mario Boley
+    2238 Thomas Gärtner
+    
+(2) 1097 Jun Sakuma
+    1202 Toshihiro Kamishima
+    
+(2) 1105 Ian Davidson
+    1106 S. S. Ravi
+    
+(2) 1105 Ian Davidson
+    4833 Sethuraman Panchanathan
+    
+(2) 1105 Ian Davidson
+    4834 Jieping Ye
+    
+(2) 1105 Ian Davidson
+    5727 Xiang Wang
+    
+(2) 1105 Ian Davidson
+    6512 Buyue Qian
+    
+(2) 1115 Peter Auer
+    11478 Ronald Ortner
+    
+(2) 1116 John Shawe-Taylor
+    15454 Robert C. Williamson
+    
+(2) 1116 John Shawe-Taylor
+    15556 Jaz S. Kandola
+    
+(2) 1123 Ariadna Quattoni
+    2995 Xavier Carreras
+    
+(2) 1133 Tina Eliassi-Rad
+    2435 Hanghang Tong
+    
+(2) 1133 Tina Eliassi-Rad
+    3571 Brian Gallagher
+    
+(2) 1135 Junming Shao
+    1136 Christian Böhm
+    
+(2) 1135 Junming Shao
+    1137 Qinli Yang
+    
+(2) 1135 Junming Shao
+    1138 Claudia Plant
+    
+(2) 1136 Christian Böhm
+    1138 Claudia Plant
+    
+(2) 1136 Christian Böhm
+    3470 Elke Achtert
+    
+(2) 1136 Christian Böhm
+    3471 Peer Kröger
+    
+(2) 1136 Christian Böhm
+    5613 Xiao He
+    
+(2) 1138 Claudia Plant
+    5613 Xiao He
+    
+(2) 1142 Stefano Ermon
+    1276 Carla P. Gomes
+    
+(2) 1142 Stefano Ermon
+    1277 Bart Selman
+    
+(2) 1142 Stefano Ermon
+    15522 Ashish Sabharwal
+    
+(2) 1146 Patrick Gallinari
+    1161 Nicolas Usunier
+    
+(2) 1146 Patrick Gallinari
+    1491 Ludovic Denoyer
+    
+(2) 1146 Patrick Gallinari
+    1784 Massih-Reza Amini
+    
+(2) 1147 Björn Bringmann
+    1148 Albrecht Zimmermann
+    
+(2) 1153 Ivan Bratko
+    11297 Dorian Suc
+    
+(2) 1153 Ivan Bratko
+    11438 Marko Bohanec
+    
+(2) 1160 Antoine Bordes
+    1161 Nicolas Usunier
+    
+(2) 1160 Antoine Bordes
+    1684 Jason Weston
+    
+(2) 1161 Nicolas Usunier
+    1784 Massih-Reza Amini
+    
+(2) 1162 Adam Kowalczyk
+    10882 Herman L. Ferrá
+    
+(2) 1202 Toshihiro Kamishima
+    3405 Shotaro Akaho
+    
+(2) 1214 Alessandro Lazaric
+    15216 Mohammad Ghavamzadeh
+    
+(2) 1227 Chris H. Q. Ding
+    1228 Xiaofeng He
+    
+(2) 1227 Chris H. Q. Ding
+    1229 Horst D. Simon
+    
+(2) 1227 Chris H. Q. Ding
+    1416 Heng Huang
+    
+(2) 1227 Chris H. Q. Ding
+    1743 Deguang Kong
+    
+(2) 1227 Chris H. Q. Ding
+    1945 Feiping Nie
+    
+(2) 1227 Chris H. Q. Ding
+    2191 Dijun Luo
+    
+(2) 1228 Xiaofeng He
+    1229 Horst D. Simon
+    
+(2) 1233 Alan Fern
+    1234 Prasad Tadepalli
+    
+(2) 1234 Prasad Tadepalli
+    1363 Thomas G. Dietterich
+    
+(2) 1265 Weiwei Cheng
+    1379 Krzysztof Dembczynski
+    
+(2) 1276 Carla P. Gomes
+    1277 Bart Selman
+    
+(2) 1276 Carla P. Gomes
+    15522 Ashish Sabharwal
+    
+(2) 1277 Bart Selman
+    15522 Ashish Sabharwal
+    
+(2) 1281 Jean-François Boulicaut
+    1902 Marc Plantevit
+    
+(2) 1289 Andreas Argyriou
+    1291 Massimiliano Pontil
+    
+(2) 1290 Andreas Maurer
+    1291 Massimiliano Pontil
+    
+(2) 1291 Massimiliano Pontil
+    15724 Mark Herbster
+    
+(2) 1291 Massimiliano Pontil
+    17448 Charles A. Micchelli
+    
+(2) 1291 Massimiliano Pontil
+    19344 Bernardino Romera-Paredes
+    
+(2) 1300 Matteo Riondato
+    1543 Eli Upfal
+    
+(2) 1307 Fuzhen Zhuang
+    1309 Qing He
+    
+(2) 1307 Fuzhen Zhuang
+    1310 Zhongzhi Shi
+    
+(2) 1307 Fuzhen Zhuang
+    1564 Ping Luo
+    
+(2) 1309 Qing He
+    1310 Zhongzhi Shi
+    
+(2) 1309 Qing He
+    1564 Ping Luo
+    
+(2) 1310 Zhongzhi Shi
+    1564 Ping Luo
+    
+(2) 1331 Natalia V. Andrienko
+    1332 Gennady L. Andrienko
+    
+(2) 1335 George Karypis
+    3742 Jianyong Wang
+    
+(2) 1335 George Karypis
+    5082 Michihiro Kuramochi
+    
+(2) 1340 Toon Calders
+    1682 Bart Goethals
+    
+(2) 1341 XuanLong Nguyen
+    2542 Michael I. Jordan
+    
+(2) 1342 Ling Huang
+    2542 Michael I. Jordan
+    
+(2) 1348 Fabio Pinelli
+    1601 Mirco Nanni
+    
+(2) 1353 Philip Bachman
+    1354 Doina Precup
+    
+(2) 1354 Doina Precup
+    11028 Richard S. Sutton
+    
+(2) 1354 Doina Precup
+    11029 Satinder P. Singh
+    
+(2) 1354 Doina Precup
+    11133 Joelle Pineau
+    
+(2) 1363 Thomas G. Dietterich
+    1364 Xin Wang 0010
+    
+(2) 1374 Anshumali Shrivastava
+    1375 Ping Li 0001
+    
+(2) 1375 Ping Li 0001
+    4094 Kenneth Ward Church
+    
+(2) 1375 Ping Li 0001
+    12235 Trevor Hastie
+    
+(2) 1379 Krzysztof Dembczynski
+    2905 Wojciech Kotlowski
+    
+(2) 1414 Marina Danilevsky
+    3110 Chi Wang 0001
+    
+(2) 1414 Marina Danilevsky
+    9522 Nihit Desai
+    
+(2) 1415 Hua Wang
+    1416 Heng Huang
+    
+(2) 1415 Hua Wang
+    1945 Feiping Nie
+    
+(2) 1416 Heng Huang
+    1945 Feiping Nie
+    
+(2) 1416 Heng Huang
+    1946 Xiao Cai
+    
+(2) 1416 Heng Huang
+    2191 Dijun Luo
+    
+(2) 1417 Yangqiu Song
+    7398 Shixia Liu
+    
+(2) 1421 Edward Y. Chang
+    6414 Gang Wu
+    
+(2) 1438 Vladan Radosavljevic
+    3319 Mihajlo Grbovic
+    
+(2) 1438 Vladan Radosavljevic
+    3632 Nemanja Djuric
+    
+(2) 1439 Slobodan Vucetic
+    8345 Zhuang Wang
+    
+(2) 1441 Evangelos E. Papalexakis
+    1442 Nicholas D. Sidiropoulos
+    
+(2) 1445 Lizhu Zhou
+    3742 Jianyong Wang
+    
+(2) 1461 Rong Jin
+    1462 Anil K. Jain
+    
+(2) 1461 Rong Jin
+    2392 Alexander G. Hauptmann
+    
+(2) 1461 Rong Jin
+    3658 Michael R. Lyu
+    
+(2) 1461 Rong Jin
+    3659 Irwin King
+    
+(2) 1461 Rong Jin
+    5398 Jinfeng Yi
+    
+(2) 1461 Rong Jin
+    5399 Tianbao Yang
+    
+(2) 1461 Rong Jin
+    5400 Mehrdad Mahdavi
+    
+(2) 1461 Rong Jin
+    5588 Shenghuo Zhu
+    
+(2) 1461 Rong Jin
+    9398 Zenglin Xu
+    
+(2) 1461 Rong Jin
+    13757 Jian Zhang 0003
+    
+(2) 1461 Rong Jin
+    14563 Lijun Zhang 0005
+    
+(2) 1464 Yiming Ying
+    8251 Colin Campbell
+    
+(2) 1467 Suvrit Sra
+    5828 Inderjit S. Dhillon
+    
+(2) 1478 Lise Getoor
+    12702 Bert Huang
+    
+(2) 1480 Iyad Batal
+    1482 Milos Hauskrecht
+    
+(2) 1483 Ambuj K. Singh
+    1484 Petko Bogdanov
+    
+(2) 1504 Jesse Davis
+    1577 David Page
+    
+(2) 1504 Jesse Davis
+    1578 Vítor Santos Costa
+    
+(2) 1549 Pedro M. Domingos
+    1866 Stanley Kok
+    
+(2) 1549 Pedro M. Domingos
+    11632 Geoff Hulten
+    
+(2) 1553 Shai Ben-David
+    21764 Ruth Urner
+    
+(2) 1564 Ping Luo
+    4019 Min Wang
+    
+(2) 1564 Ping Luo
+    6433 Yuhong Xiong
+    
+(2) 1566 José Hernández-Orallo
+    1594 César Ferri
+    
+(2) 1576 Elizabeth S. Burnside
+    1577 David Page
+    
+(2) 1577 David Page
+    1578 Vítor Santos Costa
+    
+(2) 1577 David Page
+    15512 Soumya Ray
+    
+(2) 1588 Hillol Kargupta
+    1590 Krishnamoorthy Sivakumar
+    
+(2) 1588 Hillol Kargupta
+    3465 Chris Giannella
+    
+(2) 1623 Sören Sonnenburg
+    1624 Gunnar Rätsch
+    
+(2) 1624 Gunnar Rätsch
+    2551 Bernhard Schölkopf
+    
+(2) 1624 Gunnar Rätsch
+    3083 Klaus-Robert Müller
+    
+(2) 1624 Gunnar Rätsch
+    15565 Sebastian Mika
+    
+(2) 1624 Gunnar Rätsch
+    15566 Manfred K. Warmuth
+    
+(2) 1627 Naren Ramakrishnan
+    5624 Liang Zhao
+    
+(2) 1627 Naren Ramakrishnan
+    5626 Feng Chen
+    
+(2) 1627 Naren Ramakrishnan
+    5627 Chang-Tien Lu
+    
+(2) 1627 Naren Ramakrishnan
+    9593 Patrick Butler
+    
+(2) 1629 Mahesh V. Joshi
+    1631 Vipin Kumar
+    
+(2) 1631 Vipin Kumar
+    1660 Jaideep Srivastava
+    
+(2) 1631 Vipin Kumar
+    2969 Fredrick H. M. Semazzi
+    
+(2) 1631 Vipin Kumar
+    2970 Nagiza F. Samatova
+    
+(2) 1631 Vipin Kumar
+    3859 Hui Xiong
+    
+(2) 1631 Vipin Kumar
+    5247 Shyam Boriah
+    
+(2) 1631 Vipin Kumar
+    6914 Michael Steinbach
+    
+(2) 1631 Vipin Kumar
+    8724 György J. Simon
+    
+(2) 1660 Jaideep Srivastava
+    2795 Karthik Subbian
+    
+(2) 1660 Jaideep Srivastava
+    5124 Sandeep Mane
+    
+(2) 1667 Yuxiao Dong
+    1668 Jie Tang
+    
+(2) 1668 Jie Tang
+    1669 Yang Yang
+    
+(2) 1668 Jie Tang
+    2758 Honglei Zhuang
+    
+(2) 1668 Jie Tang
+    2760 Sen Wu
+    
+(2) 1668 Jie Tang
+    8370 Jing Zhang 0001
+    
+(2) 1684 Jason Weston
+    2509 Léon Bottou
+    
+(2) 1684 Jason Weston
+    2551 Bernhard Schölkopf
+    
+(2) 1684 Jason Weston
+    2553 Christina S. Leslie
+    
+(2) 1684 Jason Weston
+    2554 William Stafford Noble
+    
+(2) 1684 Jason Weston
+    3003 Ronan Collobert
+    
+(2) 1684 Jason Weston
+    3077 Vladimir Vapnik
+    
+(2) 1684 Jason Weston
+    4726 Olivier Chapelle
+    
+(2) 1689 Haixun Wang
+    1690 Jian Pei
+    
+(2) 1690 Jian Pei
+    4343 Daxin Jiang
+    
+(2) 1690 Jian Pei
+    5261 Ke Wang
+    
+(2) 1690 Jian Pei
+    7586 Ada Wai-Chee Fu
+    
+(2) 1717 Koby Crammer
+    2107 Yoram Singer
+    
+(2) 1718 Atsuyoshi Nakamura
+    4850 Naoki Abe
+    
+(2) 1739 Motoaki Kawanabe
+    3083 Klaus-Robert Müller
+    
+(2) 1766 Dan Roth
+    1850 Rajhans Samdani
+    
+(2) 1766 Dan Roth
+    11077 Ashutosh Garg
+    
+(2) 1771 Michail G. Lagoudakis
+    15178 Ronald Parr
+    
+(2) 1803 Xueqi Cheng
+    3920 Jiafeng Guo
+    
+(2) 1803 Xueqi Cheng
+    4349 Yanyan Lan
+    
+(2) 1804 Ruilin Liu
+    1805 Wendy Hui Wang
+    
+(2) 1821 Guimei Liu
+    1822 Limsoon Wong
+    
+(2) 1822 Limsoon Wong
+    3164 Jinyan Li
+    
+(2) 1837 Michael May
+    5328 Christine Körner
+    
+(2) 1852 Shipeng Yu
+    1853 Kai Yu
+    
+(2) 1853 Kai Yu
+    5588 Shenghuo Zhu
+    
+(2) 1853 Kai Yu
+    8008 Yihong Gong
+    
+(2) 1856 Salah Rifai
+    1860 Yann Dauphin
+    
+(2) 1863 Yanjun Qi
+    1864 Bing Bai
+    
+(2) 1869 Koen Vanhoof
+    1870 Geert Wets
+    
+(2) 1875 Rich Caruana
+    5379 Alexandru Niculescu-Mizil
+    
+(2) 1877 Tzu-Kuo Huang
+    1878 Jeff G. Schneider
+    
+(2) 1878 Jeff G. Schneider
+    2007 Andrew W. Moore 0001
+    
+(2) 1878 Jeff G. Schneider
+    2612 Roman Garnett
+    
+(2) 1878 Jeff G. Schneider
+    10021 Barnabás Póczos
+    
+(2) 1878 Jeff G. Schneider
+    19698 Yi Zhang 0010
+    
+(2) 1891 Wei Wang 0009
+    4836 Peng Wang
+    
+(2) 1891 Wei Wang 0009
+    4839 Baile Shi
+    
+(2) 1897 Yasuko Matsubara
+    6062 Yasushi Sakurai
+    
+(2) 1904 Jian-Tao Sun
+    1906 Zheng Chen
+    
+(2) 1906 Zheng Chen
+    3832 Weizhu Chen
+    
+(2) 1906 Zheng Chen
+    4176 Jun Yan
+    
+(2) 1906 Zheng Chen
+    4664 Gang Wang
+    
+(2) 1906 Zheng Chen
+    5512 Hua-Jun Zeng
+    
+(2) 1906 Zheng Chen
+    5995 Shuicheng Yan
+    
+(2) 1906 Zheng Chen
+    5996 Ning Liu
+    
+(2) 1906 Zheng Chen
+    6096 Benyu Zhang
+    
+(2) 1906 Zheng Chen
+    6120 Wei-Ying Ma
+    
+(2) 1912 Zhongfei (Mark) Zhang
+    4282 Bo Long
+    
+(2) 1927 Hiroshi Nakagawa
+    7159 Issei Sato
+    
+(2) 1934 Zheng Wang
+    4834 Jieping Ye
+    
+(2) 1935 Changshui Zhang
+    4876 Bin Zhao
+    
+(2) 1935 Changshui Zhang
+    5471 Fei Wang 0001
+    
+(2) 1945 Feiping Nie
+    1946 Xiao Cai
+    
+(2) 1945 Feiping Nie
+    2191 Dijun Luo
+    
+(2) 1971 Anand Rangarajan
+    15351 Steven Gold
+    
+(2) 1976 Xintao Wu
+    6092 Xiaowei Ying
+    
+(2) 1983 Róbert Busa-Fekete
+    1984 Balázs Kégl
+    
+(2) 1983 Róbert Busa-Fekete
+    15576 Balázs Szörényi
+    
+(2) 2003 Henry Tirri
+    10196 Petri Myllymäki
+    
+(2) 2003 Henry Tirri
+    10197 Tomi Silander
+    
+(2) 2003 Henry Tirri
+    11097 Petri Kontkanen
+    
+(2) 2007 Andrew W. Moore 0001
+    4915 Daniel B. Neill
+    
+(2) 2007 Andrew W. Moore 0001
+    6642 Alexander G. Gray
+    
+(2) 2007 Andrew W. Moore 0001
+    9200 Jeremy Kubica
+    
+(2) 2007 Andrew W. Moore 0001
+    10964 Dan Pelleg
+    
+(2) 2007 Andrew W. Moore 0001
+    14341 Purnamrita Sarkar
+    
+(2) 2048 Jun Zhu
+    2049 Bo Zhang
+    
+(2) 2048 Jun Zhu
+    2391 Eric P. Xing
+    
+(2) 2048 Jun Zhu
+    4112 Ji-Rong Wen
+    
+(2) 2048 Jun Zhu
+    4350 Ning Chen
+    
+(2) 2048 Jun Zhu
+    11693 Zaiqing Nie
+    
+(2) 2049 Bo Zhang
+    4112 Ji-Rong Wen
+    
+(2) 2049 Bo Zhang
+    11693 Zaiqing Nie
+    
+(2) 2107 Yoram Singer
+    15267 Shai Shalev-Shwartz
+    
+(2) 2107 Yoram Singer
+    15656 John C. Duchi
+    
+(2) 2107 Yoram Singer
+    15874 Ofer Dekel
+    
+(2) 2107 Yoram Singer
+    16171 Robert E. Schapire
+    
+(2) 2116 Padhraic Smyth
+    11866 Igor V. Cadez
+    
+(2) 2116 Padhraic Smyth
+    11948 Alexander T. Ihler
+    
+(2) 2116 Padhraic Smyth
+    12770 Arthur U. Asuncion
+    
+(2) 2124 Bin Wu
+    3293 Bai Wang
+    
+(2) 2124 Bin Wu
+    3383 Chuan Shi
+    
+(2) 2128 Jaime G. Carbonell
+    4213 Xi Chen
+    
+(2) 2128 Jaime G. Carbonell
+    5564 Jingrui He
+    
+(2) 2148 Ee-Peng Lim
+    4163 Aixin Sun
+    
+(2) 2148 Ee-Peng Lim
+    4165 Hady Wirawan Lauw
+    
+(2) 2148 Ee-Peng Lim
+    8789 Freddy Chong Tat Chua
+    
+(2) 2201 András György
+    7118 Csaba Szepesvári
+    
+(2) 2212 Marie-Christine Rousset
+    4950 Alexandre Termier
+    
+(2) 2222 S. Sundararajan
+    2223 S. Sathiya Keerthi
+    
+(2) 2223 S. Sathiya Keerthi
+    3693 Wei Chu
+    
+(2) 2228 Jeffrey Chan
+    3135 Christopher Leckie
+    
+(2) 2238 Thomas Gärtner
+    3443 Alexander J. Smola
+    
+(2) 2240 Dimitrios Gunopulos
+    2961 Vana Kalogeraki
+    
+(2) 2282 Bilal Piot
+    2283 Olivier Pietquin
+    
+(2) 2287 Alekh Agarwal
+    15555 Martin J. Wainwright
+    
+(2) 2293 Jure Leskovec
+    2294 Jon M. Kleinberg
+    
+(2) 2293 Jure Leskovec
+    3740 Jaewon Yang
+    
+(2) 2293 Jure Leskovec
+    4637 Julian J. McAuley
+    
+(2) 2294 Jon M. Kleinberg
+    3818 Lars Backstrom
+    
+(2) 2294 Jon M. Kleinberg
+    4224 Daniel P. Huttenlocher
+    
+(2) 2335 Stefano Ferilli
+    2337 Floriana Esposito
+    
+(2) 2337 Floriana Esposito
+    2488 Nicola Di Mauro
+    
+(2) 2357 Charu C. Aggarwal
+    2795 Karthik Subbian
+    
+(2) 2357 Charu C. Aggarwal
+    3742 Jianyong Wang
+    
+(2) 2357 Charu C. Aggarwal
+    3963 Guo-Jun Qi
+    
+(2) 2357 Charu C. Aggarwal
+    3964 Thomas S. Huang
+    
+(2) 2379 Frans Coenen
+    2381 Paul H. Leng
+    
+(2) 2389 Zoubin Ghahramani
+    2542 Michael I. Jordan
+    
+(2) 2389 Zoubin Ghahramani
+    3693 Wei Chu
+    
+(2) 2389 Zoubin Ghahramani
+    12150 Konstantina Palla
+    
+(2) 2389 Zoubin Ghahramani
+    14436 Katherine A. Heller
+    
+(2) 2389 Zoubin Ghahramani
+    15192 Carl Edward Rasmussen
+    
+(2) 2389 Zoubin Ghahramani
+    18884 Neil Houlsby
+    
+(2) 2389 Zoubin Ghahramani
+    19184 David A. Knowles
+    
+(2) 2391 Eric P. Xing
+    2542 Michael I. Jordan
+    
+(2) 2391 Eric P. Xing
+    3641 Amr Ahmed
+    
+(2) 2391 Eric P. Xing
+    6739 Ankur P. Parikh
+    
+(2) 2391 Eric P. Xing
+    10655 Le Song
+    
+(2) 2391 Eric P. Xing
+    13709 Qirong Ho
+    
+(2) 2391 Eric P. Xing
+    16489 Mladen Kolar
+    
+(2) 2414 Paul D. Scott
+    17785 Shaul Markovitch
+    
+(2) 2426 James T. Kwok
+    2427 Ivor W. Tsang
+    
+(2) 2426 James T. Kwok
+    4098 Kai Zhang
+    
+(2) 2435 Hanghang Tong
+    3571 Brian Gallagher
+    
+(2) 2458 Longbing Cao
+    6043 Yanshan Xiao
+    
+(2) 2458 Longbing Cao
+    6044 Bo Liu
+    
+(2) 2468 Francesco Gullo
+    2470 Andrea Tagarelli
+    
+(2) 2478 Ralf Herbrich
+    2479 Thore Graepel
+    
+(2) 2479 Thore Graepel
+    4321 David H. Stern
+    
+(2) 2512 Thorsten Joachims
+    2627 Karthik Raman
+    
+(2) 2512 Thorsten Joachims
+    3992 Yisong Yue
+    
+(2) 2542 Michael I. Jordan
+    3312 Francis R. Bach
+    
+(2) 2542 Michael I. Jordan
+    3737 Gert R. G. Lanckriet
+    
+(2) 2542 Michael I. Jordan
+    4065 Yuchen Zhang
+    
+(2) 2542 Michael I. Jordan
+    7766 Ameet Talwalkar
+    
+(2) 2542 Michael I. Jordan
+    9952 David M. Blei
+    
+(2) 2542 Michael I. Jordan
+    11029 Satinder P. Singh
+    
+(2) 2542 Michael I. Jordan
+    11756 Lawrence K. Saul
+    
+(2) 2542 Michael I. Jordan
+    14690 Andrew Y. Ng
+    
+(2) 2542 Michael I. Jordan
+    15106 Fabian L. Wauthier
+    
+(2) 2542 Michael I. Jordan
+    15414 Tommi S. Jaakkola
+    
+(2) 2542 Michael I. Jordan
+    15555 Martin J. Wainwright
+    
+(2) 2542 Michael I. Jordan
+    15656 John C. Duchi
+    
+(2) 2542 Michael I. Jordan
+    16813 Laurent El Ghaoui
+    
+(2) 2542 Michael I. Jordan
+    18110 Percy Liang
+    
+(2) 2551 Bernhard Schölkopf
+    2591 Kun Zhang
+    
+(2) 2551 Bernhard Schölkopf
+    3410 Dengyong Zhou
+    
+(2) 2551 Bernhard Schölkopf
+    3443 Alexander J. Smola
+    
+(2) 2551 Bernhard Schölkopf
+    3916 Manuel Gomez-Rodriguez
+    
+(2) 2551 Bernhard Schölkopf
+    4726 Olivier Chapelle
+    
+(2) 2551 Bernhard Schölkopf
+    15631 Kenji Fukumizu
+    
+(2) 2551 Bernhard Schölkopf
+    15930 Dominik Janzing
+    
+(2) 2551 Bernhard Schölkopf
+    15931 Joris M. Mooij
+    
+(2) 2551 Bernhard Schölkopf
+    15932 Jonas Peters
+    
+(2) 2551 Bernhard Schölkopf
+    16701 Krikamol Muandet
+    
+(2) 2551 Bernhard Schölkopf
+    18796 Bharath K. Sriperumbudur
+    
+(2) 2553 Christina S. Leslie
+    2554 William Stafford Noble
+    
+(2) 2592 Aapo Hyvärinen
+    15929 Patrik O. Hoyer
+    
+(2) 2605 Jinbo Bi
+    2607 Murat Dundar
+    
+(2) 2605 Jinbo Bi
+    2608 R. Bharat Rao
+    
+(2) 2605 Jinbo Bi
+    7529 Glenn Fung
+    
+(2) 2607 Murat Dundar
+    2608 R. Bharat Rao
+    
+(2) 2607 Murat Dundar
+    8179 Bartek Rajwa
+    
+(2) 2608 R. Bharat Rao
+    7529 Glenn Fung
+    
+(2) 2653 Michael J. Pazzani
+    11296 Clifford Brunk
+    
+(2) 2653 Michael J. Pazzani
+    15604 Christopher J. Merz
+    
+(2) 2653 Michael J. Pazzani
+    22594 Patrick M. Murphy
+    
+(2) 2673 Kohei Hayashi
+    5377 Ryohei Fujimaki
+    
+(2) 2674 Ryota Tomioka
+    2675 Hisashi Kashima
+    
+(2) 2682 Sethu Vijayakumar
+    10957 Stefan Schaal
+    
+(2) 2692 Harry Zhang
+    10572 Jiang Su
+    
+(2) 2695 Kristen Grauman
+    15585 Fei Sha
+    
+(2) 2738 Enhong Chen
+    2739 Qi Liu
+    
+(2) 2738 Enhong Chen
+    3859 Hui Xiong
+    
+(2) 2738 Enhong Chen
+    4027 Xing Xie
+    
+(2) 2738 Enhong Chen
+    6000 Hengshu Zhu
+    
+(2) 2738 Enhong Chen
+    7861 Linli Xu
+    
+(2) 2739 Qi Liu
+    3859 Hui Xiong
+    
+(2) 2744 Jyrki Kivinen
+    15566 Manfred K. Warmuth
+    
+(2) 2812 Yangqing Jia
+    15379 Trevor Darrell
+    
+(2) 2816 Bin Gao
+    2817 Tie-Yan Liu
+    
+(2) 2817 Tie-Yan Liu
+    3770 Hang Li
+    
+(2) 2817 Tie-Yan Liu
+    4703 Tao Qin
+    
+(2) 2887 Miho Ohsaki
+    2891 Takahira Yamaguchi
+    
+(2) 2887 Miho Ohsaki
+    5397 Hidenao Abe
+    
+(2) 2891 Takahira Yamaguchi
+    5397 Hidenao Abe
+    
+(2) 2892 Peter L. Bartlett
+    15454 Robert C. Williamson
+    
+(2) 2892 Peter L. Bartlett
+    15665 Alexander Rakhlin
+    
+(2) 2892 Peter L. Bartlett
+    15890 Yasin Abbasi-Yadkori
+    
+(2) 2892 Peter L. Bartlett
+    16155 Jonathan Baxter
+    
+(2) 2892 Peter L. Bartlett
+    16606 Jacob Abernethy
+    
+(2) 2892 Peter L. Bartlett
+    17295 Ambuj Tewari
+    
+(2) 2908 Ofer Meshi
+    2909 Amir Globerson
+    
+(2) 2909 Amir Globerson
+    4166 David Sontag
+    
+(2) 2909 Amir Globerson
+    15414 Tommi S. Jaakkola
+    
+(2) 2945 Foster J. Provost
+    10277 Troy Raeder
+    
+(2) 2945 Foster J. Provost
+    10433 Claudia Perlich
+    
+(2) 2945 Foster J. Provost
+    12418 Brian Dalessandro
+    
+(2) 2953 François Fleuret
+    2956 Leonidas Lefakis
+    
+(2) 2969 Fredrick H. M. Semazzi
+    2970 Nagiza F. Samatova
+    
+(2) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    
+(2) 3013 Alok N. Choudhary
+    4932 Yu Cheng
+    
+(2) 3013 Alok N. Choudhary
+    4933 Kunpeng Zhang
+    
+(2) 3013 Alok N. Choudhary
+    4934 Yusheng Xie
+    
+(2) 3013 Alok N. Choudhary
+    4935 Wei-keng Liao
+    
+(2) 3077 Vladimir Vapnik
+    4726 Olivier Chapelle
+    
+(2) 3083 Klaus-Robert Müller
+    15442 Andreas Ziehe
+    
+(2) 3083 Klaus-Robert Müller
+    15565 Sebastian Mika
+    
+(2) 3083 Klaus-Robert Müller
+    16151 Genevieve B. Orr
+    
+(2) 3083 Klaus-Robert Müller
+    16663 Benjamin Blankertz
+    
+(2) 3085 Sugato Basu
+    6961 Arindam Banerjee
+    
+(2) 3110 Chi Wang 0001
+    4361 Jialu Liu
+    
+(2) 3110 Chi Wang 0001
+    9522 Nihit Desai
+    
+(2) 3134 Wei Liu
+    9009 Shih-Fu Chang
+    
+(2) 3164 Jinyan Li
+    3165 Guozhu Dong
+    
+(2) 3256 Andrei Z. Broder
+    3654 Vanja Josifovski
+    
+(2) 3319 Mihajlo Grbovic
+    3632 Nemanja Djuric
+    
+(2) 3340 Giorgio Corani
+    3343 Marco Zaffalon
+    
+(2) 3389 Jun Liu
+    4834 Jieping Ye
+    
+(2) 3400 Ondrej Kuzelka
+    3403 Filip Zelezný
+    
+(2) 3443 Alexander J. Smola
+    3641 Amr Ahmed
+    
+(2) 3443 Alexander J. Smola
+    4238 Mu Li
+    
+(2) 3443 Alexander J. Smola
+    4316 Choon Hui Teo
+    
+(2) 3443 Alexander J. Smola
+    4515 S. V. N. Vishwanathan
+    
+(2) 3443 Alexander J. Smola
+    6629 Karsten M. Borgwardt
+    
+(2) 3443 Alexander J. Smola
+    8531 Novi Quadrianto
+    
+(2) 3443 Alexander J. Smola
+    10655 Le Song
+    
+(2) 3443 Alexander J. Smola
+    11286 Quoc V. Le
+    
+(2) 3443 Alexander J. Smola
+    15454 Robert C. Williamson
+    
+(2) 3470 Elke Achtert
+    3471 Peer Kröger
+    
+(2) 3471 Peer Kröger
+    3473 Arthur Zimek
+    
+(2) 3473 Arthur Zimek
+    9423 Erich Schubert
+    
+(2) 3526 Paramveer S. Dhillon
+    3528 Dean P. Foster
+    
+(2) 3526 Paramveer S. Dhillon
+    3529 Lyle H. Ungar
+    
+(2) 3528 Dean P. Foster
+    3529 Lyle H. Ungar
+    
+(2) 3528 Dean P. Foster
+    17404 Yichao Lu
+    
+(2) 3570 Jennifer Neville
+    3571 Brian Gallagher
+    
+(2) 3570 Jennifer Neville
+    5936 David Jensen
+    
+(2) 3592 Shimon Whiteson
+    3647 Maarten de Rijke
+    
+(2) 3603 Zhixiang Eddie Xu
+    3604 Kilian Q. Weinberger
+    
+(2) 3604 Kilian Q. Weinberger
+    8101 Minmin Chen
+    
+(2) 3604 Kilian Q. Weinberger
+    11756 Lawrence K. Saul
+    
+(2) 3604 Kilian Q. Weinberger
+    15585 Fei Sha
+    
+(2) 3604 Kilian Q. Weinberger
+    18720 Stephen Tyree
+    
+(2) 3604 Kilian Q. Weinberger
+    21463 Matt J. Kusner
+    
+(2) 3620 Jiliang Tang
+    3622 Huan Liu
+    
+(2) 3620 Jiliang Tang
+    3724 Xia Hu
+    
+(2) 3620 Jiliang Tang
+    4133 Huiji Gao
+    
+(2) 3622 Huan Liu
+    3724 Xia Hu
+    
+(2) 3622 Huan Liu
+    3725 Lei Tang
+    
+(2) 3622 Huan Liu
+    4133 Huiji Gao
+    
+(2) 3640 Yi Chang
+    4008 Anlei Dong
+    
+(2) 3658 Michael R. Lyu
+    3659 Irwin King
+    
+(2) 3658 Michael R. Lyu
+    3729 Haiqin Yang
+    
+(2) 3658 Michael R. Lyu
+    9398 Zenglin Xu
+    
+(2) 3659 Irwin King
+    3729 Haiqin Yang
+    
+(2) 3659 Irwin King
+    9398 Zenglin Xu
+    
+(2) 3689 Tak-Lam Wong
+    3691 Wai Lam
+    
+(2) 3692 Lihong Li
+    3694 John Langford
+    
+(2) 3692 Lihong Li
+    11431 Michael L. Littman
+    
+(2) 3694 John Langford
+    6710 Bianca Zadrozny
+    
+(2) 3694 John Langford
+    12533 Tong Zhang 0001
+    
+(2) 3694 John Langford
+    14806 Alina Beygelzimer
+    
+(2) 3694 John Langford
+    15661 Avrim Blum
+    
+(2) 3694 John Langford
+    15664 Daniel Hsu
+    
+(2) 3694 John Langford
+    16261 Sham Kakade
+    
+(2) 3702 Sergei Vassilvitskii
+    3798 Ravi Kumar
+    
+(2) 3707 Belle L. Tseng
+    12241 Xiaodan Song
+    
+(2) 3724 Xia Hu
+    4133 Huiji Gao
+    
+(2) 3732 Christopher D. Manning
+    14690 Andrew Y. Ng
+    
+(2) 3732 Christopher D. Manning
+    15504 Richard Socher
+    
+(2) 3732 Christopher D. Manning
+    18186 Dan Klein
+    
+(2) 3733 Silvio Lattanzi
+    3734 Vahab S. Mirrokni
+    
+(2) 3737 Gert R. G. Lanckriet
+    16813 Laurent El Ghaoui
+    
+(2) 3737 Gert R. G. Lanckriet
+    18796 Bharath K. Sriperumbudur
+    
+(2) 3798 Ravi Kumar
+    3799 Andrew Tomkins
+    
+(2) 3798 Ravi Kumar
+    4207 Anirban Dasgupta 0001
+    
+(2) 3807 Guy Lebanon
+    8230 John D. Lafferty
+    
+(2) 3859 Hui Xiong
+    4962 Yanjie Fu
+    
+(2) 3859 Hui Xiong
+    5402 Chuanren Liu
+    
+(2) 3859 Hui Xiong
+    5404 Junjie Wu
+    
+(2) 3859 Hui Xiong
+    5545 Yong Ge
+    
+(2) 3859 Hui Xiong
+    6000 Hengshu Zhu
+    
+(2) 3859 Hui Xiong
+    6859 Jian Chen
+    
+(2) 3859 Hui Xiong
+    6860 Wenjun Zhou
+    
+(2) 3865 Dawei Yin
+    4040 Brian D. Davison 0001
+    
+(2) 3868 Sreenivas Gollapudi
+    3870 Rina Panigrahy
+    
+(2) 3881 Paul N. Bennett
+    4167 Kevyn Collins-Thompson
+    
+(2) 3916 Manuel Gomez-Rodriguez
+    10655 Le Song
+    
+(2) 3920 Jiafeng Guo
+    4349 Yanyan Lan
+    
+(2) 3931 Wei Chen 0013
+    3932 Yajun Wang
+    
+(2) 3952 Wang-Chien Lee
+    4018 Peifeng Yin
+    
+(2) 3954 Deepak Agarwal
+    4103 Bee-Chung Chen
+    
+(2) 3963 Guo-Jun Qi
+    3964 Thomas S. Huang
+    
+(2) 3966 Jaegul Choo
+    3969 Haesun Park
+    
+(2) 3972 Luo Si
+    6801 Dan Zhang
+    
+(2) 3998 ChengXiang Zhai
+    4055 Qiaozhu Mei
+    
+(2) 4017 Yan Liu
+    6577 David C. Kale
+    
+(2) 4017 Yan Liu
+    6801 Dan Zhang
+    
+(2) 4024 Nicholas Jing Yuan
+    4027 Xing Xie
+    
+(2) 4065 Yuchen Zhang
+    15555 Martin J. Wainwright
+    
+(2) 4094 Kenneth Ward Church
+    12235 Trevor Hastie
+    
+(2) 4112 Ji-Rong Wen
+    11693 Zaiqing Nie
+    
+(2) 4152 Rómer Rosales
+    7529 Glenn Fung
+    
+(2) 4166 David Sontag
+    15414 Tommi S. Jaakkola
+    
+(2) 4176 Jun Yan
+    5995 Shuicheng Yan
+    
+(2) 4176 Jun Yan
+    5996 Ning Liu
+    
+(2) 4176 Jun Yan
+    6096 Benyu Zhang
+    
+(2) 4308 Ran Gilad-Bachrach
+    15176 Naftali Tishby
+    
+(2) 4308 Ran Gilad-Bachrach
+    17925 Amir Navot
+    
+(2) 4362 Peng Cui
+    4363 Fei Wang
+    
+(2) 4362 Peng Cui
+    8066 Shiqiang Yang
+    
+(2) 4379 Salvatore Orlando
+    4380 Raffaele Perego
+    
+(2) 4411 Steven Minton
+    5668 Craig A. Knoblock
+    
+(2) 4448 Amit Goyal 0002
+    4449 Laks V. S. Lakshmanan
+    
+(2) 4449 Laks V. S. Lakshmanan
+    5670 Wei Lu
+    
+(2) 4479 Qi Li
+    4834 Jieping Ye
+    
+(2) 4479 Qi Li
+    8823 Ravi Janardan
+    
+(2) 4632 Quanzeng You
+    4633 Jiebo Luo
+    
+(2) 4664 Gang Wang
+    5210 Frederick H. Lochovsky
+    
+(2) 4750 Ankit Agrawal
+    4932 Yu Cheng
+    
+(2) 4750 Ankit Agrawal
+    4933 Kunpeng Zhang
+    
+(2) 4750 Ankit Agrawal
+    4934 Yusheng Xie
+    
+(2) 4750 Ankit Agrawal
+    4935 Wei-keng Liao
+    
+(2) 4765 Li Wei
+    7826 Xiaopeng Xi
+    
+(2) 4784 Tantan Liu
+    4787 Gagan Agrawal
+    
+(2) 4787 Gagan Agrawal
+    5631 Ruoming Jin
+    
+(2) 4799 Jie Wang
+    4834 Jieping Ye
+    
+(2) 4799 Jie Wang
+    11886 Peter Wonka
+    
+(2) 4807 Ahmed K. Farahat
+    4809 Mohamed S. Kamel
+    
+(2) 4814 Shashi Shekhar
+    5217 James M. Kang
+    
+(2) 4831 Jiayu Zhou
+    4834 Jieping Ye
+    
+(2) 4833 Sethuraman Panchanathan
+    4834 Jieping Ye
+    
+(2) 4833 Sethuraman Panchanathan
+    13565 Rita Chattopadhyay
+    
+(2) 4834 Jieping Ye
+    8127 Shuiwang Ji
+    
+(2) 4834 Jieping Ye
+    8823 Ravi Janardan
+    
+(2) 4834 Jieping Ye
+    11884 Sen Yang
+    
+(2) 4834 Jieping Ye
+    11885 Qian Sun
+    
+(2) 4834 Jieping Ye
+    11886 Peter Wonka
+    
+(2) 4834 Jieping Ye
+    11905 Pinghua Gong
+    
+(2) 4834 Jieping Ye
+    12132 Kewei Chen
+    
+(2) 4834 Jieping Ye
+    12133 Teresa Wu
+    
+(2) 4834 Jieping Ye
+    12134 Jing Li
+    
+(2) 4834 Jieping Ye
+    12138 Eric Reiman
+    
+(2) 4834 Jieping Ye
+    12231 Lei Yuan
+    
+(2) 4834 Jieping Ye
+    12428 Shuo Xiang
+    
+(2) 4834 Jieping Ye
+    12793 Liang Sun
+    
+(2) 4834 Jieping Ye
+    12827 Jianhui Chen
+    
+(2) 4834 Jieping Ye
+    13565 Rita Chattopadhyay
+    
+(2) 4834 Jieping Ye
+    15127 Zhaosong Lu
+    
+(2) 4850 Naoki Abe
+    6710 Bianca Zadrozny
+    
+(2) 4850 Naoki Abe
+    8161 Aurelie C. Lozano
+    
+(2) 4855 Geetha Jagannathan
+    4856 Rebecca N. Wright
+    
+(2) 4885 W. Scott Spangler
+    4886 Ying Chen
+    
+(2) 4899 Animashree Anandkumar
+    15664 Daniel Hsu
+    
+(2) 4932 Yu Cheng
+    4933 Kunpeng Zhang
+    
+(2) 4932 Yu Cheng
+    4934 Yusheng Xie
+    
+(2) 4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(2) 4962 Yanjie Fu
+    5545 Yong Ge
+    
+(2) 4993 Yong Shi
+    5086 Yingjie Tian
+    
+(2) 4993 Yong Shi
+    6418 Lingfeng Niu
+    
+(2) 4993 Yong Shi
+    7070 Peng Zhang
+    
+(2) 5017 Yijun Sun
+    14508 Steve Goodison
+    
+(2) 5026 Thomas Hofmann
+    11099 Ioannis Tsochantaridis
+    
+(2) 5026 Thomas Hofmann
+    11287 Yasemin Altun
+    
+(2) 5156 Aidong Zhang
+    5916 Kang Li
+    
+(2) 5156 Aidong Zhang
+    6669 Murali Ramanathan
+    
+(2) 5158 Kush R. Varshney
+    5161 Aleksandra Mojsilovic
+    
+(2) 5159 Jun Wang 0006
+    9009 Shih-Fu Chang
+    
+(2) 5159 Jun Wang 0006
+    18360 Sanjiv Kumar
+    
+(2) 5163 Bing Hu 0001
+    5885 Yanping Chen 0005
+    
+(2) 5195 Tomonobu Ozaki
+    5196 Takenao Ohkawa
+    
+(2) 5244 Ming-Syan Chen
+    5618 Chih-Hua Tai
+    
+(2) 5244 Ming-Syan Chen
+    6017 Cheng-Ru Lin
+    
+(2) 5261 Ke Wang
+    7548 Yabo Xu
+    
+(2) 5261 Ke Wang
+    7585 Raymond Chi-Wing Wong
+    
+(2) 5261 Ke Wang
+    7586 Ada Wai-Chee Fu
+    
+(2) 5261 Ke Wang
+    8516 Benjamin C. M. Fung
+    
+(2) 5289 Chun-Nan Hsu
+    5430 Han-Shen Huang
+    
+(2) 5335 Yiping Ke
+    5623 James Cheng
+    
+(2) 5353 Yixin Chen
+    9432 Wenlin Chen
+    
+(2) 5357 Honghua Dai
+    5475 Gang Li
+    
+(2) 5367 Jasper Snoek
+    16919 Kevin Swersky
+    
+(2) 5367 Jasper Snoek
+    18316 Ryan P. Adams
+    
+(2) 5376 Jennifer G. Dy
+    7529 Glenn Fung
+    
+(2) 5398 Jinfeng Yi
+    14563 Lijun Zhang 0005
+    
+(2) 5399 Tianbao Yang
+    5400 Mehrdad Mahdavi
+    
+(2) 5399 Tianbao Yang
+    5588 Shenghuo Zhu
+    
+(2) 5399 Tianbao Yang
+    14563 Lijun Zhang 0005
+    
+(2) 5400 Mehrdad Mahdavi
+    14563 Lijun Zhang 0005
+    
+(2) 5402 Chuanren Liu
+    5545 Yong Ge
+    
+(2) 5404 Junjie Wu
+    5604 Zhiang Wu
+    
+(2) 5404 Junjie Wu
+    6859 Jian Chen
+    
+(2) 5424 Jun Nakamura
+    5425 Masahiko Teramoto
+    
+(2) 5440 Vincent S. Tseng
+    5441 Cheng-Wei Wu
+    
+(2) 5471 Fei Wang 0001
+    6513 Jianying Hu
+    
+(2) 5545 Yong Ge
+    6000 Hengshu Zhu
+    
+(2) 5588 Shenghuo Zhu
+    5665 Yun Chi
+    
+(2) 5588 Shenghuo Zhu
+    8008 Yihong Gong
+    
+(2) 5612 Jing Feng
+    5613 Xiao He
+    
+(2) 5619 Brendan Kitts
+    5620 Dyng Au
+    
+(2) 5619 Brendan Kitts
+    8574 Brian Burdick
+    
+(2) 5620 Dyng Au
+    8574 Brian Burdick
+    
+(2) 5624 Liang Zhao
+    5626 Feng Chen
+    
+(2) 5624 Liang Zhao
+    5627 Chang-Tien Lu
+    
+(2) 5626 Feng Chen
+    5627 Chang-Tien Lu
+    
+(2) 5676 Dacheng Tao
+    7074 Tianyi Zhou
+    
+(2) 5676 Dacheng Tao
+    8146 Wei Bian
+    
+(2) 5686 Wei Ding 0003
+    6855 Kui Yu
+    
+(2) 5727 Xiang Wang
+    6512 Buyue Qian
+    
+(2) 5820 Carla E. Brodley
+    20727 Xiaoli Zhang Fern
+    
+(2) 5826 Cho-Jui Hsieh
+    5828 Inderjit S. Dhillon
+    
+(2) 5827 Si Si
+    5828 Inderjit S. Dhillon
+    
+(2) 5828 Inderjit S. Dhillon
+    6190 Yuqiang Guan
+    
+(2) 5828 Inderjit S. Dhillon
+    6961 Arindam Banerjee
+    
+(2) 5828 Inderjit S. Dhillon
+    11389 Jason V. Davis
+    
+(2) 5828 Inderjit S. Dhillon
+    12082 Brian Kulis
+    
+(2) 5828 Inderjit S. Dhillon
+    15230 Prateek Jain 0002
+    
+(2) 5828 Inderjit S. Dhillon
+    15355 Pradeep D. Ravikumar
+    
+(2) 5828 Inderjit S. Dhillon
+    15812 Pradeep K. Ravikumar
+    
+(2) 5847 Jacob D. Furst
+    5848 Daniela Stan Raicu
+    
+(2) 5934 Matthew J. Rattigan
+    5936 David Jensen
+    
+(2) 5935 Marc E. Maier
+    5936 David Jensen
+    
+(2) 5936 David Jensen
+    12470 Lisa Friedland
+    
+(2) 5995 Shuicheng Yan
+    5996 Ning Liu
+    
+(2) 5995 Shuicheng Yan
+    15321 Huan Xu
+    
+(2) 6019 Igor Kononenko
+    10918 Marko Robnik-Sikonja
+    
+(2) 6031 Saharon Rosset
+    8598 Ji Zhu
+    
+(2) 6031 Saharon Rosset
+    10433 Claudia Perlich
+    
+(2) 6043 Yanshan Xiao
+    6044 Bo Liu
+    
+(2) 6246 Chang-Dong Wang
+    6247 Jian-Huang Lai
+    
+(2) 6270 Diane J. Cook
+    7393 Lawrence B. Holder
+    
+(2) 6320 Stephen J. Roberts
+    15183 Michael A. Osborne
+    
+(2) 6338 Mong-Li Lee
+    6339 Wynne Hsu
+    
+(2) 6351 Douglas H. Fisher
+    12519 Jungsoon P. Yoo
+    
+(2) 6487 Yan Liu 0002
+    6800 Mohammad Taha Bahadori
+    
+(2) 6513 Jianying Hu
+    8333 Shahram Ebadollahi
+    
+(2) 6629 Karsten M. Borgwardt
+    10655 Le Song
+    
+(2) 6642 Alexander G. Gray
+    11848 Parikshit Ram
+    
+(2) 6642 Alexander G. Gray
+    12335 William B. March
+    
+(2) 6642 Alexander G. Gray
+    14862 Hua Ouyang
+    
+(2) 6642 Alexander G. Gray
+    16316 Dongryeol Lee
+    
+(2) 6740 Budhaditya Saha
+    6743 Svetha Venkatesh
+    
+(2) 6743 Svetha Venkatesh
+    8457 Sunil Kumar Gupta
+    
+(2) 6743 Svetha Venkatesh
+    9049 Dinh Q. Phung
+    
+(2) 6785 Jiong Yang
+    6786 Wei Wang 0010
+    
+(2) 6786 Wei Wang 0010
+    6882 Xiang Zhang
+    
+(2) 6786 Wei Wang 0010
+    7222 Jinze Liu
+    
+(2) 6786 Wei Wang 0010
+    9291 Jan Prins
+    
+(2) 6801 Dan Zhang
+    8720 Richard D. Lawrence
+    
+(2) 6961 Arindam Banerjee
+    7365 Hanhuai Shan
+    
+(2) 6961 Arindam Banerjee
+    12590 Huahua Wang
+    
+(2) 7070 Peng Zhang
+    7073 Li Guo
+    
+(2) 7118 Csaba Szepesvári
+    11028 Richard S. Sutton
+    
+(2) 7118 Csaba Szepesvári
+    18306 Hamid Reza Maei
+    
+(2) 7118 Csaba Szepesvári
+    18307 Shalabh Bhatnagar
+    
+(2) 7317 Salvatore J. Stolfo
+    7318 Wenke Lee
+    
+(2) 7317 Salvatore J. Stolfo
+    7319 Philip K. Chan
+    
+(2) 7529 Glenn Fung
+    8961 Olvi L. Mangasarian
+    
+(2) 7548 Yabo Xu
+    7586 Ada Wai-Chee Fu
+    
+(2) 7585 Raymond Chi-Wing Wong
+    7586 Ada Wai-Chee Fu
+    
+(2) 7585 Raymond Chi-Wing Wong
+    8738 Cheng Long
+    
+(2) 7618 Nicolò Cesa-Bianchi
+    13299 Giovanni Zappella
+    
+(2) 7618 Nicolò Cesa-Bianchi
+    15397 Gábor Lugosi
+    
+(2) 7618 Nicolò Cesa-Bianchi
+    15457 Ohad Shamir
+    
+(2) 7618 Nicolò Cesa-Bianchi
+    15683 Claudio Gentile
+    
+(2) 7618 Nicolò Cesa-Bianchi
+    15714 Fabio Vitale
+    
+(2) 7618 Nicolò Cesa-Bianchi
+    18018 Alex Conconi
+    
+(2) 7686 Shinjae Yoo
+    7687 Dantong Yu
+    
+(2) 7692 Robin D. Burke
+    7693 Bamshad Mobasher
+    
+(2) 7766 Ameet Talwalkar
+    10914 Mehryar Mohri
+    
+(2) 7912 Morteza Alamgir
+    7913 Ulrike von Luxburg
+    
+(2) 8127 Shuiwang Ji
+    12793 Liang Sun
+    
+(2) 8230 John D. Lafferty
+    11492 Han Liu
+    
+(2) 8230 John D. Lafferty
+    15198 Larry A. Wasserman
+    
+(2) 8230 John D. Lafferty
+    15355 Pradeep D. Ravikumar
+    
+(2) 8522 Chong Wang
+    9952 David M. Blei
+    
+(2) 8598 Ji Zhu
+    12235 Trevor Hastie
+    
+(2) 8606 C. Seshadhri
+    8607 Ali Pinar
+    
+(2) 8888 Ruslan Salakhutdinov
+    15374 Geoffrey E. Hinton
+    
+(2) 8888 Ruslan Salakhutdinov
+    18225 Nitish Srivastava
+    
+(2) 8888 Ruslan Salakhutdinov
+    20459 Yichuan Tang
+    
+(2) 9009 Shih-Fu Chang
+    18360 Sanjiv Kumar
+    
+(2) 9647 Mark D. Reid
+    15454 Robert C. Williamson
+    
+(2) 9660 Branislav Kveton
+    15941 Zheng Wen
+    
+(2) 9952 David M. Blei
+    15410 Sean Gerrish
+    
+(2) 9952 David M. Blei
+    17262 Matthew D. Hoffman
+    
+(2) 10196 Petri Myllymäki
+    10197 Tomi Silander
+    
+(2) 10196 Petri Myllymäki
+    11097 Petri Kontkanen
+    
+(2) 10277 Troy Raeder
+    10433 Claudia Perlich
+    
+(2) 10277 Troy Raeder
+    12418 Brian Dalessandro
+    
+(2) 10433 Claudia Perlich
+    12418 Brian Dalessandro
+    
+(2) 10820 Wolfgang Maass
+    12815 Robert A. Legenstein
+    
+(2) 10831 Ilia Nouretdinov
+    10832 Volodya Vovk
+    
+(2) 10832 Volodya Vovk
+    11278 Alexander Gammerman
+    
+(2) 10914 Mehryar Mohri
+    11592 Corinna Cortes
+    
+(2) 10914 Mehryar Mohri
+    15445 Afshin Rostamizadeh
+    
+(2) 10914 Mehryar Mohri
+    17672 Vitaly Kuznetsov
+    
+(2) 10926 Pat Langley
+    21778 Wayne Iba
+    
+(2) 10943 Enric Plaza
+    10973 Santiago Ontañón
+    
+(2) 10955 Jo-Anne Ting
+    10957 Stefan Schaal
+    
+(2) 10957 Stefan Schaal
+    15309 Christopher G. Atkeson
+    
+(2) 11028 Richard S. Sutton
+    11029 Satinder P. Singh
+    
+(2) 11028 Richard S. Sutton
+    16634 David Silver
+    
+(2) 11028 Richard S. Sutton
+    18306 Hamid Reza Maei
+    
+(2) 11028 Richard S. Sutton
+    18307 Shalabh Bhatnagar
+    
+(2) 11029 Satinder P. Singh
+    15414 Tommi S. Jaakkola
+    
+(2) 11029 Satinder P. Singh
+    16216 Michael J. Kearns
+    
+(2) 11063 Lorenza Saitta
+    11075 Attilio Giordana
+    
+(2) 11286 Quoc V. Le
+    14690 Andrew Y. Ng
+    
+(2) 11429 Thomas J. Walsh
+    11431 Michael L. Littman
+    
+(2) 11492 Han Liu
+    15198 Larry A. Wasserman
+    
+(2) 11492 Han Liu
+    16838 Fang Han
+    
+(2) 11570 Sebastian Gerwinn
+    11571 Matthias Bethge
+    
+(2) 11576 Christino Tamon
+    22051 Nader H. Bshouty
+    
+(2) 11592 Corinna Cortes
+    15445 Afshin Rostamizadeh
+    
+(2) 11612 Max Welling
+    15473 Yee Whye Teh
+    
+(2) 11612 Max Welling
+    17804 Anoop Korattikara Balan
+    
+(2) 11756 Lawrence K. Saul
+    11757 Stefan Savage
+    
+(2) 11756 Lawrence K. Saul
+    11758 Geoffrey M. Voelker
+
+(2) 11758 Geoffrey M. Voelker
+    11756 Lawrence K. Saul
+    
+(2) 11756 Lawrence K. Saul
+    15585 Fei Sha
+    
+(2) 11757 Stefan Savage
+    11758 Geoffrey M. Voelker
+    
+(2) 11802 Usama M. Fayyad
+    11804 Paul S. Bradley
+    
+(2) 11884 Sen Yang
+    11886 Peter Wonka
+    
+(2) 11948 Alexander T. Ihler
+    17285 Qiang Liu
+    
+(2) 11966 Michael L. Wick
+    14976 Khashayar Rohanimanesh
+    
+(2) 12132 Kewei Chen
+    12133 Teresa Wu
+    
+(2) 12132 Kewei Chen
+    12134 Jing Li
+    
+(2) 12132 Kewei Chen
+    12138 Eric Reiman
+    
+(2) 12133 Teresa Wu
+    12134 Jing Li
+    
+(2) 12133 Teresa Wu
+    12138 Eric Reiman
+    
+(2) 12134 Jing Li
+    12138 Eric Reiman
+    
+(2) 12198 Takanori Maehara
+    12200 Ken-ichi Kawarabayashi
+    
+(2) 12235 Trevor Hastie
+    12236 Robert Tibshirani
+    
+(2) 12272 Carlos Guestrin
+    12421 Andreas Krause
+    
+(2) 12499 Rong Ge
+    16600 Sanjeev Arora
+    
+(2) 12609 Honglak Lee
+    14690 Andrew Y. Ng
+    
+(2) 12609 Honglak Lee
+    19707 Kihyuk Sohn
+    
+(2) 12613 Nathan Srebro
+    15266 Karthik Sridharan
+    
+(2) 12613 Nathan Srebro
+    15267 Shai Shalev-Shwartz
+    
+(2) 12916 Richard S. Zemel
+    15374 Geoffrey E. Hinton
+    
+(2) 12916 Richard S. Zemel
+    16919 Kevin Swersky
+    
+(2) 13123 Thomas L. Griffiths
+    15499 Joshua B. Tenenbaum
+    
+(2) 13123 Thomas L. Griffiths
+    15593 Joseph L. Austerweil
+    
+(2) 13174 Daphne Koller
+    16471 Benjamin Taskar
+    
+(2) 13299 Giovanni Zappella
+    15683 Claudio Gentile
+    
+(2) 13299 Giovanni Zappella
+    15714 Fabio Vitale
+    
+(2) 13605 Misha Denil
+    13606 Nando de Freitas
+    
+(2) 13767 David C. Parkes
+    17313 Hossein Azari Soufiani
+    
+(2) 13767 David C. Parkes
+    17315 Lirong Xia
+    
+(2) 13915 Gal Chechik
+    15176 Naftali Tishby
+    
+(2) 13915 Gal Chechik
+    17649 Uri Shalit
+    
+(2) 13941 Aharon Bar-Hillel
+    15803 Daphna Weinshall
+    
+(2) 13941 Aharon Bar-Hillel
+    18197 Tomer Hertz
+    
+(2) 14475 David Haussler
+    16216 Michael J. Kearns
+    
+(2) 14499 Harikrishna Narasimhan
+    14500 Shivani Agarwal 0001
+    
+(2) 14500 Shivani Agarwal 0001
+    18556 Harish G. Ramaswamy
+    
+(2) 14690 Andrew Y. Ng
+    15504 Richard Socher
+    
+(2) 14690 Andrew Y. Ng
+    15873 Rajat Raina
+    
+(2) 14690 Andrew Y. Ng
+    16390 J. Zico Kolter
+    
+(2) 14690 Andrew Y. Ng
+    16850 Adam Coates
+    
+(2) 14690 Andrew Y. Ng
+    18350 Jiquan Ngiam
+    
+(2) 14690 Andrew Y. Ng
+    18351 Pang Wei Koh
+    
+(2) 14690 Andrew Y. Ng
+    18352 Zhenghao Chen
+    
+(2) 14871 Özgür Simsek
+    15307 Andrew G. Barto
+    
+(2) 15105 Mikhail Belkin
+    15526 Partha Niyogi
+    
+(2) 15107 Nebojsa Jojic
+    15567 Brendan J. Frey
+    
+(2) 15176 Naftali Tishby
+    15546 Noam Slonim
+    
+(2) 15176 Naftali Tishby
+    17925 Amir Navot
+    
+(2) 15178 Ronald Parr
+    16458 Christopher Painter-Wakefield
+    
+(2) 15215 Victor Gabillon
+    15216 Mohammad Ghavamzadeh
+    
+(2) 15230 Prateek Jain 0002
+    15649 Praneeth Netrapalli
+    
+(2) 15230 Prateek Jain 0002
+    18567 Purushottam Kar
+    
+(2) 15244 Bernd Porr
+    15246 Florentin Wörgötter
+    
+(2) 15255 Rishabh K. Iyer
+    15256 Jeff A. Bilmes
+    
+(2) 15256 Jeff A. Bilmes
+    16496 Stefanie Jegelka
+    
+(2) 15256 Jeff A. Bilmes
+    16683 Andrew Guillory
+    
+(2) 15266 Karthik Sridharan
+    15267 Shai Shalev-Shwartz
+    
+(2) 15266 Karthik Sridharan
+    15457 Ohad Shamir
+    
+(2) 15266 Karthik Sridharan
+    15665 Alexander Rakhlin
+    
+(2) 15266 Karthik Sridharan
+    17295 Ambuj Tewari
+    
+(2) 15267 Shai Shalev-Shwartz
+    15457 Ohad Shamir
+    
+(2) 15267 Shai Shalev-Shwartz
+    15981 Amit Daniely
+    
+(2) 15275 William T. Freeman
+    16120 Antonio Torralba
+    
+(2) 15289 Javier R. Movellan
+    15311 Terrence J. Sejnowski
+    
+(2) 15293 Elad Hazan
+    16607 Satyen Kale
+    
+(2) 15293 Elad Hazan
+    17782 Tomer Koren
+    
+(2) 15298 Wouter M. Koolen
+    15566 Manfred K. Warmuth
+    
+(2) 15307 Andrew G. Barto
+    17583 George Konidaris
+    
+(2) 15311 Terrence J. Sejnowski
+    15417 Alexandre Pouget
+    
+(2) 15311 Terrence J. Sejnowski
+    15431 Peter Dayan
+    
+(2) 15311 Terrence J. Sejnowski
+    15717 Nicol N. Schraudolph
+    
+(2) 15321 Huan Xu
+    17004 Yudong Chen
+    
+(2) 15321 Huan Xu
+    21492 Wenzhuo Yang
+    
+(2) 15326 Greg Mori
+    16414 Yang Wang 0003
+    
+(2) 15337 Benjamin Van Roy
+    17211 Daniela Pucci de Farias
+    
+(2) 15354 Eunho Yang
+    15355 Pradeep D. Ravikumar
+    
+(2) 15355 Pradeep D. Ravikumar
+    15555 Martin J. Wainwright
+    
+(2) 15373 Alan S. Willsky
+    16162 Erik B. Sudderth
+    
+(2) 15374 Geoffrey E. Hinton
+    16118 Ilya Sutskever
+    
+(2) 15376 Yishay Mansour
+    16216 Michael J. Kearns
+    
+(2) 15376 Yishay Mansour
+    18717 Eyal Even-Dar
+    
+(2) 15397 Gábor Lugosi
+    15398 Gilles Stoltz
+    
+(2) 15421 Manfred Opper
+    15646 Ole Winther
+    
+(2) 15431 Peter Dayan
+    15432 Máté Lengyel
+    
+(2) 15435 Alyson K. Fletcher
+    15436 Sundeep Rangan
+    
+(2) 15457 Ohad Shamir
+    15874 Ofer Dekel
+    
+(2) 15492 Raquel Urtasun
+    15532 Tamir Hazan
+    
+(2) 15492 Raquel Urtasun
+    18585 Alexander G. Schwing
+    
+(2) 15513 Sham M. Kakade
+    15664 Daniel Hsu
+    
+(2) 15528 Sujay Sanghavi
+    17004 Yudong Chen
+    
+(2) 15536 Chunhua Shen
+    16910 Anton van den Hengel
+    
+(2) 15555 Martin J. Wainwright
+    15656 John C. Duchi
+    
+(2) 15555 Martin J. Wainwright
+    16560 Sahand Negahban
+    
+(2) 15566 Manfred K. Warmuth
+    17024 David P. Helmbold
+    
+(2) 15566 Manfred K. Warmuth
+    17862 Dima Kuzmin
+    
+(2) 15574 Maneesh Sahani
+    17246 Krishna V. Shenoy
+    
+(2) 15574 Maneesh Sahani
+    17502 Byron M. Yu
+    
+(2) 15574 Maneesh Sahani
+    18241 John P. Cunningham
+    
+(2) 15631 Kenji Fukumizu
+    18796 Bharath K. Sriperumbudur
+    
+(2) 15664 Daniel Hsu
+    16261 Sham Kakade
+    
+(2) 15665 Alexander Rakhlin
+    16606 Jacob Abernethy
+    
+(2) 15683 Claudio Gentile
+    15714 Fabio Vitale
+    
+(2) 15683 Claudio Gentile
+    18018 Alex Conconi
+    
+(2) 15699 David P. Wipf
+    15701 Bhaskar D. Rao
+    
+(2) 15699 David P. Wipf
+    17269 Srikantan S. Nagarajan
+    
+(2) 15803 Daphna Weinshall
+    18197 Tomer Hertz
+    
+(2) 15867 Alan L. Yuille
+    17355 Hongjing Lu
+    
+(2) 15893 Michalis K. Titsias
+    17409 Miguel Lázaro-Gredilla
+    
+(2) 15900 Volker Roth
+    19340 Mélanie Rey
+    
+(2) 15900 Volker Roth
+    21820 Thomas J. Fuchs
+    
+(2) 15917 Deepti Pachauri
+    15920 Vikas Singh
+    
+(2) 15930 Dominik Janzing
+    15931 Joris M. Mooij
+    
+(2) 15930 Dominik Janzing
+    15932 Jonas Peters
+    
+(2) 16098 Fredrik Lindsten
+    16099 Thomas B. Schön
+    
+(2) 16118 Ilya Sutskever
+    16468 James Martens
+    
+(2) 16171 Robert E. Schapire
+    16216 Michael J. Kearns
+    
+(2) 16171 Robert E. Schapire
+    16607 Satyen Kale
+    
+(2) 16171 Robert E. Schapire
+    17061 Miroslav Dudík
+    
+(2) 16294 Aaron C. Courville
+    17544 Ian J. Goodfellow
+    
+(2) 16368 Eytan Ruppin
+    16370 David Horn
+    
+(2) 16368 Eytan Ruppin
+    16535 Isaac Meilijson
+    
+(2) 16372 Kai-Yeung Siu
+    16717 Vwani P. Roychowdhury
+    
+(2) 16453 Rocco A. Servedio
+    16554 Philip M. Long
+    
+(2) 16681 Gaël Varoquaux
+    16682 Bertrand Thirion
+    
+(2) 16823 Sergey Levine
+    16824 Vladlen Koltun
+    
+(2) 16900 Hervé Bourlard
+    16901 Nelson Morgan
+    
+(2) 16919 Kevin Swersky
+    18316 Ryan P. Adams
+    
+(2) 16945 Shigenobu Kobayashi
+    21648 Hajime Kimura
+    
+(2) 16998 Guo-Zheng Sun
+    16999 Hsing-Hen Chen
+    
+(2) 16998 Guo-Zheng Sun
+    17000 Yee-Chun Lee
+    
+(2) 16999 Hsing-Hen Chen
+    17000 Yee-Chun Lee
+    
+(2) 17239 Jonathan W. Pillow
+    18006 Il Memming Park
+    
+(2) 17246 Krishna V. Shenoy
+    17502 Byron M. Yu
+    
+(2) 17246 Krishna V. Shenoy
+    18241 John P. Cunningham
+    
+(2) 17313 Hossein Azari Soufiani
+    17315 Lirong Xia
+    
+(2) 17540 Ingo Steinwart
+    17541 Clint Scovel
+    
+(2) 17540 Ingo Steinwart
+    17877 Don R. Hush
+    
+(2) 17541 Clint Scovel
+    17877 Don R. Hush
+    
+(2) 17821 Varsha Dani
+    17822 Thomas P. Hayes
+    
+(2) 18061 Alberto L. Sangiovanni-Vincentelli
+    20213 Arlindo L. Oliveira
+    
+(2) 18110 Percy Liang
+    18186 Dan Klein
+    
+(2) 18110 Percy Liang
+    22227 Jacob Steinhardt
+    
+(2) 18306 Hamid Reza Maei
+    18307 Shalabh Bhatnagar
+    
+(2) 18351 Pang Wei Koh
+    18352 Zhenghao Chen
+    
+(2) 18489 Joachim Giesen
+    18903 Sören Laue
+    
+(2) 18762 Ralf Schoknecht
+    18763 Artur Merke
+    
+(2) 23350 Frank Stephan
+    23432 Sanjay Jain
+    
+(2) 23359 Robert H. Sloan
+    23551 György Turán
+    
+(2) 23400 Efim B. Kinber
+    23432 Sanjay Jain
+    
+(2) 23401 Carl H. Smith
+    23421 Rusins Freivalds
+    
+(2) 23432 Sanjay Jain
+    23452 Arun Sharma
+    
+(2) 23432 Sanjay Jain
+    23483 John Case
+    
+(3) 29 Jilles Vreeken
+    188 Matthijs van Leeuwen
+    189 Arno Siebes
+    
+(3) 45 Volker Tresp
+    566 Hans-Peter Kriegel
+    1852 Shipeng Yu
+    
+(3) 45 Volker Tresp
+    566 Hans-Peter Kriegel
+    1853 Kai Yu
+    
+(3) 45 Volker Tresp
+    1852 Shipeng Yu
+    1853 Kai Yu
+    
+(3) 75 Masashi Sugiyama
+    744 Shinichi Nakajima
+    17901 S. Derin Babacan
+    
+(3) 82 Jiawei Han
+    125 Wei Fan
+    126 Jing Gao
+    
+(3) 82 Jiawei Han
+    126 Jing Gao
+    157 Mohammad M. Masud
+    
+(3) 82 Jiawei Han
+    126 Jing Gao
+    158 Latifur Khan
+    
+(3) 82 Jiawei Han
+    126 Jing Gao
+    159 Bhavani M. Thuraisingham
+    
+(3) 82 Jiawei Han
+    126 Jing Gao
+    1413 Yizhou Sun
+    
+(3) 82 Jiawei Han
+    140 Philip S. Yu
+    891 Xifeng Yan
+    
+(3) 82 Jiawei Han
+    157 Mohammad M. Masud
+    158 Latifur Khan
+    
+(3) 82 Jiawei Han
+    157 Mohammad M. Masud
+    159 Bhavani M. Thuraisingham
+    
+(3) 82 Jiawei Han
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(3) 82 Jiawei Han
+    875 Quanquan Gu
+    3633 Xiao Yu
+    
+(3) 82 Jiawei Han
+    888 Deng Cai
+    890 Xiaofei He
+    
+(3) 82 Jiawei Han
+    891 Xifeng Yan
+    5695 Hong Cheng
+    
+(3) 82 Jiawei Han
+    1414 Marina Danilevsky
+    3110 Chi Wang 0001
+    
+(3) 82 Jiawei Han
+    1414 Marina Danilevsky
+    9522 Nihit Desai
+    
+(3) 82 Jiawei Han
+    3110 Chi Wang 0001
+    4361 Jialu Liu
+    
+(3) 82 Jiawei Han
+    3110 Chi Wang 0001
+    9522 Nihit Desai
+    
+(3) 125 Wei Fan
+    126 Jing Gao
+    140 Philip S. Yu
+    
+(3) 125 Wei Fan
+    140 Philip S. Yu
+    872 Sihong Xie
+    
+(3) 125 Wei Fan
+    140 Philip S. Yu
+    1689 Haixun Wang
+    
+(3) 125 Wei Fan
+    140 Philip S. Yu
+    2441 Xiaoxiao Shi
+    
+(3) 125 Wei Fan
+    759 Qiang Yang 0001
+    1455 ErHeng Zhong
+    
+(3) 125 Wei Fan
+    873 Olivier Verscheure
+    874 Jiangtao Ren
+    
+(3) 125 Wei Fan
+    874 Jiangtao Ren
+    1455 ErHeng Zhong
+    
+(3) 126 Jing Gao
+    157 Mohammad M. Masud
+    158 Latifur Khan
+    
+(3) 126 Jing Gao
+    157 Mohammad M. Masud
+    159 Bhavani M. Thuraisingham
+    
+(3) 126 Jing Gao
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(3) 126 Jing Gao
+    802 Nan Du
+    5156 Aidong Zhang
+    
+(3) 126 Jing Gao
+    5156 Aidong Zhang
+    5916 Kang Li
+    
+(3) 127 Yong Yu
+    759 Qiang Yang 0001
+    781 Wenyuan Dai
+    
+(3) 127 Yong Yu
+    759 Qiang Yang 0001
+    782 Gui-Rong Xue
+    
+(3) 127 Yong Yu
+    781 Wenyuan Dai
+    782 Gui-Rong Xue
+    
+(3) 134 Eamonn J. Keogh
+    4765 Li Wei
+    7826 Xiaopeng Xi
+    
+(3) 134 Eamonn J. Keogh
+    5163 Bing Hu 0001
+    5885 Yanping Chen 0005
+    
+(3) 140 Philip S. Yu
+    600 Spiros Papadimitriou
+    1076 Jimeng Sun
+    
+(3) 140 Philip S. Yu
+    1912 Zhongfei (Mark) Zhang
+    4282 Bo Long
+    
+(3) 140 Philip S. Yu
+    2458 Longbing Cao
+    6044 Bo Liu
+    
+(3) 140 Philip S. Yu
+    5244 Ming-Syan Chen
+    5618 Chih-Hua Tai
+    
+(3) 140 Philip S. Yu
+    6043 Yanshan Xiao
+    6044 Bo Liu
+    
+(3) 140 Philip S. Yu
+    6785 Jiong Yang
+    6786 Wei Wang 0010
+    
+(3) 144 Stephan Günnemann
+    313 Thomas Seidl 0001
+    1709 Hardy Kremer
+    
+(3) 144 Stephan Günnemann
+    313 Thomas Seidl 0001
+    5924 Ines Färber
+    
+(3) 146 Christos Faloutsos
+    287 Leman Akoglu
+    2435 Hanghang Tong
+    
+(3) 146 Christos Faloutsos
+    1133 Tina Eliassi-Rad
+    2435 Hanghang Tong
+    
+(3) 146 Christos Faloutsos
+    1133 Tina Eliassi-Rad
+    3571 Brian Gallagher
+    
+(3) 146 Christos Faloutsos
+    2435 Hanghang Tong
+    3571 Brian Gallagher
+    
+(3) 157 Mohammad M. Masud
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(3) 180 Siegfried Nijssen
+    181 Tias Guns
+    459 Luc De Raedt
+    
+(3) 201 Ira Assent
+    310 Emmanuel Müller
+    311 Ralph Krieger
+    
+(3) 201 Ira Assent
+    310 Emmanuel Müller
+    313 Thomas Seidl 0001
+    
+(3) 201 Ira Assent
+    311 Ralph Krieger
+    313 Thomas Seidl 0001
+    
+(3) 210 Kaizhu Huang
+    3658 Michael R. Lyu
+    3659 Irwin King
+    
+(3) 215 Bernhard Pfahringer
+    370 Albert Bifet
+    1708 Geoff Holmes
+    
+(3) 224 Bing Liu 0001
+    225 Yiming Ma
+    6339 Wynne Hsu
+    
+(3) 261 Arthur Gretton
+    2551 Bernhard Schölkopf
+    15631 Kenji Fukumizu
+    
+(3) 261 Arthur Gretton
+    2551 Bernhard Schölkopf
+    18796 Bharath K. Sriperumbudur
+    
+(3) 261 Arthur Gretton
+    3443 Alexander J. Smola
+    6629 Karsten M. Borgwardt
+    
+(3) 261 Arthur Gretton
+    3443 Alexander J. Smola
+    10655 Le Song
+    
+(3) 261 Arthur Gretton
+    6629 Karsten M. Borgwardt
+    10655 Le Song
+    
+(3) 261 Arthur Gretton
+    15631 Kenji Fukumizu
+    18796 Bharath K. Sriperumbudur
+    
+(3) 310 Emmanuel Müller
+    311 Ralph Krieger
+    313 Thomas Seidl 0001
+    
+(3) 324 Christoph Sawade
+    325 Tobias Scheffer
+    326 Niels Landwehr
+    
+(3) 399 Andrew McCallum
+    11966 Michael L. Wick
+    14976 Khashayar Rohanimanesh
+    
+(3) 434 James Bailey
+    2228 Jeffrey Chan
+    3135 Christopher Leckie
+    
+(3) 517 Xingquan Zhu
+    7070 Peng Zhang
+    7073 Li Guo
+    
+(3) 535 Jorge Díez
+    536 Juan José del Coz
+    537 Antonio Bahamonde
+    
+(3) 535 Jorge Díez
+    536 Juan José del Coz
+    538 Oscar Luaces
+    
+(3) 535 Jorge Díez
+    537 Antonio Bahamonde
+    538 Oscar Luaces
+    
+(3) 536 Juan José del Coz
+    537 Antonio Bahamonde
+    538 Oscar Luaces
+    
+(3) 548 José Miguel Hernández-Lobato
+    2389 Zoubin Ghahramani
+    18884 Neil Houlsby
+    
+(3) 566 Hans-Peter Kriegel
+    1136 Christian Böhm
+    3471 Peer Kröger
+    
+(3) 566 Hans-Peter Kriegel
+    1852 Shipeng Yu
+    1853 Kai Yu
+    
+(3) 566 Hans-Peter Kriegel
+    3471 Peer Kröger
+    3473 Arthur Zimek
+    
+(3) 572 Lars Schmidt-Thieme
+    582 Martin Wistuba
+    583 Nicolas Schilling
+    
+(3) 586 Janez Demsar
+    588 Blaz Zupan
+    1153 Ivan Bratko
+    
+(3) 588 Blaz Zupan
+    1153 Ivan Bratko
+    11438 Marko Bohanec
+    
+(3) 636 Dale Schuurmans
+    754 Xinhua Zhang
+    13715 Yaoliang Yu
+    
+(3) 643 Xindong Wu
+    5686 Wei Ding 0003
+    6855 Kui Yu
+    
+(3) 661 Nitesh V. Chawla
+    1667 Yuxiao Dong
+    1668 Jie Tang
+    
+(3) 726 Bruno Scherrer
+    15215 Victor Gabillon
+    15216 Mohammad Ghavamzadeh
+    
+(3) 727 Matthieu Geist
+    2282 Bilal Piot
+    2283 Olivier Pietquin
+    
+(3) 759 Qiang Yang 0001
+    781 Wenyuan Dai
+    782 Gui-Rong Xue
+    
+(3) 759 Qiang Yang 0001
+    1906 Zheng Chen
+    4176 Jun Yan
+    
+(3) 759 Qiang Yang 0001
+    1906 Zheng Chen
+    6096 Benyu Zhang
+    
+(3) 759 Qiang Yang 0001
+    4176 Jun Yan
+    6096 Benyu Zhang
+    
+(3) 777 Yoshua Bengio
+    1856 Salah Rifai
+    1860 Yann Dauphin
+    
+(3) 777 Yoshua Bengio
+    16294 Aaron C. Courville
+    17544 Ian J. Goodfellow
+    
+(3) 853 Rémi Munos
+    1214 Alessandro Lazaric
+    15216 Mohammad Ghavamzadeh
+    
+(3) 868 Alexandre Lacasse
+    869 François Laviolette
+    870 Mario Marchand
+    
+(3) 868 Alexandre Lacasse
+    869 François Laviolette
+    17100 Pascal Germain
+    
+(3) 868 Alexandre Lacasse
+    870 Mario Marchand
+    17100 Pascal Germain
+    
+(3) 869 François Laviolette
+    870 Mario Marchand
+    17100 Pascal Germain
+    
+(3) 918 Eyke Hüllermeier
+    1265 Weiwei Cheng
+    1379 Krzysztof Dembczynski
+    
+(3) 932 Hongyuan Zha
+    1227 Chris H. Q. Ding
+    1228 Xiaofeng He
+    
+(3) 932 Hongyuan Zha
+    1227 Chris H. Q. Ding
+    1229 Horst D. Simon
+    
+(3) 932 Hongyuan Zha
+    1228 Xiaofeng He
+    1229 Horst D. Simon
+    
+(3) 1001 Francesco Bonchi
+    1002 Fosca Giannotti
+    1003 Dino Pedreschi
+    
+(3) 1002 Fosca Giannotti
+    1348 Fabio Pinelli
+    1601 Mirco Nanni
+    
+(3) 1105 Ian Davidson
+    4833 Sethuraman Panchanathan
+    4834 Jieping Ye
+    
+(3) 1105 Ian Davidson
+    5727 Xiang Wang
+    6512 Buyue Qian
+    
+(3) 1133 Tina Eliassi-Rad
+    2435 Hanghang Tong
+    3571 Brian Gallagher
+    
+(3) 1135 Junming Shao
+    1136 Christian Böhm
+    1138 Claudia Plant
+    
+(3) 1136 Christian Böhm
+    3470 Elke Achtert
+    3471 Peer Kröger
+    
+(3) 1142 Stefano Ermon
+    1276 Carla P. Gomes
+    1277 Bart Selman
+    
+(3) 1142 Stefano Ermon
+    1276 Carla P. Gomes
+    15522 Ashish Sabharwal
+    
+(3) 1142 Stefano Ermon
+    1277 Bart Selman
+    15522 Ashish Sabharwal
+    
+(3) 1227 Chris H. Q. Ding
+    1228 Xiaofeng He
+    1229 Horst D. Simon
+    
+(3) 1227 Chris H. Q. Ding
+    1416 Heng Huang
+    1945 Feiping Nie
+    
+(3) 1227 Chris H. Q. Ding
+    1416 Heng Huang
+    2191 Dijun Luo
+    
+(3) 1227 Chris H. Q. Ding
+    1945 Feiping Nie
+    2191 Dijun Luo
+    
+(3) 1276 Carla P. Gomes
+    1277 Bart Selman
+    15522 Ashish Sabharwal
+    
+(3) 1307 Fuzhen Zhuang
+    1309 Qing He
+    1310 Zhongzhi Shi
+    
+(3) 1307 Fuzhen Zhuang
+    1309 Qing He
+    1564 Ping Luo
+    
+(3) 1354 Doina Precup
+    11028 Richard S. Sutton
+    11029 Satinder P. Singh
+    
+(3) 1375 Ping Li 0001
+    4094 Kenneth Ward Church
+    12235 Trevor Hastie
+    
+(3) 1414 Marina Danilevsky
+    3110 Chi Wang 0001
+    9522 Nihit Desai
+    
+(3) 1415 Hua Wang
+    1416 Heng Huang
+    1945 Feiping Nie
+    
+(3) 1416 Heng Huang
+    1945 Feiping Nie
+    1946 Xiao Cai
+    
+(3) 1416 Heng Huang
+    1945 Feiping Nie
+    2191 Dijun Luo
+    
+(3) 1438 Vladan Radosavljevic
+    3319 Mihajlo Grbovic
+    3632 Nemanja Djuric
+    
+(3) 1461 Rong Jin
+    3658 Michael R. Lyu
+    3659 Irwin King
+    
+(3) 1461 Rong Jin
+    3658 Michael R. Lyu
+    9398 Zenglin Xu
+    
+(3) 1461 Rong Jin
+    3659 Irwin King
+    9398 Zenglin Xu
+    
+(3) 1461 Rong Jin
+    5398 Jinfeng Yi
+    14563 Lijun Zhang 0005
+    
+(3) 1461 Rong Jin
+    5399 Tianbao Yang
+    5400 Mehrdad Mahdavi
+    
+(3) 1461 Rong Jin
+    5399 Tianbao Yang
+    5588 Shenghuo Zhu
+    
+(3) 1461 Rong Jin
+    5399 Tianbao Yang
+    14563 Lijun Zhang 0005
+    
+(3) 1461 Rong Jin
+    5400 Mehrdad Mahdavi
+    14563 Lijun Zhang 0005
+    
+(3) 1504 Jesse Davis
+    1577 David Page
+    1578 Vítor Santos Costa
+    
+(3) 1624 Gunnar Rätsch
+    3083 Klaus-Robert Müller
+    15565 Sebastian Mika
+    
+(3) 1627 Naren Ramakrishnan
+    5624 Liang Zhao
+    5626 Feng Chen
+    
+(3) 1627 Naren Ramakrishnan
+    5624 Liang Zhao
+    5627 Chang-Tien Lu
+    
+(3) 1627 Naren Ramakrishnan
+    5626 Feng Chen
+    5627 Chang-Tien Lu
+    
+(3) 1631 Vipin Kumar
+    2969 Fredrick H. M. Semazzi
+    2970 Nagiza F. Samatova
+    
+(3) 1684 Jason Weston
+    2553 Christina S. Leslie
+    2554 William Stafford Noble
+    
+(3) 1803 Xueqi Cheng
+    3920 Jiafeng Guo
+    4349 Yanyan Lan
+    
+(3) 1906 Zheng Chen
+    4176 Jun Yan
+    5995 Shuicheng Yan
+    
+(3) 1906 Zheng Chen
+    4176 Jun Yan
+    5996 Ning Liu
+    
+(3) 1906 Zheng Chen
+    4176 Jun Yan
+    6096 Benyu Zhang
+    
+(3) 1906 Zheng Chen
+    5995 Shuicheng Yan
+    5996 Ning Liu
+    
+(3) 2003 Henry Tirri
+    10196 Petri Myllymäki
+    10197 Tomi Silander
+    
+(3) 2003 Henry Tirri
+    10196 Petri Myllymäki
+    11097 Petri Kontkanen
+    
+(3) 2048 Jun Zhu
+    2049 Bo Zhang
+    4112 Ji-Rong Wen
+    
+(3) 2048 Jun Zhu
+    2049 Bo Zhang
+    11693 Zaiqing Nie
+    
+(3) 2048 Jun Zhu
+    4112 Ji-Rong Wen
+    11693 Zaiqing Nie
+    
+(3) 2049 Bo Zhang
+    4112 Ji-Rong Wen
+    11693 Zaiqing Nie
+    
+(3) 2357 Charu C. Aggarwal
+    3963 Guo-Jun Qi
+    3964 Thomas S. Huang
+    
+(3) 2458 Longbing Cao
+    6043 Yanshan Xiao
+    6044 Bo Liu
+    
+(3) 2542 Michael I. Jordan
+    3737 Gert R. G. Lanckriet
+    16813 Laurent El Ghaoui
+    
+(3) 2542 Michael I. Jordan
+    11029 Satinder P. Singh
+    15414 Tommi S. Jaakkola
+    
+(3) 2551 Bernhard Schölkopf
+    15631 Kenji Fukumizu
+    18796 Bharath K. Sriperumbudur
+    
+(3) 2551 Bernhard Schölkopf
+    15930 Dominik Janzing
+    15931 Joris M. Mooij
+    
+(3) 2551 Bernhard Schölkopf
+    15930 Dominik Janzing
+    15932 Jonas Peters
+    
+(3) 2605 Jinbo Bi
+    2607 Murat Dundar
+    2608 R. Bharat Rao
+    
+(3) 2605 Jinbo Bi
+    2608 R. Bharat Rao
+    7529 Glenn Fung
+    
+(3) 2738 Enhong Chen
+    3859 Hui Xiong
+    6000 Hengshu Zhu
+    
+(3) 2887 Miho Ohsaki
+    2891 Takahira Yamaguchi
+    5397 Hidenao Abe
+    
+(3) 2945 Foster J. Provost
+    10277 Troy Raeder
+    10433 Claudia Perlich
+    
+(3) 2945 Foster J. Provost
+    10277 Troy Raeder
+    12418 Brian Dalessandro
+    
+(3) 2945 Foster J. Provost
+    10433 Claudia Perlich
+    12418 Brian Dalessandro
+    
+(3) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4932 Yu Cheng
+    
+(3) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4933 Kunpeng Zhang
+    
+(3) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4934 Yusheng Xie
+    
+(3) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4935 Wei-keng Liao
+    
+(3) 3013 Alok N. Choudhary
+    4932 Yu Cheng
+    4933 Kunpeng Zhang
+    
+(3) 3013 Alok N. Choudhary
+    4932 Yu Cheng
+    4934 Yusheng Xie
+    
+(3) 3013 Alok N. Choudhary
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(3) 3443 Alexander J. Smola
+    6629 Karsten M. Borgwardt
+    10655 Le Song
+    
+(3) 3526 Paramveer S. Dhillon
+    3528 Dean P. Foster
+    3529 Lyle H. Ungar
+    
+(3) 3620 Jiliang Tang
+    3622 Huan Liu
+    3724 Xia Hu
+    
+(3) 3620 Jiliang Tang
+    3622 Huan Liu
+    4133 Huiji Gao
+    
+(3) 3620 Jiliang Tang
+    3724 Xia Hu
+    4133 Huiji Gao
+    
+(3) 3622 Huan Liu
+    3724 Xia Hu
+    4133 Huiji Gao
+    
+(3) 3658 Michael R. Lyu
+    3659 Irwin King
+    3729 Haiqin Yang
+    
+(3) 3658 Michael R. Lyu
+    3659 Irwin King
+    9398 Zenglin Xu
+    
+(3) 3732 Christopher D. Manning
+    14690 Andrew Y. Ng
+    15504 Richard Socher
+    
+(3) 3859 Hui Xiong
+    4962 Yanjie Fu
+    5545 Yong Ge
+    
+(3) 3859 Hui Xiong
+    5402 Chuanren Liu
+    5545 Yong Ge
+    
+(3) 3859 Hui Xiong
+    5404 Junjie Wu
+    6859 Jian Chen
+    
+(3) 4176 Jun Yan
+    5995 Shuicheng Yan
+    5996 Ning Liu
+    
+(3) 4308 Ran Gilad-Bachrach
+    15176 Naftali Tishby
+    17925 Amir Navot
+    
+(3) 4479 Qi Li
+    4834 Jieping Ye
+    8823 Ravi Janardan
+    
+(3) 4750 Ankit Agrawal
+    4932 Yu Cheng
+    4933 Kunpeng Zhang
+    
+(3) 4750 Ankit Agrawal
+    4932 Yu Cheng
+    4934 Yusheng Xie
+    
+(3) 4750 Ankit Agrawal
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(3) 4799 Jie Wang
+    4834 Jieping Ye
+    11886 Peter Wonka
+    
+(3) 4833 Sethuraman Panchanathan
+    4834 Jieping Ye
+    13565 Rita Chattopadhyay
+    
+(3) 4834 Jieping Ye
+    8127 Shuiwang Ji
+    12793 Liang Sun
+    
+(3) 4834 Jieping Ye
+    11884 Sen Yang
+    11886 Peter Wonka
+    
+(3) 4834 Jieping Ye
+    12132 Kewei Chen
+    12133 Teresa Wu
+    
+(3) 4834 Jieping Ye
+    12132 Kewei Chen
+    12134 Jing Li
+    
+(3) 4834 Jieping Ye
+    12132 Kewei Chen
+    12138 Eric Reiman
+    
+(3) 4834 Jieping Ye
+    12133 Teresa Wu
+    12134 Jing Li
+    
+(3) 4834 Jieping Ye
+    12133 Teresa Wu
+    12138 Eric Reiman
+    
+(3) 4834 Jieping Ye
+    12134 Jing Li
+    12138 Eric Reiman
+    
+(3) 4932 Yu Cheng
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(3) 5159 Jun Wang 0006
+    9009 Shih-Fu Chang
+    18360 Sanjiv Kumar
+    
+(3) 5261 Ke Wang
+    7548 Yabo Xu
+    7586 Ada Wai-Chee Fu
+    
+(3) 5261 Ke Wang
+    7585 Raymond Chi-Wing Wong
+    7586 Ada Wai-Chee Fu
+    
+(3) 5619 Brendan Kitts
+    5620 Dyng Au
+    8574 Brian Burdick
+    
+(3) 5624 Liang Zhao
+    5626 Feng Chen
+    5627 Chang-Tien Lu
+    
+(3) 7118 Csaba Szepesvári
+    11028 Richard S. Sutton
+    18306 Hamid Reza Maei
+    
+(3) 7118 Csaba Szepesvári
+    11028 Richard S. Sutton
+    18307 Shalabh Bhatnagar
+    
+(3) 7118 Csaba Szepesvári
+    18306 Hamid Reza Maei
+    18307 Shalabh Bhatnagar
+    
+(3) 7618 Nicolò Cesa-Bianchi
+    13299 Giovanni Zappella
+    15683 Claudio Gentile
+    
+(3) 7618 Nicolò Cesa-Bianchi
+    13299 Giovanni Zappella
+    15714 Fabio Vitale
+    
+(3) 7618 Nicolò Cesa-Bianchi
+    15683 Claudio Gentile
+    15714 Fabio Vitale
+    
+(3) 7618 Nicolò Cesa-Bianchi
+    15683 Claudio Gentile
+    18018 Alex Conconi
+    
+(3) 8230 John D. Lafferty
+    11492 Han Liu
+    15198 Larry A. Wasserman
+    
+(3) 10277 Troy Raeder
+    10433 Claudia Perlich
+    12418 Brian Dalessandro
+    
+(3) 10914 Mehryar Mohri
+    11592 Corinna Cortes
+    15445 Afshin Rostamizadeh
+    
+(3) 11028 Richard S. Sutton
+    18306 Hamid Reza Maei
+    18307 Shalabh Bhatnagar
+    
+(3) 11756 Lawrence K. Saul
+    11757 Stefan Savage
+    11758 Geoffrey M. Voelker
+    
+(3) 12132 Kewei Chen
+    12133 Teresa Wu
+    12134 Jing Li
+    
+(3) 12132 Kewei Chen
+    12133 Teresa Wu
+    12138 Eric Reiman
+    
+(3) 12132 Kewei Chen
+    12134 Jing Li
+    12138 Eric Reiman
+    
+(3) 12133 Teresa Wu
+    12134 Jing Li
+    12138 Eric Reiman
+    
+(3) 13299 Giovanni Zappella
+    15683 Claudio Gentile
+    15714 Fabio Vitale
+    
+(3) 13767 David C. Parkes
+    17313 Hossein Azari Soufiani
+    17315 Lirong Xia
+    
+(3) 13941 Aharon Bar-Hillel
+    15803 Daphna Weinshall
+    18197 Tomer Hertz
+    
+(3) 14690 Andrew Y. Ng
+    18351 Pang Wei Koh
+    18352 Zhenghao Chen
+    
+(3) 15574 Maneesh Sahani
+    17246 Krishna V. Shenoy
+    17502 Byron M. Yu
+    
+(3) 15574 Maneesh Sahani
+    17246 Krishna V. Shenoy
+    18241 John P. Cunningham
+    
+(3) 16998 Guo-Zheng Sun
+    16999 Hsing-Hen Chen
+    17000 Yee-Chun Lee
+    
+(3) 17540 Ingo Steinwart
+    17541 Clint Scovel
+    17877 Don R. Hush
+    
+(4) 45 Volker Tresp
+    566 Hans-Peter Kriegel
+    1852 Shipeng Yu
+    1853 Kai Yu
+    
+(4) 82 Jiawei Han
+    126 Jing Gao
+    157 Mohammad M. Masud
+    158 Latifur Khan
+    
+(4) 82 Jiawei Han
+    126 Jing Gao
+    157 Mohammad M. Masud
+    159 Bhavani M. Thuraisingham
+    
+(4) 82 Jiawei Han
+    126 Jing Gao
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(4) 82 Jiawei Han
+    157 Mohammad M. Masud
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(4) 82 Jiawei Han
+    1414 Marina Danilevsky
+    3110 Chi Wang 0001
+    9522 Nihit Desai
+    
+(4) 126 Jing Gao
+    157 Mohammad M. Masud
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(4) 127 Yong Yu
+    759 Qiang Yang 0001
+    781 Wenyuan Dai
+    782 Gui-Rong Xue
+    
+(4) 146 Christos Faloutsos
+    1133 Tina Eliassi-Rad
+    2435 Hanghang Tong
+    3571 Brian Gallagher
+    
+(4) 201 Ira Assent
+    310 Emmanuel Müller
+    311 Ralph Krieger
+    313 Thomas Seidl 0001
+    
+(4) 261 Arthur Gretton
+    2551 Bernhard Schölkopf
+    15631 Kenji Fukumizu
+    18796 Bharath K. Sriperumbudur
+    
+(4) 261 Arthur Gretton
+    3443 Alexander J. Smola
+    6629 Karsten M. Borgwardt
+    10655 Le Song
+    
+(4) 535 Jorge Díez
+    536 Juan José del Coz
+    537 Antonio Bahamonde
+    538 Oscar Luaces
+    
+(4) 759 Qiang Yang 0001
+    1906 Zheng Chen
+    4176 Jun Yan
+    6096 Benyu Zhang
+    
+(4) 868 Alexandre Lacasse
+    869 François Laviolette
+    870 Mario Marchand
+    17100 Pascal Germain
+    
+(4) 932 Hongyuan Zha
+    1227 Chris H. Q. Ding
+    1228 Xiaofeng He
+    1229 Horst D. Simon
+    
+(4) 1142 Stefano Ermon
+    1276 Carla P. Gomes
+    1277 Bart Selman
+    15522 Ashish Sabharwal
+    
+(4) 1227 Chris H. Q. Ding
+    1416 Heng Huang
+    1945 Feiping Nie
+    2191 Dijun Luo
+    
+(4) 1461 Rong Jin
+    3658 Michael R. Lyu
+    3659 Irwin King
+    9398 Zenglin Xu
+    
+(4) 1627 Naren Ramakrishnan
+    5624 Liang Zhao
+    5626 Feng Chen
+    5627 Chang-Tien Lu
+    
+(4) 1906 Zheng Chen
+    4176 Jun Yan
+    5995 Shuicheng Yan
+    5996 Ning Liu
+    
+(4) 2048 Jun Zhu
+    2049 Bo Zhang
+    4112 Ji-Rong Wen
+    11693 Zaiqing Nie
+    
+(4) 2945 Foster J. Provost
+    10277 Troy Raeder
+    10433 Claudia Perlich
+    12418 Brian Dalessandro
+    
+(4) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4932 Yu Cheng
+    4933 Kunpeng Zhang
+    
+(4) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4932 Yu Cheng
+    4934 Yusheng Xie
+    
+(4) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(4) 3013 Alok N. Choudhary
+    4932 Yu Cheng
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(4) 3620 Jiliang Tang
+    3622 Huan Liu
+    3724 Xia Hu
+    4133 Huiji Gao
+    
+(4) 4750 Ankit Agrawal
+    4932 Yu Cheng
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(4) 4834 Jieping Ye
+    12132 Kewei Chen
+    12133 Teresa Wu
+    12134 Jing Li
+    
+(4) 4834 Jieping Ye
+    12132 Kewei Chen
+    12133 Teresa Wu
+    12138 Eric Reiman
+    
+(4) 4834 Jieping Ye
+    12132 Kewei Chen
+    12134 Jing Li
+    12138 Eric Reiman
+    
+(4) 4834 Jieping Ye
+    12133 Teresa Wu
+    12134 Jing Li
+    12138 Eric Reiman
+    
+(4) 7118 Csaba Szepesvári
+    11028 Richard S. Sutton
+    18306 Hamid Reza Maei
+    18307 Shalabh Bhatnagar
+    
+(4) 7618 Nicolò Cesa-Bianchi
+    13299 Giovanni Zappella
+    15683 Claudio Gentile
+    15714 Fabio Vitale
+    
+(4) 12132 Kewei Chen
+    12133 Teresa Wu
+    12134 Jing Li
+    12138 Eric Reiman
+    
+(5) 82 Jiawei Han
+    126 Jing Gao
+    157 Mohammad M. Masud
+    158 Latifur Khan
+    159 Bhavani M. Thuraisingham
+    
+(5) 3013 Alok N. Choudhary
+    4750 Ankit Agrawal
+    4932 Yu Cheng
+    4933 Kunpeng Zhang
+    4934 Yusheng Xie
+    
+(5) 4834 Jieping Ye
+    12132 Kewei Chen
+    12133 Teresa Wu
+    12134 Jing Li
+    12138 Eric Reiman
+    
+2728.46s

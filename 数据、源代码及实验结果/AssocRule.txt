@@ -1,0 +1,387 @@
+Kunpeng Zhang ===> Yusheng Xie
+Kunpeng Zhang ===> Yu Cheng
+Kunpeng Zhang ===> Ankit Agrawal  (Student-Advisor)
+Kunpeng Zhang ===> Alok N. Choudhary  (Student-Advisor)
+Leonidas Lefakis ===> François Fleuret
+Sandeep Mane ===> Jaideep Srivastava  (Student-Advisor)
+Frederick H. Lochovsky ===> Gang Wang
+Deepti Pachauri ===> Vikas Singh
+Julian J. McAuley ===> Jure Leskovec  (Student-Advisor)
+Mohsen Jamali ===> Martin Ester  (Student-Advisor)
+Tantan Liu ===> Gagan Agrawal
+Liang Zhao ===> Chang-Tien Lu
+Liang Zhao ===> Feng Chen  (Student-Advisor)
+Liang Zhao ===> Naren Ramakrishnan  (Student-Advisor)
+Joseph L. Austerweil ===> Thomas L. Griffiths  (Student-Advisor)
+Jacob D. Furst ===> Daniela Stan Raicu
+Daniela Stan Raicu ===> Jacob D. Furst
+Bhaskar D. Rao ===> David P. Wipf  (Student-Advisor)
+Masahiko Teramoto ===> Jun Nakamura
+Han-Shen Huang ===> Chun-Nan Hsu
+Cheng-Wei Wu ===> Vincent S. Tseng
+Jing Feng ===> Xiao He
+Hua-Jun Zeng ===> Zheng Chen  (Student-Advisor)
+Zhiang Wu ===> Junjie Wu  (Student-Advisor)
+Martin Pfeifle ===> Hans-Peter Kriegel  (Student-Advisor)
+Ondrej Kuzelka ===> Filip Zelezný
+Christopher Painter-Wakefield ===> Ronald Parr  (Student-Advisor)
+Elke Achtert ===> Peer Kröger  (Student-Advisor)
+Elke Achtert ===> Christian Böhm  (Student-Advisor)
+Marc Schoenauer ===> Michèle Sebag  (Student-Advisor)
+Thomas B. Schön ===> Fredrik Lindsten
+Fredrik Lindsten ===> Thomas B. Schön
+Daniel P. Huttenlocher ===> Jon M. Kleinberg  (Student-Advisor)
+Salvatore Orlando ===> Raffaele Perego
+Raffaele Perego ===> Salvatore Orlando
+Peifeng Yin ===> Wang-Chien Lee
+Bokai Cao ===> Philip S. Yu  (Student-Advisor)
+Rita Chattopadhyay ===> Sethuraman Panchanathan
+Rita Chattopadhyay ===> Jieping Ye  (Student-Advisor)
+Bilson J. L. Campana ===> Eamonn J. Keogh  (Student-Advisor)
+Steve Goodison ===> Yijun Sun
+Siddharth Gopal ===> Yiming Yang  (Student-Advisor)
+Nihit Desai ===> Marina Danilevsky
+Nihit Desai ===> Chi Wang 0001  (Student-Advisor)
+Nihit Desai ===> Jiawei Han  (Student-Advisor)
+Wei Wang 0028 ===> Zhi-Hua Zhou  (Student-Advisor)
+Sebastian Gerwinn ===> Matthias Bethge
+Geoff Hulten ===> Pedro M. Domingos  (Student-Advisor)
+Shuo Xiang ===> Jieping Ye  (Student-Advisor)
+Stefan Savage ===> Geoffrey M. Voelker
+Stefan Savage ===> Lawrence K. Saul  (Student-Advisor)
+Kewei Chen ===> Teresa Wu
+Teresa Wu ===> Kewei Chen
+Kewei Chen ===> Jing Li
+Jing Li ===> Kewei Chen
+Kewei Chen ===> Eric Reiman
+Eric Reiman ===> Kewei Chen
+Kewei Chen ===> Jieping Ye  (Student-Advisor)
+Teresa Wu ===> Jing Li
+Jing Li ===> Teresa Wu
+Teresa Wu ===> Eric Reiman
+Eric Reiman ===> Teresa Wu
+Teresa Wu ===> Jieping Ye  (Student-Advisor)
+Takanori Maehara ===> Ken-ichi Kawarabayashi
+Jing Li ===> Eric Reiman
+Eric Reiman ===> Jing Li
+Jing Li ===> Jieping Ye  (Student-Advisor)
+Eric Reiman ===> Jieping Ye  (Student-Advisor)
+Konstantina Palla ===> Zoubin Ghahramani  (Student-Advisor)
+Xiaodan Song ===> Belle L. Tseng
+Ioannis Tsochantaridis ===> Thomas Hofmann  (Student-Advisor)
+Bert Huang ===> Lise Getoor  (Student-Advisor)
+Marko Bohanec ===> Blaz Zupan
+Marko Bohanec ===> Ivan Bratko  (Student-Advisor)
+Dorian Suc ===> Ivan Bratko  (Student-Advisor)
+Budhaditya Saha ===> Svetha Venkatesh  (Student-Advisor)
+Cheng-Ru Lin ===> Ming-Syan Chen  (Student-Advisor)
+Yuqiang Guan ===> Inderjit S. Dhillon  (Student-Advisor)
+Yuhong Xiong ===> Ping Luo  (Student-Advisor)
+Jian-Huang Lai ===> Chang-Dong Wang
+Chang-Dong Wang ===> Jian-Huang Lai
+Kaidi Zhao ===> Bing Liu 0001  (Student-Advisor)
+Jing Zhang 0001 ===> Jie Tang  (Student-Advisor)
+Michael A. Osborne ===> Stephen J. Roberts
+Brian Burdick ===> Dyng Au
+Brian Burdick ===> Brendan Kitts
+Cheng Long ===> Raymond Chi-Wing Wong
+Ali Pinar ===> C. Seshadhri
+Hui Yang 0002 ===> Srinivasan Parthasarathy  (Student-Advisor)
+Cindy Xide Lin ===> Jiawei Han  (Student-Advisor)
+Dantong Yu ===> Shinjae Yoo
+Morteza Alamgir ===> Ulrike von Luxburg  (Student-Advisor)
+Bernd Porr ===> Florentin Wörgötter
+Wei Bian ===> Dacheng Tao  (Student-Advisor)
+Bernard Zenko ===> Saso Dzeroski  (Student-Advisor)
+Dominique Gay ===> Marc Boullé
+Zhenghao Chen ===> Pang Wei Koh
+Pang Wei Koh ===> Zhenghao Chen
+Zhenghao Chen ===> Andrew Y. Ng  (Student-Advisor)
+Esther Salazar ===> Lawrence Carin  (Student-Advisor)
+Nitish Srivastava ===> Ruslan Salakhutdinov  (Student-Advisor)
+Pang Wei Koh ===> Andrew Y. Ng  (Student-Advisor)
+Dino Sejdinovic ===> Arthur Gretton  (Student-Advisor)
+Finnegan Southey ===> Dale Schuurmans  (Student-Advisor)
+Stephen Tyree ===> Kilian Q. Weinberger  (Student-Advisor)
+Vitaly Kuznetsov ===> Mehryar Mohri  (Student-Advisor)
+Uri Shalit ===> Gal Chechik  (Student-Advisor)
+Hyungsul Kim ===> Jiawei Han  (Student-Advisor)
+Anna Monreale ===> Fosca Giannotti  (Student-Advisor)
+Rajhans Samdani ===> Dan Roth  (Student-Advisor)
+José Ramón Quevedo ===> Juan José del Coz
+Philip Bachman ===> Doina Precup  (Student-Advisor)
+Xin Wang 0010 ===> Thomas G. Dietterich  (Student-Advisor)
+Anoop Korattikara Balan ===> Max Welling  (Student-Advisor)
+Ming Ji ===> Jiawei Han  (Student-Advisor)
+Nicholas D. Sidiropoulos ===> Evangelos E. Papalexakis
+Iyad Batal ===> Milos Hauskrecht  (Student-Advisor)
+Dima Kuzmin ===> Manfred K. Warmuth  (Student-Advisor)
+Thomas P. Hayes ===> Varsha Dani
+Varsha Dani ===> Thomas P. Hayes
+Alex Conconi ===> Claudio Gentile  (Student-Advisor)
+Alex Conconi ===> Nicolò Cesa-Bianchi  (Student-Advisor)
+Marco Stolpe ===> Katharina Morik  (Student-Advisor)
+Nicolas Schilling ===> Martin Wistuba
+Martin Wistuba ===> Nicolas Schilling
+Nicolas Schilling ===> Lars Schmidt-Thieme  (Student-Advisor)
+Hajime Kimura ===> Shigenobu Kobayashi
+Bhavana Bharat Dalvi ===> William W. Cohen  (Student-Advisor)
+Fei Tony Liu ===> Kai Ming Ting  (Student-Advisor)
+Jan N. van Rijn ===> Joaquin Vanschoren
+Jörg Kindermann ===> Gerhard Paass
+Jun Du ===> Charles X. Ling  (Student-Advisor)
+Alessandro Verri ===> Lorenzo Rosasco  (Student-Advisor)
+Kihyuk Sohn ===> Honglak Lee  (Student-Advisor)
+Yi Zhang 0010 ===> Jeff G. Schneider  (Student-Advisor)
+Ya Xue ===> Lawrence Carin  (Student-Advisor)
+Mélanie Rey ===> Volker Roth  (Student-Advisor)
+Philipp Kranen ===> Thomas Seidl 0001  (Student-Advisor)
+Martin Wistuba ===> Lars Schmidt-Thieme  (Student-Advisor)
+Arlindo L. Oliveira ===> Alberto L. Sangiovanni-Vincentelli
+Yingjian Wang ===> Lawrence Carin  (Student-Advisor)
+Anton van den Hengel ===> Chunhua Shen
+Nicola Di Mauro ===> Floriana Esposito  (Student-Advisor)
+Paul H. Leng ===> Frans Coenen
+Guoji Zhang ===> Carlotta Domeniconi  (Student-Advisor)
+Ofer Meshi ===> Amir Globerson  (Student-Advisor)
+Karthik Raman ===> Thorsten Joachims  (Student-Advisor)
+Julian John McAuley ===> Tibério S. Caetano  (Student-Advisor)
+Xiao Cai ===> Feiping Nie  (Student-Advisor)
+Xiao Cai ===> Heng Huang  (Student-Advisor)
+Lirong Xia ===> Hossein Azari Soufiani
+Lirong Xia ===> David C. Parkes
+Yichao Lu ===> Dean P. Foster  (Student-Advisor)
+Brigitte Boden ===> Thomas Seidl 0001  (Student-Advisor)
+Chao Shen ===> Tao Li  (Student-Advisor)
+Patrick Butler ===> Naren Ramakrishnan  (Student-Advisor)
+Heng Ji ===> Jiawei Han  (Student-Advisor)
+Liang Tang ===> Tao Li  (Student-Advisor)
+Maria-Luiza Antonie ===> Osmar R. Zaïane  (Student-Advisor)
+Huan Sun ===> Xifeng Yan  (Student-Advisor)
+Moshe Fresko ===> Ronen Feldman  (Student-Advisor)
+Binyamin Rosenfeld ===> Ronen Feldman  (Student-Advisor)
+Freddy Chong Tat Chua ===> Ee-Peng Lim  (Student-Advisor)
+Min Xiao ===> Yuhong Guo
+Haiqin Yang ===> Irwin King  (Student-Advisor)
+Haiqin Yang ===> Michael R. Lyu  (Student-Advisor)
+James M. Kang ===> Shashi Shekhar  (Student-Advisor)
+Jan Prins ===> Wei Wang 0010  (Student-Advisor)
+Geoffrey M. Voelker ===> Lawrence K. Saul  (Student-Advisor)
+Mohammad M. Masud ===> Bhavani M. Thuraisingham
+Mohammad M. Masud ===> Latifur Khan  (Student-Advisor)
+Mohammad M. Masud ===> Jiawei Han  (Student-Advisor)
+Jun Wang 0017 ===> Alexandros Kalousis  (Student-Advisor)
+Shuyang Lin ===> Philip S. Yu  (Student-Advisor)
+Vana Kalogeraki ===> Dimitrios Gunopulos  (Student-Advisor)
+Salah Rifai ===> Yoshua Bengio  (Student-Advisor)
+Pinghua Gong ===> Jieping Ye  (Student-Advisor)
+Qian Sun ===> Jieping Ye  (Student-Advisor)
+Sen Yang ===> Jieping Ye  (Student-Advisor)
+Geert Wets ===> Koen Vanhoof
+Nitin Indurkhya ===> Sholom M. Weiss
+Michihiro Kuramochi ===> George Karypis  (Student-Advisor)
+Ruilin Liu ===> Wendy Hui Wang
+Wendy Hui Wang ===> Ruilin Liu
+Takahira Yamaguchi ===> Miho Ohsaki
+Giorgio Corani ===> Marco Zaffalon
+Marco Zaffalon ===> Giorgio Corani
+Timm Jansen ===> Thomas Seidl 0001  (Student-Advisor)
+Santiago Ontañón ===> Enric Plaza
+Sangkyum Kim ===> Jiawei Han  (Student-Advisor)
+Xiaowei Ying ===> Xintao Wu
+Daxin Jiang ===> Jian Pei  (Student-Advisor)
+Qinli Yang ===> Junming Shao
+Maximilian Nickel ===> Volker Tresp  (Student-Advisor)
+David H. Stern ===> Thore Graepel  (Student-Advisor)
+Yanping Chen 0005 ===> Eamonn J. Keogh  (Student-Advisor)
+Chih-Hua Tai ===> Ming-Syan Chen  (Student-Advisor)
+Chih-Hua Tai ===> Philip S. Yu  (Student-Advisor)
+Arto Klami ===> Samuel Kaski  (Student-Advisor)
+Jiawei Zhang ===> Philip S. Yu  (Student-Advisor)
+Natalia V. Andrienko ===> Gennady L. Andrienko
+Gennady L. Andrienko ===> Natalia V. Andrienko
+Jesin Zakaria ===> Eamonn J. Keogh  (Student-Advisor)
+Matthew J. Rattigan ===> David Jensen  (Student-Advisor)
+Joseph L. Hellerstein ===> Sheng Ma  (Student-Advisor)
+Li Zheng ===> Tao Li  (Student-Advisor)
+Amit Goyal 0002 ===> Laks V. S. Lakshmanan
+Shiqiang Yang ===> Peng Cui
+David C. Kale ===> Yan Liu  (Student-Advisor)
+Xiaopeng Xi ===> Eamonn J. Keogh  (Student-Advisor)
+Sunil Kumar Gupta ===> Svetha Venkatesh
+Anlei Dong ===> Yi Chang
+Jaegul Choo ===> Haesun Park  (Student-Advisor)
+Yang Yu ===> Zhi-Hua Zhou  (Student-Advisor)
+Alex Beutel ===> Christos Faloutsos  (Student-Advisor)
+Chotirat (Ann) Ratanamahatana ===> Eamonn J. Keogh  (Student-Advisor)
+Tao Qin ===> Tie-Yan Liu  (Student-Advisor)
+Ardian Kristanto Poernomo ===> Vivekanand Gopalkrishnan
+Rajat Raina ===> Andrew Y. Ng  (Student-Advisor)
+Andrew Guillory ===> Jeff A. Bilmes  (Student-Advisor)
+Steven Gold ===> Anand Rangarajan
+Fabian L. Wauthier ===> Michael I. Jordan  (Student-Advisor)
+Praneeth Netrapalli ===> Prateek Jain 0002  (Student-Advisor)
+Sundeep Rangan ===> Alyson K. Fletcher
+Alyson K. Fletcher ===> Sundeep Rangan
+Sean Gerrish ===> David M. Blei  (Student-Advisor)
+Timothy Arthur Mann ===> Shie Mannor  (Student-Advisor)
+Artur Merke ===> Ralf Schoknecht
+Marthinus Christoffel du Plessis ===> Masashi Sugiyama  (Student-Advisor)
+Harish G. Ramaswamy ===> Shivani Agarwal 0001  (Student-Advisor)
+Hamid Reza Maei ===> Richard S. Sutton  (Student-Advisor)
+Hamid Reza Maei ===> Csaba Szepesvári  (Student-Advisor)
+Patrick M. Murphy ===> Michael J. Pazzani  (Student-Advisor)
+Wenzhuo Yang ===> Huan Xu  (Student-Advisor)
+Hongjing Lu ===> Alan L. Yuille  (Student-Advisor)
+Hossein Azari Soufiani ===> David C. Parkes
+Yee-Chun Lee ===> Hsing-Hen Chen
+Hsing-Hen Chen ===> Yee-Chun Lee
+Yee-Chun Lee ===> Guo-Zheng Sun
+Hsing-Hen Chen ===> Guo-Zheng Sun
+S. Derin Babacan ===> Shinichi Nakajima
+Arthur U. Asuncion ===> Padhraic Smyth  (Student-Advisor)
+Lisa Friedland ===> David Jensen  (Student-Advisor)
+Andreas Ziehe ===> Klaus-Robert Müller  (Student-Advisor)
+Buyue Qian ===> Xiang Wang
+David E. Carlson ===> Lawrence Carin  (Student-Advisor)
+Gaël Varoquaux ===> Bertrand Thirion
+Jeffrey Chan ===> James Bailey  (Student-Advisor)
+Yann Dauphin ===> Yoshua Bengio  (Student-Advisor)
+Murali Ramanathan ===> Aidong Zhang  (Student-Advisor)
+Clint Scovel ===> Ingo Steinwart
+Yu-Feng Li ===> Zhi-Hua Zhou  (Student-Advisor)
+Jian Chen ===> Hui Xiong  (Student-Advisor)
+Huahua Wang ===> Arindam Banerjee  (Student-Advisor)
+Jonas Peters ===> Dominik Janzing
+Jonas Peters ===> Bernhard Schölkopf  (Student-Advisor)
+Wei-keng Liao ===> Alok N. Choudhary  (Student-Advisor)
+Petri Kontkanen ===> Petri Myllymäki
+Petri Kontkanen ===> Henry Tirri
+Yusheng Xie ===> Yu Cheng
+Yusheng Xie ===> Ankit Agrawal
+Yusheng Xie ===> Alok N. Choudhary  (Student-Advisor)
+Baile Shi ===> Wei Wang 0009
+Ahmed K. Farahat ===> Mohamed S. Kamel
+Shyam Boriah ===> Vipin Kumar  (Student-Advisor)
+Ines Färber ===> Stephan Günnemann  (Student-Advisor)
+Ines Färber ===> Thomas Seidl 0001  (Student-Advisor)
+Zhixiang Eddie Xu ===> Kilian Q. Weinberger  (Student-Advisor)
+Paramveer S. Dhillon ===> Dean P. Foster
+Paramveer S. Dhillon ===> Lyle H. Ungar  (Student-Advisor)
+Yanshan Xiao ===> Bo Liu
+Isaac Meilijson ===> Eytan Ruppin
+Meghana Deodhar ===> Joydeep Ghosh  (Student-Advisor)
+Ashish Sabharwal ===> Bart Selman
+Dyng Au ===> Brendan Kitts
+Xiang Ren ===> Jiawei Han  (Student-Advisor)
+Dongryeol Lee ===> Alexander G. Gray  (Student-Advisor)
+Setsuo Ohsuga ===> Ning Zhong
+Michael Brückner ===> Tobias Scheffer  (Student-Advisor)
+Misha Denil ===> Nando de Freitas  (Student-Advisor)
+Hua Ouyang ===> Alexander G. Gray  (Student-Advisor)
+Carla P. Gomes ===> Bart Selman
+Ralph Krieger ===> Ira Assent
+Ralph Krieger ===> Thomas Seidl 0001  (Student-Advisor)
+Qirong Ho ===> Eric P. Xing  (Student-Advisor)
+Alexandre Lacasse ===> François Laviolette  (Student-Advisor)
+Robert Tibshirani ===> Trevor Hastie
+Alexander G. Schwing ===> Raquel Urtasun
+Bing Hu 0001 ===> Eamonn J. Keogh  (Student-Advisor)
+Cheng-Te Li ===> Shou-De Lin
+Matt J. Kusner ===> Kilian Q. Weinberger  (Student-Advisor)
+Elizabeth S. Burnside ===> David Page  (Student-Advisor)
+Wenlin Chen ===> Yixin Chen
+Herman L. Ferrá ===> Adam Kowalczyk
+Michael L. Wick ===> Andrew McCallum  (Student-Advisor)
+Geoffrey Holmes ===> Bernhard Pfahringer  (Student-Advisor)
+Petko Bogdanov ===> Ambuj K. Singh
+Brian Dalessandro ===> Foster J. Provost  (Student-Advisor)
+Amir Navot ===> Naftali Tishby  (Student-Advisor)
+Zaiqing Nie ===> Ji-Rong Wen
+Huiji Gao ===> Huan Liu  (Student-Advisor)
+Tobias Lang 0001 ===> Marc Toussaint
+Li Wei ===> Eamonn J. Keogh  (Student-Advisor)
+Sethuraman Panchanathan ===> Jieping Ye  (Student-Advisor)
+Jialu Liu ===> Jiawei Han  (Student-Advisor)
+Gunjan Gupta ===> Joydeep Ghosh  (Student-Advisor)
+Tias Guns ===> Siegfried Nijssen
+Pascal Germain ===> François Laviolette
+Anshumali Shrivastava ===> Ping Li 0001  (Student-Advisor)
+Horst D. Simon ===> Chris H. Q. Ding  (Student-Advisor)
+Marina Danilevsky ===> Jiawei Han  (Student-Advisor)
+Bilal Piot ===> Olivier Pietquin
+César Ferri ===> José Hernández-Orallo
+Antonio Bahamonde ===> Jorge Díez
+Jorge Díez ===> Antonio Bahamonde
+Jiafeng Guo ===> Xueqi Cheng
+Shalabh Bhatnagar ===> Richard S. Sutton  (Student-Advisor)
+Jiquan Ngiam ===> Andrew Y. Ng  (Student-Advisor)
+Sen Wu ===> Jie Tang  (Student-Advisor)
+Byron Boots ===> Geoffrey J. Gordon  (Student-Advisor)
+Krikamol Muandet ===> Bernhard Schölkopf  (Student-Advisor)
+Benjamin Blankertz ===> Klaus-Robert Müller  (Student-Advisor)
+Matthias Schubert ===> Hans-Peter Kriegel  (Student-Advisor)
+Kui Yu ===> Wei Ding 0003
+Kui Yu ===> Xindong Wu  (Student-Advisor)
+Fang Han ===> Han Liu  (Student-Advisor)
+Lei Yuan ===> Jieping Ye  (Student-Advisor)
+Faustino J. Gomez ===> Jürgen Schmidhuber  (Student-Advisor)
+Hirotaka Hachiya ===> Masashi Sugiyama  (Student-Advisor)
+Rishabh K. Iyer ===> Jeff A. Bilmes  (Student-Advisor)
+Ravi Janardan ===> Jieping Ye  (Student-Advisor)
+Wenyuan Dai ===> Gui-Rong Xue
+Wenyuan Dai ===> Yong Yu
+Adam Woznica ===> Alexandros Kalousis
+Yu Zhang 0006 ===> Dit-Yan Yeung  (Student-Advisor)
+Petri Myllymäki ===> Henry Tirri
+Hardy Kremer ===> Thomas Seidl 0001  (Student-Advisor)
+Hanhuai Shan ===> Arindam Banerjee  (Student-Advisor)
+Stefano Lonardi ===> Eamonn J. Keogh  (Student-Advisor)
+Fuzhen Zhuang ===> Qing He
+Liang Sun ===> Jieping Ye  (Student-Advisor)
+Adam Coates ===> Andrew Y. Ng  (Student-Advisor)
+Peter Wonka ===> Jieping Ye  (Student-Advisor)
+Dinh Q. Phung ===> Svetha Venkatesh
+Takenao Ohkawa ===> Tomonobu Ozaki
+Tomonobu Ozaki ===> Takenao Ohkawa
+Christoph Sawade ===> Tobias Scheffer  (Student-Advisor)
+Parikshit Ram ===> Alexander G. Gray  (Student-Advisor)
+Deng Cai ===> Xiaofei He
+Zenglin Xu ===> Irwin King
+Jianhui Chen ===> Jieping Ye  (Student-Advisor)
+Mehrdad Mahdavi ===> Rong Jin  (Student-Advisor)
+Tak-Lam Wong ===> Wai Lam
+Bee-Chung Chen ===> Deepak Agarwal
+Vítor Santos Costa ===> David Page
+Benyu Zhang ===> Zheng Chen  (Student-Advisor)
+Dijun Luo ===> Chris H. Q. Ding  (Student-Advisor)
+David A. Knowles ===> Zoubin Ghahramani  (Student-Advisor)
+Chuanren Liu ===> Hui Xiong  (Student-Advisor)
+Shotaro Akaho ===> Toshihiro Kamishima
+Louis Wehenkel ===> Pierre Geurts
+Melanie Hilario ===> Alexandros Kalousis
+Mong-Li Lee ===> Wynne Hsu
+Gui-Rong Xue ===> Yong Yu
+Xiao Yu ===> Jiawei Han  (Student-Advisor)
+Issei Sato ===> Hiroshi Nakagawa
+Weiwei Cheng ===> Eyke Hüllermeier
+Xuejun Liao ===> Lawrence Carin  (Student-Advisor)
+Lijun Zhang 0005 ===> Rong Jin  (Student-Advisor)
+Ning Liu ===> Jun Yan
+Ning Liu ===> Zheng Chen
+Peer Kröger ===> Hans-Peter Kriegel  (Student-Advisor)
+Steffen Bickel ===> Tobias Scheffer  (Student-Advisor)
+Michael Steinbach ===> Vipin Kumar  (Student-Advisor)
+Ankit Agrawal ===> Alok N. Choudhary
+Jiliang Tang ===> Huan Liu  (Student-Advisor)
+Pascal Vincent ===> Yoshua Bengio  (Student-Advisor)
+Dominik Janzing ===> Bernhard Schölkopf  (Student-Advisor)
+Shoji Hirano ===> Shusaku Tsumoto
+Irwin King ===> Michael R. Lyu
+Chi Wang 0001 ===> Jiawei Han  (Student-Advisor)
+Tianbao Yang ===> Rong Jin  (Student-Advisor)
+Xiangnan Kong ===> Philip S. Yu  (Student-Advisor)
+Jun Yan ===> Zheng Chen
+
+Association Rules: 524
+Student-Advisor Relationships: 312

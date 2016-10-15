@@ -1,0 +1,34 @@
+PageRank:
+1	Philip S. Yu	0.00167597
+2	Jiawei Han	0.00163692
+3	Christos Faloutsos	0.00122395
+4	Michael I. Jordan	0.00109578
+5	Bernhard Schölkopf	0.000950372
+6	Alexander J. Smola	0.000844632
+7	Wei Fan	0.000787565
+8	Jieping Ye	0.000724727
+9	Eric P. Xing	0.000724626
+10	Yoshua Bengio	0.000718163
+
+Topic-Sensitive PageRank:
+1	Michael I. Jordan	0.00207024
+2	Bernhard Schölkopf	0.00172864
+3	Yoshua Bengio	0.00143755
+4	Andrew Y. Ng	0.00133563
+5	Alexander J. Smola	0.00132254
+6	Zoubin Ghahramani	0.00124721
+7	Lawrence Carin	0.00120379
+8	Terrence J. Sejnowski	0.00109741
+9	Eric P. Xing	0.00104701
+10	Christof Koch	0.000983263
+
+SimRank:
+1	KDD	0.374428
+2	ICDM	0.0577842
+3	NIPS	0.0266358
+4	ICML	0.0253297
+5	PKDD	0.0234874
+6	SDM	0.02338
+7	WSDM	0.0134112
+8	ECML	0.00695851
+9	COLT	0.00414039

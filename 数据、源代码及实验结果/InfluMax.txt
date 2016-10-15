@@ -1,0 +1,12 @@
+1 Jiawei Han	249.35
+2 Philip S. Yu	212.59
+3 Christos Faloutsos	186.54
+4 Michael I. Jordan	145.47
+5 Bernhard Schölkopf	135.98
+6 Alexander J. Smola	92.52
+7 Hui Xiong	93.02
+8 Qiang Yang 0001	83.58
+9 Jieping Ye	81.89
+10 Yoshua Bengio	74.76
+
+30.56s
