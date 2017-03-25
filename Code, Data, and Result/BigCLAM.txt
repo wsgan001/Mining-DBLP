@@ -1,0 +1,1000 @@
+Philip S. Yu
+[ 0.          1.26769795  0.04513611  0.07922227]
+Jiawei Han
+[ 0.          1.25746437  0.00834144  0.        ]
+Christos Faloutsos
+[ 0.          0.44922282  0.69558838  0.        ]
+Michael I. Jordan
+[ 0.26226949  0.          0.51922784  0.54713531]
+Bernhard Schölkopf
+[ 0.01962889  0.          0.92778054  0.08978467]
+Alexander J. Smola
+[ 0.3827721   0.06314127  0.96664173  0.0710851 ]
+Wei Fan
+[ 0.          0.78796871  0.          0.        ]
+Jieping Ye
+[ 0.          0.45120487  0.          0.41107867]
+Eric P. Xing
+[ 0.29904028  0.06039144  0.04322253  0.32452661]
+Yoshua Bengio
+[ 0.0021902   0.          0.14624857  0.44351777]
+Qiang Yang 0001
+[ 0.          0.54907973  0.          0.        ]
+Zoubin Ghahramani
+[ 0.20863359  0.          0.40275084  0.42265879]
+Andrew Y. Ng
+[ 0.55100386  0.          0.          0.13921662]
+Eamonn J. Keogh
+[ 0.          0.05773523  0.          0.24523294]
+Hui Xiong
+[ 0.          0.52613458  0.          0.13806219]
+Vipin Kumar
+[ 0.         0.4002128  0.         0.       ]
+Lawrence Carin
+[ 0.          0.          0.06089316  0.05759073]
+Jian Pei
+[ 0.          0.68939136  0.          0.17957536]
+Rong Jin
+[ 0.          0.23496062  0.          0.34382527]
+Inderjit S. Dhillon
+[ 0.          0.          0.24812805  0.        ]
+Shie Mannor
+[ 0.35332048  0.          0.          0.05963186]
+C. Lee Giles
+[ 0.0600293   0.05439591  0.          0.        ]
+Zheng Chen
+[ 0.          0.24514871  0.          0.        ]
+Terrence J. Sejnowski
+[ 0.          0.          0.          0.15259108]
+Masashi Sugiyama
+[ 0.          0.          0.22033586  0.07397892]
+Klaus-Robert Müller
+[ 0.          0.          0.36628933  0.        ]
+Heikki Mannila
+[ 0.16437082  0.17891302  0.          0.08108475]
+Jie Tang
+[ 0.         0.6127633  0.         0.       ]
+Padhraic Smyth
+[ 0.33291782  0.          0.          0.05773428]
+John Shawe-Taylor
+[ 0.09410152  0.          0.4757035   0.        ]
+Huan Liu
+[ 0.          0.31010324  0.          0.14171195]
+Csaba Szepesvári
+[ 0.29022032  0.          0.          0.        ]
+Hanghang Tong
+[ 0.          0.63588619  0.00197746  0.        ]
+Thomas G. Dietterich
+[ 0.10848402  0.          0.18591104  0.        ]
+Aristides Gionis
+[ 0.          0.16852969  0.          0.        ]
+Hans-Peter Kriegel
+[ 0.          0.1159434   0.22843535  0.24365051]
+Lise Getoor
+[ 0.          0.22615981  0.00623704  0.        ]
+Christof Koch
+[ 0.04345671  0.          0.          0.        ]
+Bing Liu 0001
+[ 0.          0.20454997  0.          0.        ]
+Geoffrey E. Hinton
+[ 0.00697304  0.          0.          0.60341632]
+Naren Ramakrishnan
+[ 0.          0.27358017  0.          0.        ]
+Chris H. Q. Ding
+[ 0.13952701  0.19798376  0.          0.04594103]
+Xindong Wu
+[ 0.          0.27013604  0.00782438  0.        ]
+Peter L. Bartlett
+[ 0.45599917  0.          0.20839168  0.        ]
+Jure Leskovec
+[ 0.          0.          0.28243189  0.        ]
+Jason Weston
+[ 0.10241836  0.          0.45396571  0.        ]
+Ke Wang
+[ 0.          0.29287838  0.          0.        ]
+Stan Matwin
+[ 0.          0.          0.09087671  0.        ]
+Charu C. Aggarwal
+[ 0.          0.55276514  0.          0.        ]
+Jing Gao
+[ 0.          0.41053738  0.          0.        ]
+Le Song
+[ 0.33981774  0.23764306  0.28018838  0.        ]
+Martin Ester
+[ 0.          0.28504362  0.27423223  0.51052461]
+Joydeep Ghosh
+[ 0.          0.          0.20747479  0.        ]
+Yann LeCun
+[ 0.          0.          0.11834004  0.22523228]
+Tao Li
+[ 0.04548954  0.35542969  0.          0.11713672]
+Jimeng Sun
+[ 0.          0.36214225  0.18356245  0.        ]
+Satinder P. Singh
+[  3.08519881e-01   0.00000000e+00   0.00000000e+00   2.80710086e-04]
+Andrew W. Moore 0001
+[ 0.14679669  0.          0.04402642  0.        ]
+Srinivasan Parthasarathy
+[ 0.          0.09277456  0.          0.        ]
+Saso Dzeroski
+[ 0.08092626  0.          0.          0.11405381]
+Arindam Banerjee
+[ 0.          0.10997573  0.34331851  0.        ]
+Andreas Krause
+[ 0.0825979   0.          0.07738448  0.        ]
+Enhong Chen
+[ 0.          0.16199492  0.          0.        ]
+Robert E. Schapire
+[ 0.53146333  0.          0.          0.        ]
+Manfred K. Warmuth
+[ 0.4408634   0.          0.18687949  0.        ]
+Thomas Seidl 0001
+[ 0.          0.13797768  0.          0.        ]
+Doina Precup
+[ 0.191978  0.        0.        0.      ]
+Yong Shi
+[ 0.          0.15903949  0.          0.        ]
+Richard S. Sutton
+[ 0.2412085  0.         0.         0.       ]
+Yoram Singer
+[ 0.48183938  0.          0.          0.03789164]
+Ravi Kumar
+[ 0.          0.          0.20014659  0.        ]
+Francesco Bonchi
+[ 0.          0.12866766  0.          0.        ]
+Dale Schuurmans
+[ 0.22110936  0.          0.06255217  0.        ]
+Raymond J. Mooney
+[ 0.          0.          0.37273999  0.        ]
+Daphne Koller
+[ 0.09373299  0.0287214   0.03458559  0.        ]
+Jeff G. Schneider
+[ 0.17952377  0.          0.          0.07697459]
+Zhi-Hua Zhou
+[ 0.          0.12721083  0.          0.26076069]
+David M. Blei
+[ 0.19120394  0.          0.14082028  0.17368304]
+Charles X. Ling
+[ 0.          0.02817831  0.0345579   0.        ]
+Tobias Scheffer
+[ 0.          0.          0.15856244  0.        ]
+Arthur Gretton
+[ 0.          0.06807242  0.58800382  0.        ]
+John Langford
+[ 0.57783012  0.          0.09863033  0.        ]
+Ming-Syan Chen
+[ 0.          0.02339706  0.04205054  0.        ]
+Hongyuan Zha
+[ 0.14488901  0.13107732  0.          0.        ]
+Jaideep Srivastava
+[ 0.          0.21631368  0.          0.        ]
+Xifeng Yan
+[ 0.          0.47197611  0.14296019  0.        ]
+Francis R. Bach
+[ 0.          0.          0.22043905  0.        ]
+Rémi Munos
+[ 0.16159528  0.          0.          0.        ]
+Mohammed Javeed Zaki
+[ 0.          0.39688443  0.          0.        ]
+Naftali Tishby
+[ 0.277443  0.        0.        0.      ]
+Peter Dayan
+[ 0.17549968  0.          0.          0.15217122]
+Hang Li
+[ 0.         0.2562978  0.         0.       ]
+Richard S. Zemel
+[ 0.          0.          0.          0.43246172]
+Dan Roth
+[ 0.05957176  0.25707455  0.08902388  0.        ]
+Michael Mozer
+[ 0.          0.          0.03373879  0.09324135]
+Yong Ge
+[ 0.          0.20024715  0.          0.06818026]
+Michèle Sebag
+[ 0.          0.          0.          0.10405846]
+Hisashi Kashima
+[ 0.          0.0322188   0.19440861  0.        ]
+Stefan Kramer 0001
+[ 0.          0.07058728  0.          0.        ]
+Jude W. Shavlik
+[ 0.          0.          0.28458401  0.0703803 ]
+Andrew McCallum
+[ 0.09915875  0.          0.          0.24349074]
+Luc De Raedt
+[ 0.09416801  0.07643719  0.          0.06500102]
+Dimitrios Gunopulos
+[ 0.00907988  0.          0.          0.34016105]
+Kristian Kersting
+[ 0.          0.          0.14668046  0.16440778]
+Carlotta Domeniconi
+[ 0.          0.          0.          0.27288132]
+Jun Zhu
+[ 0.16952753  0.04051921  0.          0.        ]
+Haixun Wang
+[ 0.          0.42672313  0.          0.        ]
+Michael L. Littman
+[ 0.18548656  0.          0.          0.        ]
+Andrew G. Barto
+[ 0.05395872  0.          0.          0.        ]
+Joshua B. Tenenbaum
+[ 0.          0.          0.08398465  0.22470019]
+Pat Langley
+[ 0.01675121  0.          0.          0.01581324]
+Shai Shalev-Shwartz
+[ 0.33528428  0.          0.          0.        ]
+Thomas L. Griffiths
+[ 0.02724026  0.01998415  0.11214397  0.1970504 ]
+Nitesh V. Chawla
+[ 0.          0.16593634  0.          0.03227067]
+Tie-Yan Liu
+[ 0.          0.13213687  0.          0.        ]
+Jianyong Wang
+[ 0.          0.20005081  0.          0.        ]
+Lei Li
+[ 0.          0.19142889  0.05710718  0.03254699]
+Yee Whye Teh
+[ 0.45569215  0.          0.          0.0510551 ]
+Max Welling
+[ 0.19827184  0.          0.          0.12969637]
+Chiranjib Bhattacharyya
+[ 0.02729277  0.          0.09917693  0.        ]
+Shuicheng Yan
+[ 0.01613457  0.30822653  0.          0.17862234]
+Volker Tresp
+[ 0.          0.          0.          0.18100427]
+Avrim Blum
+[ 0.30896874  0.          0.          0.        ]
+Takashi Washio
+[ 0.          0.          0.          0.12715393]
+Trevor Darrell
+[ 0.          0.          0.08349304  0.04102289]
+Kilian Q. Weinberger
+[ 0.0083387   0.          0.22337829  0.03585838]
+Ruoming Jin
+[ 0.          0.10905417  0.          0.        ]
+Mehryar Mohri
+[ 0.16365219  0.          0.04159715  0.        ]
+Haesun Park
+[  0.00000000e+00   2.98481481e-01   0.00000000e+00   8.87315523e-18]
+Alok N. Choudhary
+[ 0.          0.09816073  0.08238488  0.06096604]
+Massimiliano Pontil
+[ 0.07118944  0.          0.10225672  0.        ]
+Yong Yu
+[ 0.        0.286413  0.        0.      ]
+Ee-Peng Lim
+[ 0.03106525  0.02916905  0.          0.        ]
+Osmar R. Zaïane
+[ 0.03133405  0.0803105   0.          0.        ]
+Russell Greiner
+[ 0.26482087  0.          0.09044625  0.        ]
+Hillol Kargupta
+[ 0.         0.0914863  0.         0.       ]
+Jun Yan
+[ 0.          0.18929555  0.          0.        ]
+Thorsten Joachims
+[ 0.         0.         0.2200674  0.       ]
+Jürgen Schmidhuber
+[ 0.02701069  0.          0.0274099   0.        ]
+John D. Lafferty
+[ 0.1455171   0.          0.0123466   0.34000072]
+Ping Luo
+[ 0.          0.18438821  0.          0.        ]
+Patrick Gallinari
+[ 0.          0.          0.10866846  0.        ]
+Corinna Cortes
+[ 0.139303    0.          0.06560679  0.05784613]
+Alexander G. Gray
+[ 0.10216084  0.          0.          0.        ]
+Pang-Ning Tan
+[ 0.          0.17118349  0.          0.        ]
+Hendrik Blockeel
+[ 0.37109608  0.          0.          0.        ]
+Ruslan Salakhutdinov
+[ 0.20218152  0.          0.          0.34985203]
+Wei Ding 0003
+[ 0.          0.2451469   0.00987311  0.        ]
+Shashi Shekhar
+[ 0.          0.15643873  0.          0.        ]
+Kotagiri Ramamohanarao
+[ 0.02797823  0.          0.          0.10268938]
+David B. Dunson
+[ 0.          0.          0.03508293  0.02930995]
+Rich Caruana
+[ 0.19648894  0.          0.          0.        ]
+Wolfgang Maass
+[ 0.05482986  0.          0.          0.        ]
+Changshui Zhang
+[ 0.          0.12024991  0.          0.05988433]
+David Jensen
+[ 0.          0.          0.28528144  0.        ]
+Ian Davidson
+[ 0.          0.14424557  0.          0.27268778]
+Klaus Obermayer
+[ 0.          0.          0.12205     0.04150491]
+Deepak Agarwal
+[ 0.          0.          0.08896574  0.03998537]
+Pierre Baldi
+[ 0.18523492  0.          0.          0.        ]
+Prasad Tadepalli
+[ 0.          0.02134815  0.16443766  0.        ]
+Wei Wang 0010
+[ 0.          0.04310513  0.          0.        ]
+James Bailey
+[ 0.         0.         0.         0.2553823]
+Shou-De Lin
+[ 0.          0.          0.11210206  0.        ]
+Sebastian Thrun
+[ 0.09507267  0.          0.0615972   0.        ]
+Fei Wang
+[ 0.          0.18279742  0.05111099  0.10587831]
+Tommi S. Jaakkola
+[ 0.15467249  0.          0.07404324  0.12121461]
+Fosca Giannotti
+[ 0.          0.08209171  0.          0.        ]
+Carla E. Brodley
+[ 0.08089557  0.02783749  0.          0.0153225 ]
+Samuel Kaski
+[ 0.  0.  0.  0.]
+Yishay Mansour
+[ 0.54170613  0.          0.          0.        ]
+Fei Sha
+[ 0.06415318  0.          0.09986694  0.06275699]
+Peter A. Flach
+[ 0.06086877  0.          0.15534193  0.        ]
+James T. Kwok
+[  0.00000000e+00   1.23521576e-05   0.00000000e+00   2.19228770e-01]
+Prateek Jain 0002
+[ 0.03390236  0.          0.08864964  0.        ]
+Lawrence K. Saul
+[ 0.12681243  0.          0.22140823  0.27943196]
+Amir Globerson
+[ 0.17133745  0.          0.          0.        ]
+Sanjay Chawla
+[ 0.          0.15172712  0.02735291  0.03719211]
+Joachim M. Buhmann
+[ 0.          0.          0.06917183  0.        ]
+Diane J. Cook
+[ 0.  0.  0.  0.]
+Ronen Feldman
+[ 0.00160874  0.11168814  0.          0.        ]
+Xingquan Zhu
+[ 0.          0.15457645  0.          0.        ]
+Bin Wu
+[ 0.          0.14950711  0.05949811  0.        ]
+Neil D. Lawrence
+[ 0.          0.          0.21068907  0.05356259]
+Longbing Cao
+[ 0.          0.16579272  0.          0.        ]
+Carlos Guestrin
+[ 0.0443034   0.          0.15949317  0.        ]
+Einoshin Suzuki
+[ 0.  0.  0.  0.]
+Hal Daumé III
+[ 0.07596663  0.          0.          0.        ]
+Nando de Freitas
+[ 0.09900549  0.          0.          0.04268153]
+William W. Cohen
+[ 0.22578517  0.          0.          0.04955686]
+Alan L. Yuille
+[ 0.02868401  0.          0.03788536  0.        ]
+Chi Wang 0001
+[ 0.          0.45380592  0.          0.        ]
+Evimaria Terzi
+[ 0.          0.0680782   0.00598802  0.05059594]
+Foster J. Provost
+[ 0.          0.08599082  0.15588578  0.        ]
+Nicolò Cesa-Bianchi
+[ 0.23660737  0.          0.          0.        ]
+Steven C. H. Hoi
+[ 0.          0.          0.          0.13026218]
+S. V. N. Vishwanathan
+[ 0.14867087  0.          0.17455972  0.        ]
+Nathan Srebro
+[ 0.4409846  0.         0.         0.       ]
+Jeff A. Bilmes
+[ 0.          0.          0.04930471  0.        ]
+Koby Crammer
+[ 0.35425349  0.          0.          0.        ]
+William Bialek
+[ 0.02429676  0.          0.          0.        ]
+Robert C. Williamson
+[ 0.10284702  0.          0.17349183  0.        ]
+Naoki Abe
+[  1.13393688e-01   2.83381134e-01   4.85374859e-18   0.00000000e+00]
+Alan Fern
+[ 0.          0.          0.16489859  0.        ]
+Stuart J. Russell
+[ 0.01566211  0.0120446   0.          0.22034987]
+B. Aditya Prakash
+[ 0.          0.18595653  0.08689282  0.        ]
+Yi Chang
+[ 0.          0.2005485   0.08505217  0.        ]
+Gert R. G. Lanckriet
+[ 0.          0.          0.29039213  0.        ]
+João Gama
+[ 0.          0.04621787  0.          0.04995756]
+Michael J. Kearns
+[ 0.6620864  0.         0.         0.       ]
+David Page
+[ 0.05020298  0.          0.0799306   0.        ]
+R. Bharat Rao
+[ 0.          0.          0.          0.17553944]
+Terran Lane
+[ 0.0330839  0.         0.         0.       ]
+Gunnar Rätsch
+[ 0.          0.          0.19355035  0.        ]
+Eyke Hüllermeier
+[ 0.0368058  0.         0.         0.       ]
+Yan Liu
+[ 0.          0.23075083  0.          0.        ]
+Kai Yu
+[ 0.0343637   0.          0.02816641  0.57907223]
+Tony Jebara
+[ 0.          0.          0.          0.08456349]
+Arno Siebes
+[ 0.09300948  0.03149992  0.          0.        ]
+Rayid Ghani
+[ 0.          0.          0.          0.05574733]
+Nello Cristianini
+[ 0.         0.         0.2175293  0.       ]
+Manfred Opper
+[ 0.14221087  0.          0.01721082  0.        ]
+Bart Goethals
+[ 0.11120782  0.14262341  0.          0.        ]
+Jilles Vreeken
+[ 0.          0.28806941  0.          0.        ]
+George Karypis
+[ 0.          0.08967049  0.          0.        ]
+Nader H. Bshouty
+[ 0.04341766  0.          0.          0.        ]
+Marc Sebban
+[ 0.  0.  0.  0.]
+Wulfram Gerstner
+[ 0.  0.  0.  0.]
+Dacheng Tao
+[ 0.          0.07995474  0.26137685  0.01203271]
+Yizhou Sun
+[ 0.        0.217786  0.        0.      ]
+Peng Zhang
+[ 0.          0.19426662  0.          0.08819928]
+Shai Ben-David
+[ 0.44935175  0.          0.          0.        ]
+Zoran Obradovic
+[ 0.          0.04082132  0.          0.        ]
+Fei Wang 0001
+[ 0.          0.24303492  0.          0.22481555]
+Tom M. Mitchell
+[ 0.14172966  0.          0.04890085  0.11237879]
+Karsten M. Borgwardt
+[ 0.          0.0836538   0.32441289  0.        ]
+Pradeep D. Ravikumar
+[ 0.15362293  0.          0.11599394  0.02539123]
+Han Liu
+[ 0.0683585   0.          0.          0.06813958]
+Honglak Lee
+[ 0.07512062  0.          0.          0.        ]
+Michalis Vazirgiannis
+[ 0.          0.          0.          0.21241474]
+Pedro M. Domingos
+[ 0.          0.          0.          0.07699853]
+Rakesh Agrawal
+[ 0.          0.0289392   0.06779716  0.0014133 ]
+Tina Eliassi-Rad
+[ 0.          0.15508657  0.14843286  0.        ]
+Christopher K. I. Williams
+[ 0.05118546  0.          0.09425376  0.14576594]
+Ada Wai-Chee Fu
+[ 0.          0.13226155  0.          0.01886793]
+Christian Böhm
+[ 0.          0.          0.07395557  0.02325147]
+Toon Calders
+[ 0.08101552  0.06913127  0.          0.        ]
+Vladimir Vapnik
+[ 0.1433476   0.          0.15348939  0.09855858]
+Quoc V. Le
+[ 0.13734448  0.          0.05896431  0.        ]
+Wei-Ying Ma
+[  6.72575271e-18   1.82365073e-01   0.00000000e+00   0.00000000e+00]
+Christopher D. Manning
+[ 0.06806358  0.          0.06846465  0.        ]
+Wei Wang 0009
+[ 0.         0.1843996  0.         0.       ]
+Maria-Florina Balcan
+[ 0.27240257  0.          0.          0.        ]
+Dino Pedreschi
+[ 0.          0.06254529  0.          0.        ]
+Nagiza F. Samatova
+[ 0.          0.05069545  0.00194768  0.        ]
+Michael J. Pazzani
+[ 0.          0.03872839  0.          0.10113655]
+Tong Zhang 0001
+[ 0.52975728  0.07231108  0.          0.18944309]
+Maneesh Sahani
+[ 0.01549892  0.          0.          0.01723379]
+Jennifer G. Dy
+[ 0.02614394  0.          0.          0.12009347]
+Feng Chen
+[ 0.          0.22098924  0.          0.        ]
+Vanja Josifovski
+[ 0.0325034   0.          0.13953767  0.        ]
+Heng Huang
+[ 0.04017121  0.0498685   0.          0.        ]
+Philip M. Long
+[ 0.49175956  0.          0.          0.        ]
+Shusaku Tsumoto
+[ 0.  0.  0.  0.]
+Kun Zhang
+[ 0.          0.24097092  0.14450251  0.        ]
+Yan Liu 0002
+[ 0.          0.17864159  0.          0.14840062]
+Erik B. Sudderth
+[ 0.08635022  0.          0.03294799  0.13713807]
+Johannes Gehrke
+[ 0.08372315  0.          0.06696795  0.        ]
+Martin J. Wainwright
+[ 0.1252623   0.          0.10649464  0.07224994]
+Latifur Khan
+[ 0.          0.15990964  0.          0.        ]
+Ralf Herbrich
+[ 0.          0.          0.29159263  0.        ]
+Ron Meir
+[ 0.2912172  0.         0.         0.       ]
+Leman Akoglu
+[ 0.          0.22464417  0.0349601   0.        ]
+Claudia Plant
+[ 0.          0.          0.09145073  0.03578575]
+Yangqiu Song
+[ 0.          0.27381659  0.          0.        ]
+Feiping Nie
+[ 0.06473915  0.0505492   0.          0.        ]
+Geoffrey I. Webb
+[ 0.          0.          0.03298027  0.07037624]
+Mohammad Ghavamzadeh
+[ 0.21869771  0.          0.          0.        ]
+Richard Nock
+[ 0.  0.  0.  0.]
+David Silver
+[ 0.10036193  0.          0.          0.        ]
+Charles Elkan
+[ 0.          0.02755032  0.          0.        ]
+Jingrui He
+[ 0.          0.17720655  0.          0.        ]
+Qiaozhu Mei
+[ 0.          0.18101307  0.          0.        ]
+Naonori Ueda
+[ 0.          0.          0.18396982  0.13918093]
+Wee Sun Lee
+[ 0.15679207  0.08283827  0.          0.        ]
+Amos J. Storkey
+[ 0.          0.          0.08360722  0.05796569]
+Junjie Wu
+[ 0.          0.06448146  0.03906017  0.04620479]
+Alan F. Murray
+[ 0.  0.  0.  0.]
+Katharina Morik
+[ 0.04383518  0.          0.03569678  0.04467155]
+Thore Graepel
+[ 0.          0.          0.21424729  0.        ]
+Glenn Fung
+[ 0.          0.          0.          0.18515863]
+Emmanuel Müller
+[ 0.          0.11244155  0.          0.        ]
+Shipeng Yu
+[  0.00000000e+00   0.00000000e+00   3.06032584e-17   3.64674304e-01]
+Wei Liu
+[ 0.          0.00507959  0.08648204  0.3322151 ]
+Lyle H. Ungar
+[ 0.15062486  0.03265918  0.          0.        ]
+Raquel Urtasun
+[ 0.          0.          0.08643287  0.        ]
+Yiming Yang
+[ 0.          0.          0.          0.18741587]
+Ryan P. Adams
+[ 0.          0.          0.          0.16276848]
+Tomaso A. Poggio
+[  2.31659571e-01   0.00000000e+00   4.38137520e-16   0.00000000e+00]
+Bo Zhang
+[ 0.09073391  0.07076883  0.          0.00226143]
+Jennifer Neville
+[ 0.          0.          0.05176666  0.        ]
+Ivor W. Tsang
+[ 0.          0.          0.          0.10801631]
+Hong Cheng
+[ 0.          0.34796308  0.2302259   0.        ]
+Ron Kohavi
+[ 0.000967    0.09860508  0.          0.        ]
+Gerhard Weikum
+[ 0.          0.          0.          0.04055671]
+Bernhard Pfahringer
+[ 0.          0.08117349  0.          0.        ]
+Aidong Zhang
+[ 0.          0.12887805  0.          0.        ]
+Myra Spiliopoulou
+[ 0.          0.05999315  0.          0.        ]
+Rong Ge
+[ 0.08568964  0.          0.          0.08492986]
+Brendan J. Frey
+[ 0.06138318  0.          0.          0.20883925]
+Mario Marchand
+[ 0.          0.          0.12579069  0.03038289]
+Wynne Hsu
+[ 0.         0.0250798  0.         0.       ]
+Padraig Cunningham
+[ 0.  0.  0.  0.]
+Xiaojin Zhu
+[ 0.         0.         0.         0.1371608]
+Chengqi Zhang
+[ 0.          0.25248097  0.          0.        ]
+Tim Oates
+[ 0.          0.          0.05673651  0.        ]
+Xiangnan Kong
+[ 0.          0.07211008  0.          0.        ]
+Stephan Günnemann
+[ 0.          0.16377077  0.00018421  0.        ]
+H. Sebastian Seung
+[ 0.12502137  0.          0.          0.        ]
+Saharon Rosset
+[ 0.04348376  0.13100503  0.          0.        ]
+Ambuj Tewari
+[ 0.21720265  0.          0.0747143   0.        ]
+Jun Wang
+[ 0.          0.          0.          0.29966291]
+Huan Xu
+[ 0.04921804  0.01865104  0.          0.01018243]
+Daniel Hsu
+[ 0.24496071  0.          0.          0.        ]
+Wagner Meira Jr.
+[ 0.          0.07628811  0.          0.        ]
+Kenji Yamanishi
+[ 0.          0.03000678  0.03793932  0.        ]
+Donato Malerba
+[ 0.          0.          0.03220089  0.        ]
+François Laviolette
+[ 0.05426744  0.          0.13017429  0.04290359]
+Hannu Toivonen
+[ 0.          0.15587125  0.          0.        ]
+Javier R. Movellan
+[ 0.          0.          0.          0.02909749]
+Jean-Philippe Vert
+[ 0.          0.          0.02504137  0.        ]
+Tom Heskes
+[ 0.         0.         0.0756021  0.       ]
+Michael R. Berthold
+[ 0.          0.0393285   0.00864727  0.        ]
+Ambuj K. Singh
+[ 0.          0.07022167  0.00460077  0.        ]
+Chandan K. Reddy
+[ 0.          0.14265939  0.          0.        ]
+Gert Cauwenberghs
+[ 0.06829132  0.          0.          0.        ]
+Howard J. Hamilton
+[ 0.  0.  0.  0.]
+Daniel D. Lee
+[ 0.08921264  0.          0.06403673  0.0549817 ]
+Ryota Tomioka
+[ 0.02676325  0.          0.2264048   0.        ]
+Nathalie Japkowicz
+[ 0.          0.          0.11300105  0.        ]
+Shun-ichi Amari
+[ 0.          0.          0.04630517  0.        ]
+Sanjay Jain
+[ 0.  0.  0.  0.]
+Isabelle Guyon
+[ 0.          0.          0.00757096  0.13318469]
+Shenghuo Zhu
+[ 0.01700286  0.08574812  0.          0.20827148]
+Samy Bengio
+[ 0.07238376  0.          0.08630651  0.05610915]
+Stefan Schaal
+[ 0.          0.          0.          0.06403466]
+Alekh Agarwal
+[ 0.4250233   0.          0.03768448  0.        ]
+Olivier Chapelle
+[ 0.33886578  0.          0.20793919  0.        ]
+Michael J. Black
+[ 0.          0.          0.02772117  0.03612249]
+Lihong Li
+[ 0.26753976  0.          0.          0.        ]
+U. Kang
+[ 0.          0.11311304  0.11832066  0.        ]
+Michael W. Mahoney
+[ 0.04389587  0.          0.02365021  0.        ]
+Thomas Hofmann
+[ 0.          0.          0.17691968  0.        ]
+Albert Bifet
+[ 0.          0.20991675  0.          0.        ]
+Ning Liu
+[ 0.          0.13425096  0.          0.        ]
+Bhavani M. Thuraisingham
+[ 0.          0.12923561  0.          0.        ]
+Zbigniew W. Ras
+[ 0.  0.  0.  0.]
+Vikas Singh
+[ 0.  0.  0.  0.]
+Vikas Sindhwani
+[ 0.27393929  0.00544017  0.          0.        ]
+Alan S. Willsky
+[ 0.09555619  0.          0.01947303  0.05836248]
+Ohad Shamir
+[ 0.25607727  0.          0.          0.        ]
+Alessandro Lazaric
+[ 0.13954058  0.          0.          0.        ]
+Claudio Gentile
+[ 0.11683669  0.          0.          0.        ]
+Wei Chen
+[ 0.          0.18418499  0.          0.09310853]
+Zhihua Zhang
+[ 0.          0.          0.          0.18098642]
+Deepayan Chakrabarti
+[ 0.          0.          0.41832015  0.        ]
+Robert L. Grossman
+[ 0.          0.07732969  0.          0.        ]
+Mikhail Belkin
+[ 0.07742534  0.          0.          0.        ]
+Alex Alves Freitas
+[ 0.  0.  0.  0.]
+Svetha Venkatesh
+[ 0.  0.  0.  0.]
+Jonathan W. Pillow
+[ 0.          0.          0.02951452  0.        ]
+Ping Li 0001
+[ 0.          0.04793389  0.09309501  0.08586557]
+Nan Du
+[ 0.08758669  0.24724306  0.05374848  0.        ]
+Mitsuo Kawato
+[ 0.          0.          0.          0.06709064]
+Jean-François Boulicaut
+[ 0.07986114  0.          0.          0.        ]
+Duen Horng Chau
+[ 0.          0.12518801  0.15772237  0.        ]
+Michael Steinbach
+[ 0.          0.10730394  0.0080789   0.        ]
+Pascal Vincent
+[ 0.         0.         0.         0.0607769]
+Lorenzo Rosasco
+[ 0.07784107  0.          0.          0.        ]
+Ran El-Yaniv
+[ 0.24388061  0.          0.          0.        ]
+Marc Plantevit
+[ 0.05178606  0.          0.          0.        ]
+Sunita Sarawagi
+[ 0.03046411  0.          0.          0.00019649]
+Peter Stone
+[ 0.28461395  0.          0.          0.        ]
+Kai Ming Ting
+[ 0.          0.          0.          0.12310931]
+Koji Tsuda
+[ 0.          0.          0.25584376  0.        ]
+Chang-Tien Lu
+[ 0.          0.17889785  0.          0.        ]
+John C. Platt
+[ 0.          0.          0.20679978  0.        ]
+Edward Y. Chang
+[ 0.          0.08519636  0.          0.10405434]
+Nuno Vasconcelos
+[ 0.          0.          0.05648896  0.        ]
+Daphna Weinshall
+[ 0.02798556  0.          0.          0.        ]
+Jeffrey Xu Yu
+[ 0.          0.20910651  0.          0.        ]
+Michael R. Lyu
+[ 0.          0.          0.          0.22875252]
+Sam T. Roweis
+[ 0.21362671  0.          0.00107095  0.11843426]
+Yukio Ohsawa
+[ 0.  0.  0.  0.]
+Hugo Larochelle
+[ 0.          0.          0.          0.33413676]
+Dean P. Foster
+[ 0.14297334  0.          0.          0.        ]
+Elad Hazan
+[ 0.17028191  0.          0.          0.        ]
+Jaime G. Carbonell
+[ 0.          0.07706875  0.03820342  0.21074801]
+Qing He
+[ 0.          0.15841034  0.          0.        ]
+Nicolas Usunier
+[ 0.          0.          0.18266058  0.        ]
+Sham Kakade
+[ 0.40746891  0.          0.          0.        ]
+Kenji Fukumizu
+[ 0.          0.          0.32942057  0.        ]
+Pietro Perona
+[ 0.18973231  0.          0.          0.        ]
+Ronan Collobert
+[ 0.0508632   0.          0.08219408  0.05521471]
+Ning Zhong
+[ 0.  0.  0.  0.]
+Jon M. Kleinberg
+[ 0.          0.02551775  0.13795147  0.        ]
+Garrison W. Cottrell
+[ 0.00500258  0.05464295  0.          0.        ]
+Geoffrey J. Gordon
+[ 0.11772788  0.          0.00552566  0.05944673]
+Floriana Esposito
+[ 0.          0.          0.04805303  0.        ]
+Maarten de Rijke
+[ 0.05839473  0.          0.          0.05034465]
+Andrew Tomkins
+[ 0.          0.          0.13765055  0.        ]
+Usama M. Fayyad
+[ 0.16392917  0.          0.          0.        ]
+Thomas S. Huang
+[ 0.02020645  0.10250832  0.          0.00400526]
+Lei Shi
+[ 0.          0.17528343  0.          0.01874982]
+Wei Wang
+[ 0.          0.22007585  0.          0.        ]
+Lars Kai Hansen
+[ 0.          0.          0.02437305  0.        ]
+Yanjie Fu
+[ 0.          0.11098064  0.          0.07917578]
+Amr Ahmed
+[ 0.16666445  0.          0.09274982  0.        ]
+Sheng Ma
+[ 0.          0.10855593  0.          0.16742924]
+Yixin Chen
+[ 0.          0.          0.03457948  0.        ]
+Guillermo Sapiro
+[ 0.          0.          0.15522076  0.04228423]
+Benjamin Van Roy
+[ 0.  0.  0.  0.]
+Siegfried Nijssen
+[ 0.0793044  0.         0.         0.       ]
+Volker Roth
+[ 0.          0.          0.05497475  0.        ]
+Xintao Wu
+[ 0.  0.  0.  0.]
+Ying Chen
+[ 0.        0.166526  0.        0.      ]
+Xueqi Cheng
+[ 0.          0.02649705  0.          0.        ]
+Ankit Agrawal
+[ 0.          0.03871616  0.0731391   0.00327427]
+Wen-Chih Peng
+[ 0.          0.07736176  0.          0.        ]
+Johannes Fürnkranz
+[ 0.14877666  0.          0.          0.        ]
+Lars Schmidt-Thieme
+[ 0.  0.  0.  0.]
+Sally A. Goldman
+[ 0.14289848  0.          0.          0.        ]
+S. Sathiya Keerthi
+[ 0.1242974   0.          0.01463062  0.        ]
+Marc Toussaint
+[ 0.          0.          0.05905167  0.07436987]
+Arnaud Doucet
+[ 0.08671759  0.          0.          0.01031795]
+Aaron C. Courville
+[ 0.          0.          0.          0.16393476]
+Suvrit Sra
+[ 0.          0.          0.25119679  0.00083346]
+Shaojun Wang
+[ 0.08640176  0.02985077  0.          0.        ]
+Ivan Bratko
+[ 0.  0.  0.  0.]
+Prem Melville
+[ 0.04102601  0.09004144  0.07500964  0.        ]
+Stefan Wrobel
+[ 0.          0.          0.15868481  0.        ]
+Laks V. S. Lakshmanan
+[ 0.          0.17084416  0.          0.        ]
+Thomas Gärtner
+[ 0.          0.          0.23564078  0.        ]
+Balázs Kégl
+[ 0.          0.          0.          0.11773268]
+Eero P. Simoncelli
+[ 0.          0.          0.07647225  0.        ]
+Alon Orlitsky
+[ 0.  0.  0.  0.]
+Arno J. Knobbe
+[ 0.10679231  0.          0.          0.03830414]
+Barnabás Póczos
+[ 0.13427832  0.          0.          0.01867557]
+Hao Wang
+[  0.00000000e+00   2.05055329e-01   0.00000000e+00   1.44700549e-16]
+Xiaoli Li
+[ 0.00559251  0.07274376  0.          0.        ]
+ChengXiang Zhai
+[ 0.          0.18016588  0.          0.        ]
+Céline Robardet
+[ 0.14935507  0.          0.          0.        ]
+Michail Vlachos
+[ 0.          0.0064328   0.          0.27392671]
+Hiroshi Motoda
+[ 0.          0.          0.          0.10582805]
+Yu Zheng
+[ 0.          0.18647522  0.0700652   0.07253484]
+ErHeng Zhong
+[ 0.          0.15450934  0.          0.        ]
+Risto Miikkulainen
+[ 0.04876896  0.          0.          0.        ]
+Qi Liu
+[ 0.          0.20026612  0.          0.        ]
+Tomoharu Iwata
+[ 0.          0.          0.09809127  0.08350787]
+Mohamed S. Kamel
+[ 0.  0.  0.  0.]
+Dit-Yan Yeung
+[ 0.          0.02427008  0.          0.11515293]
+Andreas Hotho
+[ 0.  0.  0.  0.]
+Sham M. Kakade
+[ 0.54391036  0.          0.          0.        ]
+Larry A. Wasserman
+[ 0.10561112  0.          0.          0.05558711]
+Sriraam Natarajan
+[ 0.          0.          0.16151117  0.        ]
+Li Guo
+[ 0.          0.10515563  0.          0.00013814]
+Rocco A. Servedio
+[ 0.04178625  0.0273521   0.          0.        ]
+Craig A. Knoblock
+[ 0.  0.  0.  0.]
+Shih-Fu Chang
+[ 0.          0.          0.          0.10537814]
+Bo Liu
+[ 0.          0.22878113  0.04283554  0.        ]
+Yair Weiss
+[ 0.1781574  0.         0.         0.       ]
+Irwin King
+[ 0.          0.          0.          0.17487368]
+Raymond T. Ng
+[ 0.         0.1051059  0.         0.0137132]
+Dengyong Zhou
+[ 0.01821357  0.          0.242977    0.11113064]
+Qi Li
+[ 0.          0.329753    0.          0.01080461]
+Dominik Janzing
+[ 0.          0.          0.12601485  0.        ]
+James M. Bower
+[ 0.  0.  0.  0.]
+Jinbo Bi
+[ 0.          0.          0.          0.23267075]
+Mark Last
+[ 0.  0.  0.  0.]
+Claudia Perlich
+[ 0.         0.1365052  0.         0.       ]
+Serge J. Belongie
+[ 0.05689691  0.          0.          0.        ]
+Sethu Vijayakumar
+[ 0.          0.          0.          0.10572586]
+Ricardo Vilalta
+[ 0.          0.          0.          0.08896336]
+Ulf Brefeld
+[ 0.          0.          0.12944986  0.        ]
+Cyrus Shahabi
+[ 0.          0.02260408  0.          0.        ]
+Alexander T. Ihler
+[  1.28209009e-01   3.46841892e-02   0.00000000e+00   5.32662543e-17]
+Eibe Frank
+[ 0.          0.04983884  0.          0.        ]
+Frans Coenen
+[ 0.  0.  0.  0.]
+Douglas H. Fisher
+[ 0.          0.          0.06605748  0.        ]
+Vasant Honavar
+[ 0.  0.  0.  0.]
+Yisong Yue
+[ 0.          0.          0.05662625  0.        ]
+Hwanjo Yu
+[ 0.          0.07184841  0.          0.        ]
+Carlos Ordonez
+[ 0.  0.  0.  0.]
+Xue Li
+[ 0.02839073  0.00435343  0.          0.        ]
+Gal Chechik
+[ 0.22620458  0.          0.          0.        ]
+Christopher Meek
+[ 0.06889377  0.          0.06653482  0.04237965]
+Susan T. Dumais
+[ 0.          0.00353517  0.05437789  0.        ]
+Sugato Basu
+[ 0.          0.09786066  0.19604079  0.00324496]
+Motoaki Kawanabe
+[ 0.          0.          0.15968603  0.        ]
+Carl Edward Rasmussen
+[ 0.          0.          0.1473059   0.01515478]
+Christopher Leckie
+[ 0.          0.          0.          0.10930209]
